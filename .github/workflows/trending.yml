@@ -14,6 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 feed/trending.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Publish changes
         run: |
           git config user.name 'github-actions[bot]'
