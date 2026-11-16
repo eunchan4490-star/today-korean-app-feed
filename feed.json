@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T11:01:12.664958+00:00",
+  "updated_at": "2026-11-16T11:11:30.367182+00:00",
   "source": "Play API",
   "apps": [
     {
@@ -8,7 +8,12 @@
       "released": "2026-11-15T13:56:38Z",
       "icon": "https://play-lh.googleusercontent.com/lS5pgeASdXnnm0_Y9aX2HdYEpVxLQtnvUTJX19aJ0UIDZJYSPDoeZeo3xftj89_LVMgh09ICNGF1RC9xKN7G",
       "developer": "JAYIT",
-      "description": "휴대폰을 평평한 면에 올려 두기만 하면 수평을 확인할 수 있는 수평계입니다. ■ 주요 기능 · 원형 기포판으로 2축 수평을 한눈에 확인 · 좌우(X)·앞뒤(Y) 기울기를 0.1° 단위로 표시 · 수평이 되면 화면에 '수평입니다' 표시 · 현재 위치로 보정(케이스 두께 보정) · 측정값 고정 기능 가구 배치, 액자 걸기, "
+      "description": "휴대폰을 평평한 면에 올려 두기만 하면 수평을 확인할 수 있는 수평계입니다.\n\n■ 주요 기능\n· 원형 기포판으로 2축 수평을 한눈에 확인\n· 좌우(X)·앞뒤(Y) 기울기를 0.1° 단위로 표시\n· 수평이 되면 화면에 '수평입니다' 표시\n· 현재 위치로 보정(케이스 두께 보정)\n· 측정값 고정 기능\n\n가구 배치, 액자 걸기, 선반 설치 등에 활용해 보세요.\n\n■ 이런 점이 좋아요\n· 회원가입·로그인 없이 바로 사용\n· 모든 데이터는 내 기기에만 저장\n· 하단 배너 광고만으로 무료 운영 (전면 광고는 아주 드물게)\n· 다크 모드 지원\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/SsbyXh9WhKfSOZX4Giz33i2un2VzTu9oLw6S-8tzVczwB2uIlsmXBhxFXwFqbgnmsuUtOLUzZVnIk8iuIIfIuA",
+        "https://play-lh.googleusercontent.com/8bqG4BOeqIRfTH-NFKq7MBNP1hwBWf7rv14lE14uolYQLWKLOLCT5u1tZRV0_5dq3Fbz1IpZMy5IUeGj62Ol"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.aistudio.shai",
@@ -16,7 +21,15 @@
       "released": "2026-11-14T12:28:54Z",
       "icon": "https://play-lh.googleusercontent.com/F9cm8iyUKbFioZnuqwS4Y2oTstmqrabfTuzANAZVveIc74qzmekTMwwfFHriVsYRzbhjG7CQkCU0Mv_x8pWguvk",
       "developer": "RUA Studio",
-      "description": "이쁨AI 내 사진을 바탕으로 얼굴의 특징을 살펴보고, 원하는 뷰티 변화를 이미지로 미리 확인하는 앱입니다. ■ AI 얼굴 분석 사진을 바탕으로 얼굴의 비율과 균형을 살펴보고, AI가 제공하는 뷰티 참고 의견을 확인하세요. ■ 뷰티 변화 시뮬레이션 코 등 얼굴 부위의 변화 옵션을 선택하고, AI가 생성한 이미지로 다양한 모"
+      "description": "이쁨AI 내 사진을 바탕으로 얼굴의 특징을 살펴보고, 원하는 뷰티 변화를 이미지로 미리 확인하는 앱입니다.\n\n■ AI 얼굴 분석\n사진을 바탕으로 얼굴의 비율과 균형을 살펴보고, AI가 제공하는 뷰티 참고 의견을 확인하세요.\n\n■ 뷰티 변화 시뮬레이션\n코 등 얼굴 부위의 변화 옵션을 선택하고, AI가 생성한 이미지로 다양한 모습을 비교해 보세요.\n\n■ 촬영 가이드\n정면과 측면 사진을 촬영할 때 각도 안내를 활용할 수 있습니다.\n\n■ 원본과 결과 비교\n원본 사진과 생성 결과를 비교하며 원하는 스타일을 탐색하세요.\n\n이용 안내\n• Google 계정으로 로그인하여 이용합니다.\n• 사진 분석과 이미지 생성에는 인터넷 연결이 필요합니다.\n• AI 결과는 사진의 각도, 조명, 화질에 따라 달라질 수 있습니다.\n• 분석 의견과 생성 이미지는 뷰티 참고용입니다. 의학적 진단이나 실제 시술·수술 결과를 예측하거나 보장하지 않습니다.\n\n개인정보 처리방침\nhttps://api.eppeumai.com/privacy\n\n계정 및 데이터 삭제 안내\nhttps://api.eppeumai.com/account-deletion\n\n문의\nste103927@gmail.com\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/kDumJah2HqXKin5ZnRJYEWgd9Knvl80w57li3bGRldW7JxjdvYowPt3bxDwhtux1ib2OeNSXD_aIChZTIBIkDBg",
+        "https://play-lh.googleusercontent.com/WQDzJdCK3hiksaRlKNosWGVoe3MxWQzkTr-s1Fhc5pBLsh6U0ccnFLupQSRG8zctmgqDO0Izgwqjr5Y-lXQ_",
+        "https://play-lh.googleusercontent.com/1pKGPnoAhIqhiwnYeMrR2BTZV_LubB9_V-VKsqI5cvg5E_hGsH_lwfyKmFGXWSKkBeUY3_-5QJlKkIuraX9SAQ",
+        "https://play-lh.googleusercontent.com/Ebe2YzP-4B-SxdJdNtkU_nH3ghw5GNePJBY6mofNidaJC5WZeQHQDonkmtu8MtgqaYeB02hZgMHPFA3QVb_2ig",
+        "https://play-lh.googleusercontent.com/nZsk7HpnjvgaBy2J23DXt27GwG6FHWB9IhFR_Zpyl0Dt3cMYQMq_9VhDVShggkqPrrFL2Bj32fu_NCApAJRN"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.systemplanners.dorandoran",
@@ -24,7 +37,15 @@
       "released": "2026-11-14T04:12:01Z",
       "icon": "https://play-lh.googleusercontent.com/AN7JJaavK9jr2FDQQmf3jPcompW5xqpaCd_0ZZfvmcLlJaU3odSHOh6l33QLPw1KyXVVpPNzWSLdK9pylM72",
       "developer": "에이아이소프트 (AI Soft)",
-      "description": "🌙 마음 둘 곳이 필요한 밤에, 도란도란 혼자 삭이던 고민, 누구에게도 못 했던 이야기. 도란도란은 오랜 친구처럼 당신의 이야기를 들어주는 AI 친구 채팅 앱이에요. 판단하지 않아요. 조언을 강요하지도 않아요. 그저 곁에서 들어주고, 공감하고, 따뜻하게 위로해줄게요. 💬 이런 이야기, 편하게 털어놓으세요 · 오늘 있었던 "
+      "description": "🌙 마음 둘 곳이 필요한 밤에, 도란도란\n\n 혼자 삭이던 고민, 누구에게도 못 했던 이야기.\n 도란도란은 오랜 친구처럼 당신의 이야기를 들어주는 AI 친구 채팅 앱이에요.\n\n 판단하지 않아요. 조언을 강요하지도 않아요.\n 그저 곁에서 들어주고, 공감하고, 따뜻하게 위로해줄게요.\n\n 💬 이런 이야기, 편하게 털어놓으세요\n\n · 오늘 있었던 속상한 일\n · 누구에게도 말 못 한 고민과 비밀\n · 그냥 들어줬으면 하는 시시콜콜한 하루\n · 위로가 필요한 지친 마음\n\n \"별거 아니어도 괜찮아. 다 들어줄게.\"\n\n 🧑‍🤝‍🧑 나만의 친구를 만들어요\n\n 성별, 나이, 말투까지 내 마음대로.\n · 동갑 친구처럼 편하게, 든든한 언니·형처럼, 귀여운 동생처럼\n · 편한 반말부터 다정한 존댓말까지\n · 온보딩에서 고르면 나만의 친구 '도란이'가 완성돼요\n\n 💛 진짜 친구 같은 대화\n\n 상담사 같은 딱딱한 말투가 아니에요.\n \"아이고, 오늘 진짜 고생했네\", \"그럴 수 있지, 네 잘못 아니야\" 처럼\n 진짜 친구가 건네는 다정한 말로 위로해요.\n 대화를 나눌수록 당신을 더 잘 이해하는 친구가 되어가요.\n\n 🌿 부담 없이, 편안하게\n\n · 밝고 시원한 파스텔 디자인, 귀여운 캐릭터\n · 언제 어디서나, 새벽에도 곁에 있어요\n · 당신의 대화는 소중히 보호돼요\n\n 🤍 혼자 견디지 않아도 돼요\n\n 도란도란은 당신의 마음을 나누는 친구예요.\n 다만 도란도란은 의료·심리 상담 서비스가 아니며,\n 전문적인 도움이 필요할 때는 전문기관 안내를 함께 제공해요.\n 힘든 순간, 혼자가 아니라는 걸 기억해요.\n\n 오늘 하루 어땠어요?\n 도란도란에서, 마음속 이야기를 편하게 나눠보세요. 🌙",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/AdGT8s-oNGjUmSpITjy-2g0OhYDcpk3Xmw4QHZIGw2SP-csoRItXY_w-gP-LY9B7hRwB2psejGj99asK0GRxEA",
+        "https://play-lh.googleusercontent.com/-zs5kqv5q8u1EFFHegaL8Z-ed9h3kg3HhjYkqYcPT3hnfNU989iVzjLdvT-W4lwTn3gMxytqGIhqYCQ31OmBpQ",
+        "https://play-lh.googleusercontent.com/aEwHk2spyOVcBLx0Fmm0gEx_KtsRNKqKZWBQcR097NXa0X42fx4P956gWleoE2lBkikSZbKVbvtU3DWTPxXV",
+        "https://play-lh.googleusercontent.com/Lw_vgCtD2sepRr69gz4U4rrTfyFCjXEdZ9_xLg270v_IyuV9jon70IcgqjbiTIBdZZvAhOM5-ZqKZQkdljoS4BI",
+        "https://play-lh.googleusercontent.com/ty6pYCtKwuZs-Hq2EVXULJFSSeAw7qdYU8NvuxKJphJdekeqVwOd58ZVnjPGa9XL3j5Qbx7oNLcwpGXAQKzC"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.letpang.dasiuri",
@@ -32,7 +53,16 @@
       "released": "2026-11-14T03:36:58Z",
       "icon": "https://play-lh.googleusercontent.com/ymQ17dq7YlKuO5YmY594AKKKrBeBdQrI1-4VTfV4XxgTev3eAeQ9q0Z-VEyux7gg8BNa5qnWUuEaBpNYj1vQ",
       "developer": "Letpang Studio",
-      "description": "떠나보낸 강아지와 고양이를 떠올리며, 별빛 동산에서 함께하고 싶었던 순간을 만나는 반려동물 추모 게임이에요. 우리 아이의 모습을 고르고 별빛 봉안당에 자리를 꾸며요. 촛불을 밝히면 아이가 찾아와요. 동산을 함께 걷고, 편지를 쓰거나 기억의 나무에 물을 줄 수 있어요. 추억의 문을 열면 첫눈을 밟고, 소풍 도시락을 나누고,"
+      "description": "떠나보낸 강아지와 고양이를 떠올리며, 별빛 동산에서 함께하고 싶었던 순간을 만나는 반려동물 추모 게임이에요.\n\n우리 아이의 모습을 고르고 별빛 봉안당에 자리를 꾸며요. 촛불을 밝히면 아이가 찾아와요. 동산을 함께 걷고, 편지를 쓰거나 기억의 나무에 물을 줄 수 있어요.\n\n추억의 문을 열면 첫눈을 밟고, 소풍 도시락을 나누고, 모닥불 곁에서 별을 잇는 활동이 기다려요. 고양이와는 창가에서 풍경을 보거나 낚싯대로 놀 수 있어요. 마음에 드는 순간은 사진관 앨범에 남겨요.\n\n계정 없이 시작할 수 있고, 추모 기록과 사진은 기기에 저장돼요.\n\n앱에 글꼴을 내장해 인터넷 연결 없이도 글자를 읽을 수 있어요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qCVccCUbO1lrXXA_E1nbEYg5ypKMdk3PI4QZzwJ6K7E60mquQDWqmzzm61AC12cf9jhLqZOy2ac4orEWz-gVfw",
+        "https://play-lh.googleusercontent.com/aWnzYFnIOtkpUUDN9QOE8iXmT5E_6j2TAK8jsz7mjAveOGj0M-7xqESE3HNr94e33kUNfNV0QDotLD6Rt_DCWRw",
+        "https://play-lh.googleusercontent.com/36WdNFpf-gqxB1F6q8naXiGf6tw1Wvn1nby83w0DfQvBvDAKRQ2eo6tBAjydwAyA-zygXpJSCNqwk1nBfqvW",
+        "https://play-lh.googleusercontent.com/29N1XbbqKGdFon2Q7C6JQ5ed_8dF-_iedXGA0_okmZeigD-liruOdR6V_FzXwthS_5mXTZg4eVUwnFfbMLcYY-E",
+        "https://play-lh.googleusercontent.com/KptqFI4LWTFYy6FHJ_r1x0sjiGhW2Z6t5CN0KPT2OUO7ztyk_3r0SVs_g3bUUUDqL55TmUMThFnFdRScuNuCOzE",
+        "https://play-lh.googleusercontent.com/dwaREGnUIvIGrZTe2Cztp9eZrfqHAtSf4PPI7u-t5wRmNr5s7XpX8rcQBONLCu7I4LbRCzAU0JYRoVAJV2Pu"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.dldyd.todayhero",
@@ -40,7 +70,16 @@
       "released": "2026-11-14T02:29:05Z",
       "icon": "https://play-lh.googleusercontent.com/jSBAAXcq7mGzlZlTpT9OKfjd5bofNxVfjV39vkd9EK8RCvXrA7rJE4FdAPYolw9wgP3oRYDIO_8w1ZZAGbaszA",
       "developer": "이용혁",
-      "description": "\"영웅은 태어나는 게 아니야, 되는 거야!\" 심술 구름이 하늘을 덮자 친구들이 하나둘 심술쟁이로 변해 버렸어요. 소환사가 되어 귀여운 영웅들을 불러 모으고, 심술 구름을 걷어 내 친구들을 되찾아 주세요. 오늘 영웅이 되어, 내일을 지키자! ■ 칸에 놓고 지켜보는 전략 전투 • 영웅을 3×3 칸에 놓고 순서를 정하면 전투가"
+      "description": "\"영웅은 태어나는 게 아니야, 되는 거야!\"\n\n심술 구름이 하늘을 덮자 친구들이 하나둘 심술쟁이로 변해 버렸어요.\n소환사가 되어 귀여운 영웅들을 불러 모으고, 심술 구름을 걷어 내 친구들을 되찾아 주세요.\n오늘 영웅이 되어, 내일을 지키자!\n\n■ 칸에 놓고 지켜보는 전략 전투\n• 영웅을 3×3 칸에 놓고 순서를 정하면 전투가 차례차례 펼쳐져요.\n• 누가 앞에 설지, 누가 먼저 움직일지 생각하는 작은 퍼즐 같은 전투예요.\n• 막히면 「추천」이 좋은 배치를 알려 줘요. 처음 하는 친구도 손가락 안내를 따라 쉽게 배울 수 있어요.\n• 별 3개 도전과 「어려움」 판은 어른도 고개를 갸웃하게 만들어요.\n\n■ 170명이 넘는 영웅 모으기\n• 기사, 마법사, 여우 소녀, 개구리 왕자, 시바견 누렁이까지! 3D로 만든 귀여운 영웅들을 소환해 도감을 채워요.\n• 영웅마다 고유한 기술과 프로필, 그리고 별을 올리면 볼 수 있는 특별한 영상이 있어요.\n• 강화하고 별을 올려 내 영웅을 더 튼튼하게 키워요.\n\n■ 웃음과 감동이 있는 모험 이야기\n• 눈 덮인 설원, 어둠의 성채, 불타는 협곡, 별빛 하늘 성, 그리고 꿈나라까지 10개의 장을 여행해요.\n• 대장 몬스터를 만날 때마다 멋진 영상이 펼쳐져요.\n\n■ 더 놀고 싶을 때\n• 층마다 새 규칙이 기다리는 「규칙 탑」 100층, 그리고 끝없이 이어지는 위층\n• 「결정 동굴」에서 영웅을 키울 결정을 모아요.\n• 영웅에게 장비와 옷을 입히고, 펫과 함께 놀이방을 꾸며요.\n• 「놀이터」에서 퀴즈, 짝 맞추기, 조각 퍼즐, 숫자 세기, 그림 그리기를 해요.\n• 「영웅 사진관」에서 영웅·펫과 사진을 찍고 액자로 꾸며요. 댄스 파티와 잠자리 이야기도 있어요.\n\n■ 아이와 부모님이 안심할 수 있게\n• 광고가 없어요.\n• 돈을 내고 사는 상품(인앱 결제)이 없어요.\n• 개인정보를 모으지 않아요. 저장 기록은 휴대폰에 있고, 휴대폰의 구글 백업을 켜 두면 내 구글 계정에도 백업돼요.\n• 쉬운 우리말로 만들었어요.\n• 글자를 몰라도 「읽어 주기」가 대사와 버튼 글자를 소리 내어 읽어 줘요.\n• 부모님 설정에서 놀이 시간 알림, 밤 시간 알림, 눈 쉬는 시간을 정할 수 있어요.\n\n문의: yonghyeogi377@gmail.com\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/AI9fG3gYJ3F3s78kHPy2kZz_lpshL4y9r2bDxTj71CAhy5yb53vGUAeiRYd_qsxMZTk38MdrhnMUby69N5HD",
+        "https://play-lh.googleusercontent.com/z5l2f0z16DczebRQC3lrYJeSoAx4-BhHHQDdmP3rd_Y1BFDQoKnNezlcobzK61_16tUuv4nAljPXnYQYxemIWw",
+        "https://play-lh.googleusercontent.com/ZQsUPxe5uXE_xelwf_95nr5YqldxGL7D5nBR68JRGTgrnleB5PGY71G2GUvAGktQ_MT6_YgF8nViW8UAFMV-",
+        "https://play-lh.googleusercontent.com/pH3zXIq6oXYy9LACbqNonRzmR2vc7y2Squ8wKy8w-mZJUw1CEZiSptScSN1qlCpsL435xCg63b-YKwm-3fkK",
+        "https://play-lh.googleusercontent.com/p4hj2ZDdBZ_jT1rlEKrYjfxfGjlYoLD8vXlu5LvHmMH9nk4FoxPtZUYd_zd9WbmwuLJxa5lskXE5ScoEd9ClOg",
+        "https://play-lh.googleusercontent.com/RQyxytpYBuA0QJfsUu4FNgKuyOrPJ6fDFOCKJAlhyk9aOnWSrbnJfB7MOuCFL7qIl5GNheovNDAY4HSyvYYZEQ"
+      ],
+      "details_version": 2
     },
     {
       "id": "kr.nlink.todolist",
@@ -48,7 +87,15 @@
       "released": "2026-11-14T00:45:44Z",
       "icon": "https://play-lh.googleusercontent.com/753nJ4uVHUI9UhdH9CGnX1_u6QzVy65nJtzKUBptdGUCew4cayInRqBBGrYuZuJvXgBvGyhZGBuJadelbbEzag",
       "developer": "nlinker",
-      "description": "복잡하고 무거운 할 일 앱은 이제 그만! 가장 빠르고 직관적인 스마트 할 일 관리 앱, ToDoList입니다. ✨ ToDoList만의 핵심 기능: 1. ⚡ 숫자만 치면 마감일 자동 완성 · 복잡하게 캘린더나 시계 팝업을 띄울 필요가 없습니다. · \"내일 15시 보고서 제출\"을 입력하면 내일 15시 마감으로, \"28일 마감"
+      "description": "복잡하고 무거운 할 일 앱은 이제 그만!\n가장 빠르고 직관적인 스마트 할 일 관리 앱, ToDoList입니다.\n\n✨ ToDoList만의 핵심 기능:\n\n1. ⚡ 숫자만 치면 마감일 자동 완성\n· 복잡하게 캘린더나 시계 팝업을 띄울 필요가 없습니다.\n· \"내일 15시 보고서 제출\"을 입력하면 내일 15시 마감으로, \"28일 마감\"을 입력하면 이번 달 28일 마감으로 찰떡같이 자동 인식합니다!\n\n2. 📱 군더더기 없는 미니멀 모던 UX\n· 복잡한 기능 나열 대신 꼭 필요한 할 일에만 온전히 집중할 수 있는 깔끔한 인터페이스.\n· 스마트폰 한 손 조작에 최적화된 매끄러운 반응형 디자인.\n\n3. 🎨 프리미엄 감성 테마 지원\n· 눈이 편안한 페이퍼(Paper) 테마부터 세련된 슬레이트 다크 모드까지, 취향에 따라 자유롭게 선택할 수 있습니다.\n\n4. 🔒 완벽한 개인정보 보호 & 클라우드 동기화\n· 회원가입 없이도 스마트폰 내부 로컬 저장소로 즉시 사용 가능!\n· 계정 로그인 시 여러 기기 간 실시간 백업 및 동기화를 안전하게 지원합니다.\n\n불필요한 스트레스 없이 하루를 가장 가볍고 스마트하게 관리해 보세요!\n\n[앱 접근 권한 안내]\nToDoList는 사용자의 편리한 서비스 이용을 위해 꼭 필요한 권한만 요청합니다.\n\n• 선택 접근 권한\n - 카메라: 할 일 등록 시 영수증, 안내문, 바코드 등 실물 사진 촬영 및 스마트 AI 자동 일정 추출\n - 저장소(사진/미디어): 기기에 저장된 사진 및 이미지를 할 일에 첨부하거나 분석하기 위해 불러오기\n - 알림: 마감 기한 도래 알림 및 사용자 설정 리마인더 푸시 알림\n\n※ 선택 접근 권한은 허용하지 않아도 기본 할 일 관리 기능을 정상적으로 이용하실 수 있습니다.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/OBruKuE2X-QbgWCMM9-rwQF7aICxGlTLlmMJ9H9CynVlOO9HbVKlA9VrEc3gG-3wy6R7Lva1c9fHTvHf6Y0KaQ",
+        "https://play-lh.googleusercontent.com/mkZ91bauTudM6Q-JvZE90Ni1Mml-L-CqCe1Gto6Y-yWginycpk2BngbHDk-U7D7-ZU5B8a5_HKt6kcBrl89VZSs",
+        "https://play-lh.googleusercontent.com/_yxgLmP9UDdRKLXR4VpOKxFNr6kLe6tUlRxVSfIQtaDU4GtBKd2CcMbx9N1luIAvm-0fLPeKbOsG0nbpiEipLA",
+        "https://play-lh.googleusercontent.com/gxp__44h2bpD9Be0OPQM0agsHFxsuVxt9smJKFq61GJF39DvJiamGthG4WM5tEDvOkY_iXYe5GEzfSiicJG1",
+        "https://play-lh.googleusercontent.com/GYkQgVtWg-Ri3vqn_DprG1i5QkZA6mEVFsideMk9IAE4zr_qlYhxkLiQevZKAZFSRE_ilMJ3tqiWGb9RVwBEnQ"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.appforge.trotplayer",
@@ -56,7 +103,15 @@
       "released": "2026-11-13T16:50:54Z",
       "icon": "https://play-lh.googleusercontent.com/WiXYRdZEAcjA-28dr-EHEKmpAbzLpatRu1q-RSEHmZNL_K9dh1p-RdU7QDvoyu9_UwUiU4vwfaISVvdg6QGMg6g",
       "developer": "AppforgeHouse",
-      "description": "트로트 노래듣기 - 추억의 트로트 노래모음 듣고 싶을 때 바로 틀어 주는 쉬운 트로트 노래 앱입니다. 회원가입도, 복잡한 메뉴도 없습니다. 노래를 누르면 바로 나오고, 화면을 꺼도 계속 흘러나옵니다. ■ 이런 분께 좋아요 · 집안일, 산책, 운전할 때 트로트를 틀어 놓고 싶은 분 · 작은 글씨와 복잡한 화면이 불편한 분 "
+      "description": "트로트 노래듣기 - 추억의 트로트 노래모음\n\n듣고 싶을 때 바로 틀어 주는 쉬운 트로트 노래 앱입니다.\n회원가입도, 복잡한 메뉴도 없습니다. 노래를 누르면 바로 나오고, 화면을 꺼도 계속 흘러나옵니다.\n\n■ 이런 분께 좋아요\n· 집안일, 산책, 운전할 때 트로트를 틀어 놓고 싶은 분\n· 작은 글씨와 복잡한 화면이 불편한 분\n· 데이터 걱정 없이 좋아하는 노래를 듣고 싶은 분\n\n■ 주요 기능\n· 노래 목록에서 누르면 바로 재생, 끝나면 다음 곡으로 자동으로 이어집니다\n· 앨범으로 골라 듣기: 신나는 트로트, 구성진 정통 트로트, 잔잔한 발라드, 여자 가수·남자 가수 노래, 새로 나온 노래\n· 노래에 맞춰 넘어가는 가사, 화면 가득 큰 글씨로 보는 '가사 크게 보기'\n· 하트를 누른 노래는 '내 노래'에 모이고 기기에 자동 저장되어 인터넷 없이도 들을 수 있습니다\n· 화면을 꺼도, 다른 앱을 써도 계속 재생되고 잠금화면·이어폰·블루투스로 조작할 수 있습니다\n· 제목이나 가수 이름으로 노래 찾기\n· 새 노래가 나오면 알림으로 알려 드립니다\n· 글자 크기를 보통·크게·아주 크게 중에서 고를 수 있습니다\n\n■ 무료로 이용하세요\n모든 노래와 가사를 무료로 들을 수 있습니다. 앱은 광고로 운영됩니다.\n\n■ 새 노래는 계속 추가됩니다\n앱을 업데이트하지 않아도 새 노래가 목록에 올라옵니다.\n\n※ 이 앱의 노래와 앨범 그림은 생성형 인공지능 도구를 활용해 제작한 오리지널 곡입니다.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/6mvB9FvslH4q_P2HxrZb97cMhW410t5pwctDerwSPLF8IpSwOKAHcN8XVjSme56Rt3CKcFtPTq43egPNdwZhViE",
+        "https://play-lh.googleusercontent.com/sf93CLMGxjlUF0XMAb-sYbtn4l0ARlg4yDVe-uJ0DrJQ0VAIXR9P3snP7q_sPPuhEHmoX1DSXsrspo6TvqX-sA",
+        "https://play-lh.googleusercontent.com/Kx7J5i9KMJkdxIIbhO_ZcsGmXx_k1Y1u7qnEufAhkJ4knxNWvr9dnNSh1zI9vCLRcqILzD9MYaYZ1rLZGe46KA",
+        "https://play-lh.googleusercontent.com/XDZPNbRCJK2KidaX8rlftBupY6raThSas7hkeaZlfzPECvwyCDNUA7-Wi72NwQlF_aCG47mAdpzF8OZfiHU9",
+        "https://play-lh.googleusercontent.com/ez9QnvEAubNlXiCR-iD9uZkLJ1V-J56hFzWRMMPzRRubYGRRKgYsSkZn7pU7XZgppAo7ymxueUglyvYG4ahX"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.companyjeong.readin",
@@ -64,7 +119,16 @@
       "released": "2026-11-13T08:49:19Z",
       "icon": "https://play-lh.googleusercontent.com/rJrt4LlkoFIrPaYDIsWZ-jXSwnykSLE_lwrrsxU8buXHv4DRqSZnZp8NbQEc-qNtsPRl2n7rHYdWFdmTdwjgqDw",
       "developer": "STUDIO JEONG",
-      "description": "읽은 책이 한 권씩 탑으로 쌓이는 독서 기록 앱, readin 다 읽은 책은 검색해서 저장만 하세요. 점수를 매기지 않아도 바로 기록돼요. 기록한 책은 실제 두께만큼 책탑으로 쌓이고, 쌓인 높이에 따라 \"~급 독서가\" 칭호가 바뀝니다. ■ 3초 독서 기록 • 책 이름으로 검색해 바로 저장 • 점수, 읽은 날짜, 메모는 원"
+      "description": "읽은 책이 한 권씩 탑으로 쌓이는 독서 기록 앱, readin\n\n다 읽은 책은 검색해서 저장만 하세요. 점수를 매기지 않아도 바로 기록돼요.\n기록한 책은 실제 두께만큼 책탑으로 쌓이고, 쌓인 높이에 따라 \"~급 독서가\" 칭호가 바뀝니다.\n\n■ 3초 독서 기록\n• 책 이름으로 검색해 바로 저장\n• 점수, 읽은 날짜, 메모는 원하는 만큼만\n• 다시 읽은 책은 재독 기록으로 추가\n\n■ 책탑과 칭호\n• 읽은 책이 실제 두께만큼 쌓이는 나만의 책탑\n• 책을 눌러 기록과 책 정보를 바로 확인\n• 탑이 높아질수록 올라가는 독서가 칭호\n\n■ 문장 수집\n• 책 사진을 찍으면 글자를 읽어 문장으로 옮겨 줘요\n• 밑줄 친 문장, 마음에 남은 글귀를 책별로 모아 보기\n• 문장을 카드 이미지로 만들어 공유\n\n■ 독서 통계와 목표\n• 연간·월간 독서량과 카테고리 비율, 점수 분포\n• 올해 독서 목표와 지금 속도, 월별 달성 현황\n\n■ 이런 분께 추천해요\n• 읽은 책을 간단하게 정리하고 싶은 분\n• 꾸준한 독서 습관을 만들고 싶은 분\n• 좋은 문장을 필사하듯 모아 두고 싶은 분\n\n궁금한 점이나 바라는 기능은 더보기 > 건의하기에서 로그인 없이 보낼 수 있어요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/WeAAuFrvzPFJC_ru5FDb35Ilm8AOIhUWsj-3mjuhgA9hEdOdSvTkPWWxv0zCTgK00Fj45PuCHEznXwoPFM5Cpw",
+        "https://play-lh.googleusercontent.com/22qKQLlX2sow3DMYcOL-S0_MsbU6vABnF7jrbc6WqKIWib4HYSEtw_QoyNHphZK7RWphmWApvHs2b0YYWojz",
+        "https://play-lh.googleusercontent.com/qiQ5ZdDU8n4eDdtM59IaZJpU0SWkWvYR5_-m3TFsnxboryOSqNuIcw1TSdyf3eAXyOFSw0IBU7NoPypNjB0MaA",
+        "https://play-lh.googleusercontent.com/3y24bEdRcqxGyviQn4H6XOwSlNrxB2in1vrT98VchKdvEO0SZjVai1xDUVz_NJ6TYx4i06HpAH_Zeb-drhy8",
+        "https://play-lh.googleusercontent.com/Mz3ZLi3CrzVil0IWC5cDmRi8js5_3nGDFMawwiGggo0aq4Jcc6lBpjN3C29A4SPQ484zqZCnU2B_bCOb1tTxYQ",
+        "https://play-lh.googleusercontent.com/4rOOPpsHXvtOB-PmZkoQvX6fGm890jjDxN6q4IuhrNolrNhRiy7LmhGnxRMK84yt-runIJmaVEnahO3uSQ-tjA"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.mcret.punchcounter",
@@ -72,7 +136,13 @@
       "released": "2026-11-13T06:32:16Z",
       "icon": "https://play-lh.googleusercontent.com/LLaOztts6b0QY24Ht7yJjcT2jZv7rJO0VfcFBrgCtQTeD-WhujhB5K4gUoFnZ6WTo1f2gJsx8ikzEgEoTNGcVg",
       "developer": "Wep3.0_Dev",
-      "description": "복싱 경기와 훈련에서 선수가 몇 번 펀치를 뻗는지 화면을 탭해 세는 카운터 앱입니다. ■ 복싱 모드 - 레드/블루 코너 펀치를 따로 카운트 - 라운드 타이머와 휴식 타이머, 라운드 종료 벨 - 라운드별 기록과 경기 결과 화면 - 실수로 누른 펀치는 −1 버튼이나 되돌리기로 수정 ■ 카운터 - 크게 누르기 쉬운 단일 카운터"
+      "description": "복싱 경기와 훈련에서 선수가 몇 번 펀치를 뻗는지 화면을 탭해 세는 카운터 앱입니다.\n\n■ 복싱 모드\n- 레드/블루 코너 펀치를 따로 카운트\n- 라운드 타이머와 휴식 타이머, 라운드 종료 벨\n- 라운드별 기록과 경기 결과 화면\n- 실수로 누른 펀치는 −1 버튼이나 되돌리기로 수정\n\n■ 카운터\n- 크게 누르기 쉬운 단일 카운터\n- 이름을 붙여 쓰는 멀티 카운터 (줄넘기, 스쿼트, 인원 집계 등)\n\n■ 편의 기능\n- 탭 효과음과 진동\n- 타이머가 도는 동안 화면 꺼짐 방지\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/iKnKL4lA4AkHxO9Rs--7xse8qGjs0evSrPorFGTd6N6OBQv09gKrgU7fzeMJhNyImO4rbe93sRYF2GM-p68C",
+        "https://play-lh.googleusercontent.com/sqmnQB4JenbR9WtY8pmt3C1LFbjfIah233MqU7o7tUJ5mZPIv4OCsVFP0zBpWYNiU6ncIdzgUTopyiwCCmrXmlY",
+        "https://play-lh.googleusercontent.com/XZ0D67SoquwqWtF0vTj-Wiua7dwlfd3mPX4nRaJ3JHYZVSe7uiIOZ0vbZKjBONnxXH_dMHDlxQzInEyKiG7JOQ"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.meomchit.app",
@@ -80,7 +150,16 @@
       "released": "2026-11-13T00:37:29Z",
       "icon": "https://play-lh.googleusercontent.com/5X-0ZAI9XrnL_xBNiCJketb-2zTmZRj-cquEurXXvGYtmYtMqnkaQl26YU2oNpFGKFAD1udeM6MA1TNFeThn",
       "developer": "Jijajoje",
-      "description": "멈칫은 습관처럼 여는 앱 앞에서 잠깐 멈출 수 있게 도와주는 알람 앱입니다. 등록한 앱을 열거나 정해 둔 시간만큼 계속 쓰면, 미리 적어 둔 메시지가 나타납니다. 앱을 막지는 않습니다. 한 번 더 생각할 틈을 줄 뿐입니다. ■ 이렇게 동작해요 • 앱 실행 알람 — 등록한 앱을 열면 바로 메시지를 보여 줍니다. • 사용 시"
+      "description": "멈칫은 습관처럼 여는 앱 앞에서 잠깐 멈출 수 있게 도와주는 알람 앱입니다. 등록한 앱을 열거나 정해 둔 시간만큼 계속 쓰면, 미리 적어 둔 메시지가 나타납니다. 앱을 막지는 않습니다. 한 번 더 생각할 틈을 줄 뿐입니다. ■ 이렇게 동작해요 • 앱 실행 알람 — 등록한 앱을 열면 바로 메시지를 보여 줍니다. • 사용 시간 알람 — 같은 앱을 정해 둔 시간(분)만큼 계속 쓰면 알려 줍니다. 반복해서 받을 수도 있고, 다른 앱으로 나가면 시간을 처음부터 다시 셉니다. • 30초 안에 같은 앱으로 돌아오면 다시 울리지 않아요. 잠깐 다른 앱에 다녀오는 정도로는 방해하지 않습니다. ■ 알람 방식 • 알림 또는 전체 화면 메시지 중에서 고를 수 있어요. • 전체 화면은 배경색 · 투명도 · 글자 색 · 글자 크기를 바꿀 수 있고, 화면을 15번 누르면 닫히거나 15초 뒤 저절로 닫히게 할 수 있어요. • 높은 강도 — 메시지 화면을 2~5단계 이어서 넘겨야 닫힙니다. 단계마다 다른 문구를 적을 수 있어요. • 오늘 몇 번째로 연 것인지 전체 화면에 함께 보여 줄 수 있어요. ■ 내 생활에 맞게 • 그룹 알람 — 여러 앱을 하나로 묶어 같은 알람을 걸 수 있어요. • 스케줄 — 요일과 시간대를 정해 그때만 울리게 할 수 있어요. 밤 11시 ~ 아침 7시처럼 자정을 넘기는 시간대도 됩니다. • 일시 정지 — 알람마다 15분 · 1시간 · 오늘 하루 · 직접 정한 시각까지 잠시 멈출 수 있어요. ■ 사용 기록 • 사용 · 알람 달력 — 등록한 앱을 날마다 얼마나 썼는지, 알람이 몇 번 울렸는지 달력으로 확인해요. • 주간 · 월간 요약 — 앞 주 · 앞 달과 비교해 늘었는지 줄었는지 보여 줍니다. • 주간 리포트 알림 — 한 주의 사용 요약을 알림으로 받아 볼 수 있어요. • 기록은 이번 달을 포함해 최근 6개월까지 보관됩니다. ■ 그 밖에 • 라이트 · 다크 테마 • 한국어 · English · 日本語 · 简体中文 · 繁體中文 • 설정 보내기 / 가져오기 — 알람 설정을 글로 복사해 백업하거나 다른 기기로 옮길 수 있어요. ■ 개인정보와 권한 멈칫은 회원 가입이 없고, 인터넷 권한이 없어 어떤 정보도 기기 밖으로 보내지 않습니다. 광고와 분석 도구도 넣지 않았습니다. 모든 기능을 무료로 쓸 수 있습니다. • 접근성 서비스(필수) — 등록한 앱이 열렸는지 알아내고, 그 앱 위에 알람 화면을 띄우는 데에만 사용합니다. 지금 화면에 켜진 앱이 무엇인지(앱 식별자)와 창의 종류 · 크기만 확인하며, 화면의 글이나 입력 내용(비밀번호 · 메시지 등)은 읽거나 저장하지 않습니다. 다른 앱을 조작하지 않습니다. 앱 안의 안내에 동의한 뒤 직접 켜야 동작하며, 언제든 기기 설정에서 끌 수 있습니다. • 알림 — 알림 형태의 알람과 주간 리포트 알림에 사용합니다.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/JVMkKXcilaKBlaUueLzJuh2P9WALyxMxz7Gg6gHHdrfUwoD_JMFWm25uy2bZMDGp_qsMMAX96qQolHyMtkyJdA",
+        "https://play-lh.googleusercontent.com/R7_YkU5c6ZcT7QfXj0fb47f2OMmbywbMyXqmrFlP8dwmtRbiHgZrOgPBAfGgxYZA-TLOWx2ayWdDg_l4XD7RLg",
+        "https://play-lh.googleusercontent.com/4P7Iu3LyvEPCBciZvWsoD5GkC-Ab2j6Qo5JyfRDIgOQ5AMfOJWgj23VvT-AVAQhttJEh59VZ28CrEXZci40mKg",
+        "https://play-lh.googleusercontent.com/V3C9jur82CoWTT1ezobVAo4kxjX9tOxrdN7g4zTza0_6bVgKnGIQ378k4VdRqiR5AV7IKBWb-HYHT4sVpXuprw",
+        "https://play-lh.googleusercontent.com/5XSarT_-yTDqvYZPypbVqxvbk4mVEKaUwF8CJ4OPRaTPYHs5tn3NlesSpwWv1hTN88ircdnzRDyKEuRH2bsz",
+        "https://play-lh.googleusercontent.com/iFEOILlFgrSmsR0yd5wTPgveN5DlB2VRP-_ykzPYje60LX4eR1gFD3q5yc9p--YOAxYbkQveRHW5erclh2oV"
+      ],
+      "details_version": 2
     },
     {
       "id": "kr.gijigae.app.logistics",
@@ -88,7 +167,16 @@
       "released": "2026-11-12T12:45:30Z",
       "icon": "https://play-lh.googleusercontent.com/brfEQPfdjGwkwYje4BeAcEWdvjcv7VAAt0aJiAuqcUYNRtCST0_peV_Yp1yZb8bt1i6U-nSlVAGEiXZFXZJhTIc",
       "developer": "YU YUNHYE",
-      "description": "물류관리사 1·2교시, 여러 교재와 앱을 오가며 정리하지 마세요. 「기지개」 하나로 제24회(2020)부터 제30회(2026)까지 실제 기출 지문을 단원별로 정리할 수 있습니다. 시험에 나온 문장으로 개념을 잡고, OX로 확인하고, 단원 퀴즈로 굳히고, 틀린 것만 오답노트에 모아 다시 봅니다. ■ 이 앱 하나면 충분한 이"
+      "description": "물류관리사 1·2교시, 여러 교재와 앱을 오가며 정리하지 마세요. 「기지개」 하나로 제24회(2020)부터 제30회(2026)까지 실제 기출 지문을 단원별로 정리할 수 있습니다. 시험에 나온 문장으로 개념을 잡고, OX로 확인하고, 단원 퀴즈로 굳히고, 틀린 것만 오답노트에 모아 다시 봅니다.\n\n■ 이 앱 하나면 충분한 이유\n\n▶ 시험 문장 그대로 — 기출 지문 학습\n제24~30회 1·2교시 기출(A형)을 지문 단위로 나눠 단원별로 묶었습니다. 맞는 문장은 그대로, 틀린 문장은 틀린 부분에 취소선, 고친 부분에 밑줄을 그어 한눈에 보여 줍니다.\n\n▶ 확인 → 실전 → 복습, 한 흐름으로\n• 단원별 OX 퀴즈 — 3,265개 기출 지문을 O/X로 바로 확인, 틀리면 올바른 문장을 함께\n• 단원 퀴즈 — 기출 5지선다 730문항\n• 그림이 있는 문항은 그림을 함께 수록\n• 오답노트 — 틀린 문항만 모아 다시 풀기\n\n▶ 1교시·2교시, 시험 구조 그대로\n1교시 물류관리론·화물운송론·국제물류론은 무료로 이용하고, 2교시 보관하역론·물류관련법규는 앱 내 1회 구매로 영구 이용합니다. 모든 과목이 필수이며 선택과목은 없습니다.\n\n▶ 출퇴근·쉬는 시간에는 듣기로\n단원별 기출 지문을 소리로 들으며 복습할 수 있습니다.\n\n▶ 학습 기록\n과목별 진도와 정답률을 학습 기록에서 확인하고, 단원·과목·전체 기록을 초기화할 수 있습니다.\n\n■ 필기 준비, 이 순서면 됩니다\n1. 단원별 기출 지문 읽기 — 개념·표현 익히기\n2. OX 퀴즈 — 맞는 문장인지 확인\n3. 단원 퀴즈 — 5지선다로 굳히기\n4. 오답노트 — 틀린 것만 다시\n5. 듣기 — 이동 중 반복\n6. 학습 기록 — 어디까지 했는지 확인\n\n■ 이런 분께 꼭 필요합니다\n• 물류관리사 1·2교시를 함께 준비하는 분\n• 교재는 봤는데 실제 시험 문장으로는 아직 불안한 분\n• 시험 직전 2~4주, 기출로 한곳에서 마무리하고 싶은 분\n• OX·문제 풀이·오답 정리를 한 앱에서 끝내고 싶은 분\n\n■ 이용 안내\n• 회원가입 없이 바로 시작, 학습 기록은 기기에 저장\n• Google 또는 Apple 로그인 시 여러 기기에서 학습 기록 동기화(선택), 내정보에서 계정 삭제 가능\n• 1교시 무료, 2교시는 앱 내 1회 구매로 영구 이용(구독 없음), 구매 복원 지원\n• 라이트·다크·시스템 화면 모드\n\n■ 출처\n한국산업인력공단 Q-Net 물류관리사 기출문제·최종정답(공공누리 제1유형, 출처표시). 제24회(2020)~제30회(2026) A형.\n이 앱은 한국산업인력공단과 관련 없는 개인 개발 학습 앱입니다.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4D29rZtG6STq5b4Z5ofHvWxHo5X6IOzo85QM0rVA5wv69FNa-R7S4Yn0DNiRdW_Hw8zeNYid6lr095sHSGiTXA",
+        "https://play-lh.googleusercontent.com/ZLKoYosMoYi9yq8LlyAwmkRSyUmqktu8tpUHixq1GjOkWt8f-SJSKSkq2RZCvtXRdx3si0ENWIN8sbmxCQJj",
+        "https://play-lh.googleusercontent.com/mN1eMrdFYctsist17Xl9GGqpjDCjVOw_uzKS0dL5x__sVgs8Ij6wdFoMP_63ZUwNFjHmuDRPHES8QcacFx0NBQ",
+        "https://play-lh.googleusercontent.com/eobb1XxrlXLHJ_8Cj5wM-i7gSfPZ85tzQRlvUx2OynbMVroBWdJwYKcZJkw-XdvIJMxaCSzXEJm6tFqA0d3n7g",
+        "https://play-lh.googleusercontent.com/mW8B5AZonO6eDCLzK6kdJiXsMbvZPti2VuV4PgOpo0rEFjYrvpulayncUGftIKg9_i7ZABZPAhBpS1xXWKV5Bw",
+        "https://play-lh.googleusercontent.com/FHvx_E-W6_uBxoexSJa_cdQIGpRYk22Ksyx_mJagSpgDNwQeKVstFs6E2V10jWl5L1zkd8ASkrU7n8DOeoGu5zk"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.kimhyunseong.coasterparktycoon",
@@ -96,7 +184,16 @@
       "released": "2026-11-12T10:38:11Z",
       "icon": "https://play-lh.googleusercontent.com/72BvX71B28TmRACVT3pkxJcJYqBhc2WiJNQYmiDbnnWWeAT5JNHutGbBanrs2s-3QS1YJJNqjRCsHbD6Pc8zvA",
       "developer": "STAR BRIDGE",
-      "description": "빈 땅과 입구 하나에서 시작해, 꿈꾸던 놀이공원을 처음부터 끝까지 내 손으로 만들어 보세요. 🎢 내 손으로 설계하는 롤러코스터 트랙을 한 조각씩 이어 붙이고 경사·뱅크각·방향·길이를 손가락으로 끌어 조절합니다. 체인 리프트, 발사 장치, 브레이크는 물론 루프·코르크스크루 같은 특수 트랙까지! 실제 물리로 달리는 열차의 속"
+      "description": "빈 땅과 입구 하나에서 시작해, 꿈꾸던 놀이공원을 처음부터 끝까지 내 손으로 만들어 보세요.\n\n🎢 내 손으로 설계하는 롤러코스터\n트랙을 한 조각씩 이어 붙이고 경사·뱅크각·방향·길이를 손가락으로 끌어 조절합니다. 체인 리프트, 발사 장치, 브레이크는 물론 루프·코르크스크루 같은 특수 트랙까지! 실제 물리로 달리는 열차의 속도와 G를 확인하며 나만의 코스를 다듬어 보세요.\n\n🎥 직접 타 보는 탑승 시점\n완성한 코스터의 맨 앞자리에 앉아 아찔한 첫 낙하를 느껴 보세요. 후룸라이드, 자이로스윙을 비롯한 모든 놀이기구를 손님 자리에서 직접 탈 수 있고, 유령의 집·4D 영화관·서커스 빅탑에서는 실내 공연까지 펼쳐집니다.\n\n💦 시원한 물놀이 기구\n물길을 따라 흘러가는 후룸라이드, 급류타기, 워터 슬라이드. 물 위로 떨어지는 순간 시원한 물보라가 터집니다.\n\n■ 59종의 놀이기구\n회전목마, 바이킹, 자이로드롭, 관람차부터 가족용 기구와 스릴 넘치는 기구까지 모두 59종. 종류마다 여러 가지 모델이 준비되어 있습니다.\n\n🌳 500종이 넘는 경관 아이템\n나무, 꽃, 바위, 분수, 가로등, 울타리, 건축 부품, 테마 소품으로 공원 구석구석을 꾸며 보세요. 지형을 높이고 깎아 언덕과 호수, 지하 터널도 만들 수 있습니다.\n\n■ 나만의 장식과 마스코트\n도형 부품을 쌓아 세상에 하나뿐인 장식물을 만들고, 공원 마스코트의 생김새를 마음대로 꾸며 보세요.\n\n■ 살아 움직이는 공원\n손님들은 저마다 취향과 기분이 있어 놀이기구를 타고, 줄을 서고, 간식을 사 먹습니다. 청소부·정비사·마스코트 연기자를 고용해 공원을 관리하고, 밤에는 불꽃놀이 쇼를 열어 보세요. 🎆\n\n■ 두 가지 모드\n· 일반 모드: 한정된 자금으로 목표를 달성하며 공원을 키웁니다.\n· 무제한 샌드박스: 돈 걱정 없이 마음껏 짓는 창작 모드입니다.\n\n■ 그 밖에\n· 낮과 밤, 날씨가 바뀌는 넓은 3D 지도\n· 틸트시프트와 필터가 있는 사진 모드\n· 자동 저장과 파일 내보내기\n· 인터넷 연결 없이 플레이\n· 한국어, 영어, 중국어(간체), 일본어, 힌디어 지원\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/K9bB3Q8SJVdhRGbbUpCYdeCMuIx2FyeNRdZU_kH1ZtBwQJQz0QN5FMFIz5BHGN5tzPisKbQJBn3fmDir0xxBl9U",
+        "https://play-lh.googleusercontent.com/jglMHXRsBz8WnWMOYdQvfHWrrAIm5YkixE8WjpNeJOapmceUgqBz8lnphO4Z23OAHa71GPky3q-Zuaoy0tG5fA",
+        "https://play-lh.googleusercontent.com/qnTBgH1MJm09e7NkZWjTPXRWTfb5Y_Sj5jxRy8-vb-SzZ66S6jb8ZPwM1oBOYA9tAtccncgUDdecYV3qAd_YPw",
+        "https://play-lh.googleusercontent.com/ABfxm1bdeVR7i6DyOdvpt98qvx-dyVINsAyWOTev5Ja-yuirzYKHITh7wI669F_Iv_Ql-IBaBIllINf0bshasdc",
+        "https://play-lh.googleusercontent.com/RkDY-CZ9EW413_UEeMCxr-Hg8mug9-Xv8NmmRiYEgceh3ToymJexVImktFcC0qeI-16lNiRu_yF3_2Mldm32UQ",
+        "https://play-lh.googleusercontent.com/_NpG_D9zygpnv29yVw3UW-RCyF3_e4NsYtSYlaOnfOmY1lG6gve6plMMFxmZXM9w06qMvSgfJ4eaqqzopABn5SU"
+      ],
+      "details_version": 2
     },
     {
       "id": "app.code404.sporesweep",
@@ -104,7 +201,16 @@
       "released": "2026-11-12T08:58:26Z",
       "icon": "https://play-lh.googleusercontent.com/83rDrs51wR7t55OTD7PgzCwXsArLB0AC3Vh_odTcEzWkwyxmri4AWwqg0RiQzl8nmB5adqLUw4fbAvwLXkum",
       "developer": "code404.app",
-      "description": "장난꾸러기 외계인들이 지구에 끈적한 분홍 포자를 마구 뿌렸어요. 숭례문도, 에펠탑도, 피라미드도 엉망이 됐어요. 정화 대원이 되어 지구를 깨끗하게 되돌려 주세요! ■ 조금 다른 매치3 블록을 세 개 맞추는 건 같아요. 하지만 목표가 달라요. 보드에 떨어진 분홍 오염 물질을 아래로, 아래로 내려보내 격리 컨테이너에 쏙 넣으"
+      "description": "장난꾸러기 외계인들이 지구에 끈적한 분홍 포자를 마구 뿌렸어요.\n숭례문도, 에펠탑도, 피라미드도 엉망이 됐어요.\n정화 대원이 되어 지구를 깨끗하게 되돌려 주세요!\n\n■ 조금 다른 매치3\n블록을 세 개 맞추는 건 같아요. 하지만 목표가 달라요.\n보드에 떨어진 분홍 오염 물질을 아래로, 아래로 내려보내 격리 컨테이너에 쏙 넣으면 클리어!\n물질이 내려가면 화면도 따라 내려가요. 길게 이어진 보드를 끝까지 뚫어 보세요.\n\n■ 시원하게 터지는 특수 블록\n네 개를 맞추면 제염 빔, L이나 T 모양이면 중화 폭탄, 다섯 개면 정화 코어.\n네모로 2×2를 맞추면 청소 드론이 날아가 물질 아래를 콕 집어 치워요.\n특수 블록끼리 맞바꾸면 더 크게 터져요.\n\n■ 세계의 랜드마크를 내 손으로\n레벨에서 모은 별로 망가진 랜드마크를 한 부위씩 복원해요.\n폐허가 조금씩 제 모습을 찾고, 뒤편의 도시 풍경도 함께 돌아와요.\n서울, 도쿄, 카이로, 로마, 파리, 뉴욕, 시드니, 그리고 남극까지 24개 도시가 기다려요.\n\n■ 살아나는 지도\n잿빛으로 변한 세계 지도가 도시를 구할 때마다 다시 초록으로 물들어요.\n여덟 권역을 모두 정화하면 깜짝 엔딩이 기다리고 있어요.\n\n■ 도시마다 새로운 방해꾼\n오염 고치, 포자 둥지, 시한 포자, 안개, 얼음까지 장애물 열일곱 가지.\n도시를 옮길 때마다 새 장애물과 새 풀이법이 나와요.\n\n■ 이런 게임이에요\n· 380개 레벨\n· 판 사이에 끼어드는 광고가 없어요. 광고는 보상을 받고 싶을 때만 골라서 봐요\n· 인터넷 없이도 할 수 있어요\n· 매일 들르면 받는 오늘의 선물\n· 한국어, 영어 지원\n\n지구가 다시 반짝일 때까지, 대청소 시작!\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/d3YDfB-ONoN1VLyr-ALWutu6h3-Mor26PHTzaSjprtlE8ZgE2LIQZp2HkIkkIPfHjLXYW_4YtXmYjc6oldVY8Q",
+        "https://play-lh.googleusercontent.com/LZe7RzWj0-pddZWpkVRdnSrIiEzfp6Bj8jx2PfM72qFGZrf1FjWFHu1S6RwWw5GLl_V3PFgTs_5WuGQS4Te9",
+        "https://play-lh.googleusercontent.com/EY4aZJkJaDMNgvEHPsyBIaxhkpwUesnRUALRhctMIfPNZ9_malZBoFLx4xyUP0ir3yyB6ts3XtbiVGQ6-7vckA",
+        "https://play-lh.googleusercontent.com/uhmD6JkYDKiNtSi8qmqV_FhXc7zP_GE9gzCsxEElnVog0lsOL-EANZP4jnROYWFBdG-1sesWyxzQny_y8IJq",
+        "https://play-lh.googleusercontent.com/a1GMf8ctKb8664X8-2IsAaMQbuyTbW2Dthb6iqlMAkVlIs2im18LkjcYZlR9LGWWqP8wqo1d_q7FCNWRyivOD3w",
+        "https://play-lh.googleusercontent.com/ISd8z21FzX9VndAPI9hzBqJS3k9xqq4I2IKz4El6tO1JeUUl9zk32htoax_QgBBXyZQYiDXOPtFEMNef7HpRIA"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.cafe24.ec.plusppgg888",
@@ -112,7 +218,15 @@
       "released": "2026-11-12T06:29:55Z",
       "icon": "https://play-lh.googleusercontent.com/QLQMhbw51nBqA6OdyE9i7wXbFvzcptuxJlCsP3n5hs6IWc6K5XB8aN1nNU79NfPZT65be0QJzvRBfX-_sbn4",
       "developer": "cafe24 PRO 5",
-      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers. Main features: Enjoy exclusive coupons and discounts Use automatic login Chec"
+      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers.\n\nMain features:\n\nEnjoy exclusive coupons and discounts\n\nUse automatic login\n\nCheck and track your orders\n\nManage your shopping cart and shipping info\n\nReceive store notifications\n\nAccess social media channels\n\nContact Customer Service",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/3z9S4N33np55Jqnrn7lxTo01QMiyr8d0MXGEJ92jIIHyVuuyZ_GPXuXo2Wmn_qw1Glbm6XI3AfVFuAkakmpb",
+        "https://play-lh.googleusercontent.com/tYF4DNQbVbF0J_i_dx4qBxQJ2w3z4CASPCFOLZAZv6n-UTKRxS75e7zQngf9qwf651AzXl1nwuFYf6ZRrbDAqA",
+        "https://play-lh.googleusercontent.com/aIr229hq4IWnEIt7G8zQs977iwE3RHB4aHJGvsboaCrCkeKlbFrq-OVHr9zSfgNfx4GjhHxLp4xN0OZNeIxKuGk",
+        "https://play-lh.googleusercontent.com/C48mn3yM0xv0sohnLSiQcyqYkHkYB7V2peK3lA7fjhcKlphHzqQdQiMnxNLHkfpzK8LbKvexSBcuiRSfRpjYKA",
+        "https://play-lh.googleusercontent.com/yotI1CQNney4aIJYpj0QP1TxvDxmgYGGPfgPuqtljJInu-_4qnfW_xXiu-WR35MB2Ct48XBgyBhBc2UYgynwLw"
+      ],
+      "details_version": 2
     },
     {
       "id": "kr.co.processclean",
@@ -120,7 +234,16 @@
       "released": "2026-11-12T06:25:59Z",
       "icon": "https://play-lh.googleusercontent.com/VfRc9ZOviRXMXEfMv8bJ6MoNFq-EExHZbFn1s6rssqXF_jpKUKrHpVayN_y-jR1p_Y9a5jMh4-B90Ud1y9skMQ",
       "developer": "Neovis Inc.",
-      "description": "휴대폰 저장 공간, 어디에 쓰이고 있는지 한눈에 보고 한 번에 정리하세요. 프로세스클린은 쌓여 가는 스크린샷, 용량 큰 동영상, 똑같은 사진을 찾아 휴지통으로 옮겨 줍니다. 정리한 사진·동영상은 30일 동안 언제든 되돌릴 수 있어 안심하고 정리할 수 있습니다. ■ 지금 정리하기 · 버튼 한 번으로 오래된 스크린샷, 화면 "
+      "description": "휴대폰 저장 공간, 어디에 쓰이고 있는지 한눈에 보고 한 번에 정리하세요.\n프로세스클린은 쌓여 가는 스크린샷, 용량 큰 동영상, 똑같은 사진을 찾아 휴지통으로 옮겨 줍니다. 정리한 사진·동영상은 30일 동안 언제든 되돌릴 수 있어 안심하고 정리할 수 있습니다.\n\n■ 지금 정리하기\n· 버튼 한 번으로 오래된 스크린샷, 화면 녹화, 큰 동영상, 같은 사진을 휴지통으로\n· 정리할 종류와 기준(지난 날짜, 동영상 용량)을 직접 정할 수 있어요\n· 처음에는 확인 창으로, 익숙해지면 바로 정리로 바꿀 수 있어요\n\n■ 꼼꼼하게 찾아 주는 정리 항목\n· 스크린샷 · 화면 녹화 : 7일 ~ 90일 지난 것만\n· 큰 동영상 : 50MB ~ 1GB 이상 기준 선택\n· 같은 사진 : 완전히 똑같은 사진을 찾아 원본 1장은 남겨요\n· 비슷한 사진 : 연속 촬영처럼 비슷한 사진을 묶어 보여 줘요\n· 흐리거나 어두운 사진\n· 오래된 사진 : 6개월 ~ 3년 지난 사진\n· 받은 사진·동영상 : 메신저, 다운로드 폴더별로 확인\n\n■ 안심하고 정리하는 휴지통\n· Android 휴지통을 사용해 30일 동안 보관 후 자동으로 지워져요\n· 정리 기록에서 언제 무엇을 정리했는지 보고 바로 되돌릴 수 있어요\n· 남기고 싶은 사진은 '검색 제외'로 다음부터 찾지 않아요\n\n■ 앱 관리\n· 오래 안 쓴 앱과 용량을 확인하고 하나씩 삭제\n· 앱 사용 시간 : 최근 7일 사용 시간과 실행 횟수 순위\n\n■ 관리 도구\n· 저장 공간 분석 : 사진, 동영상, 앱, 오디오 등 종류별 사용량\n· 시스템 정보 : 기기, CPU, 메모리, 저장 공간, 배터리 상태\n· 홈 화면 위젯 4가지 크기 : 정리할 용량을 보고 바로 정리\n\n■ 개인정보를 지키는 설계\n· 인터넷 권한이 없어 사진과 기록이 휴대폰 밖으로 나가지 않아요\n· 모든 분석은 휴대폰 안에서만 이루어져요\n· 사진·동영상 삭제와 앱 삭제는 항상 Android 확인 창을 거쳐요\n\n■ 권한 안내\n· 사진 및 동영상 : 정리할 사진·동영상을 찾기 위해 필요해요\n· 사용 정보 접근(선택) : 오래 안 쓴 앱과 앱 사용 시간 확인\n· 알림(선택) : 정리할 항목이 쌓이면 알려 드려요\n\n※ 휴지통은 Android 11 이상에서 지원됩니다. Android 10 이하에서는 확인 후 바로 삭제됩니다.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/3mno3gB_oMUa6JKwqKWdAARREeqzK273Un6oPbTrMSSBO8VYtRHAPPy5XlEtiH-Z-YZUX3XGnZuzpaA_Kk36gjA",
+        "https://play-lh.googleusercontent.com/KVIuAKrLkbzMiNTgkkH0P6JftjQ9tILGaEm0FzKPHytzdQ0dXsg7JxPqwDoWjQhOpxJ64jZ_iHm60q39wTvE",
+        "https://play-lh.googleusercontent.com/fnJCW5I1aXOTWougEenGdElb5dLfKSqR6vRSIGKp-cCgEulai4MjQ1KXYNSFtzqZCXnKtt7sJ08ZP6bfKsqf",
+        "https://play-lh.googleusercontent.com/_vs8L5-qEE5icLF1-MsryZI7_ecMCBm5a-r5Zqv0yDAr0dHbGlHBpvGUKDnYVn8OpXYJ9o6OH0but0ccUSCD",
+        "https://play-lh.googleusercontent.com/c3Tg8qMLIeQ-Nt9JtbftCoHqDarxE-jKkoxod4XvCr-X6ybZTemFOdulSoki0vDnGQIng5cEgWLxG_0YwGsHlIg",
+        "https://play-lh.googleusercontent.com/NCLbkj4Dbr0dB2DuTkqZ-5CLtvW_fJPJoi7KFQk-4_GOOgMgke16fyULqdpFFqoONAMqAlcSM_BZTs2FSimPOw"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.avad.app.asfamily.ansimguardian",
@@ -128,7 +251,15 @@
       "released": "2026-11-12T06:19:50Z",
       "icon": "https://play-lh.googleusercontent.com/ahZm7k38xUJsiqDnsCIuLgDF8nAk_HwhUe0orB7nHL9BIUHs4LeMlkXXZelmvmUXejN6sFJjvBXwyyuxDyPF",
       "developer": "아바드(주)(AVAD)",
-      "description": "보호대상자의 활동상태 및 핸드폰 사용여부 등을 모니터링하여 보호대상자의 상태를 확인할 수 있습니다. - 보호자앱은 보호대상자의 정보를 입력하고 등록할 수 있습니다. - 등록된 보호대상자가 스마트폰에 보호대상자앱을 설치하고 전화번호로 로그인하면 보호자앱을 통하여 대상자의 핸드폰 사용 여부, 걸음 수 등을 파악할 수 있고 대"
+      "description": "보호대상자의 활동상태 및 핸드폰 사용여부 등을 모니터링하여 보호대상자의 상태를 확인할 수 있습니다.\n\n- 보호자앱은 보호대상자의 정보를 입력하고 등록할 수 있습니다.\n\n- 등록된 보호대상자가 스마트폰에 보호대상자앱을 설치하고 전화번호로 로그인하면 보호자앱을 통하여 대상자의 핸드폰 사용 여부, 걸음 수 등을 파악할 수 있고 대상자의 활동이 정해진 시간 동안 없으면 알림을 보냅니다.\n\n- 알림을 설정하여 해당시간에 보호대상자에 알릴 수 있습니다\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/3w0O_n7MwMBPtdMsLg3hrPr7JC4ZreE5GjBh8z2EqV2HxbOtgWLj5RsgznXQ9ALbgL9ZBr4WKBdifvX4oPue",
+        "https://play-lh.googleusercontent.com/FH0e-3wKIpNE_QfcTtiLJmU0_1Fm_8nur6Zfdr4zYlYz_SYk7ydyhD4jmnKbqYN4DaASbZiD2I5DK0Mw2-6XYQ",
+        "https://play-lh.googleusercontent.com/FxgL5_MZe1jK9RspvGEPjAKomP7Ub-hyYpAjX95BPniVNioyVr2GpReSGw87qYoxpbq4hOd0lPzUPbb1LvEUBQ",
+        "https://play-lh.googleusercontent.com/012l2ymdwa6mNszj9qDd3o8uh6L8V0m2nW0SGCENgsczC3D10DBvjwzWE8YemSZfpkEFL0eu8ueD2z-z8rXtPHM",
+        "https://play-lh.googleusercontent.com/mA8gCXktd3RGvuY0tEqEtx14AV_-H2GXw4wQBkni1Y0rg_esLdC9tyWcHswaZah_JWNBvwxAfJmD8BZFINYdXQ"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.donglesoft.timestamp",
@@ -136,7 +267,15 @@
       "released": "2026-11-12T03:37:53Z",
       "icon": "https://play-lh.googleusercontent.com/PWY4ezI2GdfaBd5P9eWfs_sM0OLN1fa5lpCTxo3B8dwnPLTWdu3j-klMkCJx4sHhEfBxyAiwJOk5hr_I-9nq",
       "developer": "Donglesoft",
-      "description": "InfoStamp는 이미 찍어둔 사진과 영상에 날짜·시간, 장소, 메모를 깔끔하게 새겨주는 앱입니다. ■ 촬영 시각 자동 불러오기 사진의 EXIF, 영상의 녹화 정보, 파일 이름에서 촬영 시각을 찾아 자동으로 채웁니다. 틀리면 날짜와 시각을 직접 고칠 수 있습니다. ■ 영상에서는 시계가 흘러갑니다 영상의 원하는 구간만 잘"
+      "description": "InfoStamp는 이미 찍어둔 사진과 영상에 날짜·시간, 장소, 메모를 깔끔하게 새겨주는 앱입니다.\n\n■ 촬영 시각 자동 불러오기\n사진의 EXIF, 영상의 녹화 정보, 파일 이름에서 촬영 시각을 찾아 자동으로 채웁니다. 틀리면 날짜와 시각을 직접 고칠 수 있습니다.\n\n■ 영상에서는 시계가 흘러갑니다\n영상의 원하는 구간만 잘라내고, 잘라낸 시작점부터 초 단위로 시간이 흐르는 스탬프를 넣습니다. 블랙박스 영상, 현장 기록 영상에 적합합니다.\n\n■ 위치와 메모\n사진에 기록된 GPS, 현재 위치, 또는 지도에서 고른 지점을 주소로 바꿔 넣습니다. \"후방 카메라\", \"2차선\" 같은 메모도 한 줄 추가할 수 있습니다.\n\n■ 원하는 모양으로\n스탬프를 손가락으로 끌어 원하는 자리에 놓고, 글씨 색·굵기·테두리·배경 박스를 고릅니다. 한 줄로 합쳐 표시할 수도 있습니다. 미리보기에서 보는 그대로 저장됩니다.\n\n■ 즐겨찾기\n자주 쓰는 설정을 이름 붙여 저장하면 다음 파일에 한 번에 적용됩니다. 영상 비율이 달라도 같은 자리에 들어갑니다.\n\n■ 화질 선택\n원본 유지 / 1080p / 720p / 480p 중 고르고 예상 용량을 미리 확인합니다. 원본 파일은 그대로 두고 새 파일로 저장합니다.\n\n이런 분께\n• 블랙박스·주행 영상에 시간을 남겨 제출해야 하는 분\n• 현장 사진에 날짜와 장소를 기록해야 하는 분\n• 여행·일상 사진에 날짜를 남기고 싶은 분\n\n권한 안내\n• 사진·동영상 접근: \"파일 위치\" 기능으로 사진 속 GPS를 읽을 때만 요청합니다. 파일 선택은 시스템 사진 선택기를 사용합니다.\n• 위치: \"현재 위치\" 버튼을 눌렀을 때만 사용합니다.\n사진과 영상은 기기 안에서만 처리되며 서버로 전송되지 않습니다.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/DlojwGCYkKcafNX7VMsRUu6vM5gTVIJqHD8hp6GjuzdwbLGHYfpIgO4TbgUBgiRLKFULpWmj2clyzIgwbCm8",
+        "https://play-lh.googleusercontent.com/Me0jDgVCnb_u2f_10VfBL6nh7vtg5P_dU0cUyWAMfM2a8eKt--gQsx4xY4bGXcIQyS6NbRQd_dqBuxIvjBhkO10",
+        "https://play-lh.googleusercontent.com/GRzLBxuFkFKeNkGL1QFo1nW9EVnl1rUf41jgUzaK6tNtz8gP3eF7QQS3qrhFGzAVdY6Cmi3Ng0MhOZXX31Y2PA",
+        "https://play-lh.googleusercontent.com/rEU6L1Dvwy4iE-uZVz4GOYIp20WJcHKmAXDhq99JJZt9Par5ei4jjfAessm7GQIa0l9htcLCvCq03XViGWpr8g4",
+        "https://play-lh.googleusercontent.com/LtuPfZdy2-rs2iUxiRJnFvsTOvvvkNkpfR2d-OVqcCNWikDjjKKnAel9VgHbaeQ_7tPCuKsTrQmro4U7gG-CjA4"
+      ],
+      "details_version": 2
     },
     {
       "id": "kr.gijigae.app.guard",
@@ -144,7 +283,16 @@
       "released": "2026-11-11T23:37:06Z",
       "icon": "https://play-lh.googleusercontent.com/ZLNAuV9TCxRig6QF5YafG3o4yczISOoX6Srg4YrDTsT_kIGhhVsCQQsWiHplm8kAv1mfvERg6PiBRfaOpkhqAw",
       "developer": "YU YUNHYE",
-      "description": "경비지도사 1·2차, 여러 교재와 앱을 오가며 정리하지 마세요. 「기지개」 하나로 제21회(2019)부터 제27회(2025)까지 실제 기출 지문을 단원별로 정리할 수 있습니다. 시험에 나온 문장으로 개념을 잡고, OX로 확인하고, 단원 퀴즈로 굳히고, 틀린 것만 오답노트에 모아 다시 봅니다. ■ 이 앱 하나면 충분한 이유"
+      "description": "경비지도사 1·2차, 여러 교재와 앱을 오가며 정리하지 마세요. 「기지개」 하나로 제21회(2019)부터 제27회(2025)까지 실제 기출 지문을 단원별로 정리할 수 있습니다. 시험에 나온 문장으로 개념을 잡고, OX로 확인하고, 단원 퀴즈로 굳히고, 틀린 것만 오답노트에 모아 다시 봅니다.\n\n■ 이 앱 하나면 충분한 이유\n\n▶ 시험 문장 그대로 — 기출 지문 학습\n제21~27회 1·2차 기출(A형)을 지문 단위로 나눠 단원별로 묶었습니다. 맞는 문장은 그대로, 틀린 문장은 틀린 부분에 취소선, 고친 부분에 밑줄을 그어 한눈에 보여 줍니다. ‘정답 가리기’로 스스로 먼저 판단해 볼 수도 있습니다.\n\n▶ 확인 → 실전 → 복습, 한 흐름으로\n• 단원별 OX 퀴즈 — 6,385개 기출 지문을 O/X로 바로 확인, 틀리면 올바른 문장과 해설을 함께\n• 단원 퀴즈 — 기출 지문으로 만든 선다형에 기출 4지선다 640문항까지\n• 그림·회로가 있는 문항은 그림 그대로, 눌러서 크게 보기\n• 오답노트 — 틀린 문항만 모아 다시 풀기, PDF로 내보내기\n\n▶ 1차·2차, 시험 구조 그대로\n1차 법학개론·민간경비론, 2차 경비업법(청원경찰법 포함)과 선택과목(소방학, 범죄학, 경호학, 기계경비개론, 기계경비기획 및 설계) 중 하나. 처음 실행할 때 선택과목을 고르고, 내정보에서 언제든 바꿀 수 있습니다.\n\n▶ 법이 바뀐 문항은 ‘현행법 기준’\n시험 당시 정답과 현행법이 달라진 지문은 ‘현행법 기준’으로 표시해 헷갈리지 않게 했습니다.\n\n▶ 출퇴근·쉬는 시간에는 듣기로\n단원별 기출 지문을 소리로 들으며 복습할 수 있습니다.\n\n▶ 매일 이어지는 학습 기록\n시험일 D-day, 오늘 목표, 연속 학습일, 오늘의 복습, 약한 단원과 약한 개념, 과목별 진도와 정답률을 한 화면에서 확인합니다. 학습 알림도 원하는 시간에 받을 수 있습니다.\n\n■ 필기 준비, 이 순서면 됩니다\n1. 단원별 기출 지문 읽기 — 개념·표현 익히기\n2. OX 퀴즈 — 맞는 문장인지 확인\n3. 단원 퀴즈 — 선다형으로 굳히기\n4. 오답노트 — 틀린 것만 다시\n5. 듣기 — 이동 중 반복\n6. 학습 기록 — 어디까지 했는지, 어디가 약한지 확인\n\n■ 이런 분께 꼭 필요합니다\n• 경비지도사 1·2차를 함께 준비하는 분\n• 교재는 봤는데 실제 시험 문장으로는 아직 불안한 분\n• 시험 직전 2~4주, 기출로 한곳에서 마무리하고 싶은 분\n• OX·문제 풀이·오답 정리를 한 앱에서 끝내고 싶은 분\n\n■ 이용 안내\n• 회원가입 없이 바로 시작, 학습 기록은 기기에 저장\n• Google 또는 Apple 로그인 시 여러 기기에서 학습 기록 동기화(선택), 내정보에서 계정 삭제 가능\n• 1차 무료, 2차는 앱 내 1회 구매로 영구 이용(구독 없음), 구매 복원 지원\n• 라이트·다크·시스템 화면 모드\n\n■ 출처\n한국산업인력공단 Q-Net 경비지도사 기출문제·최종정답(공공누리 제1유형, 출처표시). 제21회(2019)~제27회(2025) A형.\n이 앱은 한국산업인력공단 또는 경찰청과 관련 없는 개인 개발 학습 앱입니다.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Mbf_H8_BvL2PXl-TTMWmGfJW-97G9DutdPBtqUL0BpuPzQjjGbmPhGrL8Xy9P13qTEbd0oeensaQzNFcuvwy",
+        "https://play-lh.googleusercontent.com/P4GpJXwDUXDKP0aPcOLmMHyIWEReFDlypWYBb46zUmsxBtsEVcU0tlzTkugOLqqzsWY1DmOp6WsYP2LWKkC7mw",
+        "https://play-lh.googleusercontent.com/IF8oI97L73OC_22X4DOIk0vC7xqkpAuY5nTVpMlM4CM8oRcUHUwrJj_uTOVRlmwYxe1X4WTe_ynacEUe_I10yA",
+        "https://play-lh.googleusercontent.com/ci5qbqDOv_WG-tr4Kyme-yvOLU-jmsUYp37hvAcLLYNt2zxAi_wyw1E1yIKEx3EM6oPiKwETjAxIRvbOY4rYxw",
+        "https://play-lh.googleusercontent.com/8yxyK9LnEiV8VO0C9zMvovVfmmg-79z9HRrXpTBw4QH_Hm-PhmfOsXtMHWOkWoC48DL-1XyYB1otLQ-22Hj3fQ",
+        "https://play-lh.googleusercontent.com/Dj5nw2uCZGljLSnaH7brJwED0Z9sLlD_rCTiHpMeK6m78AJYXE9Hj_NMQhYZ_Io1BNJRltE43jDheVsNFZvKw3c"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.gandan.android.splitflapmetro",
@@ -152,7 +300,15 @@
       "released": "2026-11-11T10:41:30Z",
       "icon": "https://play-lh.googleusercontent.com/3E92oJvg-jQCw5RkCfGJ9_XkC7iQJ4F8KofTprxObMZG0Se92vPPbi-Rpi8Ranj33g-G8x2FjQ6s143BsUwS",
       "developer": "Gandan",
-      "description": "30년이 넘는 긴 시간동안 서울지하철의 도착 정보를 알려주었던 추억의 플랩식 행선 안내판을 기억하나요? 플랩행선판은 옛 지하철 승강장에 걸려 있던 그 플랩식 행선 안내판을 홈 화면 위젯으로 되살린 앱입니다. ■ 주요 기능 • 이번 열차와 다음 열차의 행선지, 남은 시간을 보여줍니다. • 도착 정보가 바뀌면 플랩이 넘어가는"
+      "description": "30년이 넘는 긴 시간동안\n서울지하철의 도착 정보를 알려주었던\n추억의 플랩식 행선 안내판을 기억하나요?\n\n플랩행선판은 \n옛 지하철 승강장에 걸려 있던 \n그 플랩식 행선 안내판을 \n홈 화면 위젯으로 되살린 앱입니다. \n\n■ 주요 기능\n• 이번 열차와 다음 열차의 행선지, 남은 시간을 보여줍니다.\n• 도착 정보가 바뀌면 플랩이 넘어가는 듯한 효과를 통해 정보가 바뀝니다.\n• 화면이 켜져 있는 동안 자동으로 갱신됩니다.\n• 역, 노선, 방향을 지정해 원하는 승강장만 볼 수 있습니다.\n• 위젯을 여러 개 놓아 집과 회사 근처 역을 따로 볼 수 있습니다.\n• 위젯 크기를 홈 화면에 맞게 조절할 수 있습니다.\n\n■ 지원 노선\n서울지하철 1~9호선, 경의중앙선, 공항철도, 경춘선, 수인분당선, 신분당선, 우이신설선, 서해선, 경강선, 신림선, GTX-A\n\n■ 사용 방법\n1. 홈 화면의 빈 곳을 길게 눌러 위젯 목록을 엽니다.\n2. 플랩행선판 위젯을 홈 화면에 놓습니다.\n3. 역 이름을 입력하고 노선과 방향을 고릅니다.\n\n■ 권한 안내\n• 알람 및 리마인더: 위젯을 정해진 간격으로 갱신하는 데 사용합니다. 허용하지 않아도 앱은 동작하지만 갱신이 늦어질 수 있습니다.\n• 배터리 최적화 예외: 백그라운드에서 위젯 갱신이 끊기지 않게 합니다. 선택 사항입니다.\n\n■ 정보 출처\n- 도착 정보는 서울 열린데이터광장(https://data.seoul.go.kr)의 실시간 지하철 도착정보를 사용합니다.\n- 이 앱은 서울특별시, 서울교통공사, 한국철도공사 등 정부 기관이나 운영 기관과 관련이 없는 개인 개발 앱입니다. \n- 실제 열차 운행은 현장 사정에 따라 표시된 정보와 다를 수 있습니다.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/jNjl__lOwAhprtMVFoeFRMVyzMAl_DYZKuZgpbJHvD5rCTupro5rJzjh1hlRQuPwGnlFwRToRE_Fg2HJDjN_8w",
+        "https://play-lh.googleusercontent.com/ZeR3E2GYrCTFw79o86qtSUzo9dwpj1CMqoVG3rVdNSVvFauyL8P695VvnFrQLvS6FgSKL-sXlPJ9fu_dByR-",
+        "https://play-lh.googleusercontent.com/god6gjKoHoKeJpAgsEk2HkIauSvPhy4kn3Hg6LX8IAmcK1DjfCYjYeM5BSvgxmO082lw2OAF8Fh46iHdNDRXKg",
+        "https://play-lh.googleusercontent.com/xm04CoHQFNcAR_x1HGE_523oXldvSs-IzFtVcBrDajvOemexX-3biBIIqskm97u2qDXMZjgh89Pxr268sWWf",
+        "https://play-lh.googleusercontent.com/qrcmpwGwchfnbm7pE5JX-4tXkNtC_ilUWfxtYZyt3FOP3P5DtLYX17cUnncihQV2a6rPnPH7Wr_uXvuTDzY-BNM"
+      ],
+      "details_version": 2
     },
     {
       "id": "net.loungees.qt",
@@ -160,7 +316,16 @@
       "released": "2026-11-11T10:08:02Z",
       "icon": "https://play-lh.googleusercontent.com/gV3pj9wFbPYaUzbLvJwTRJO1EXcUZZ0Gw7Zr6rpqHneRPRbRo3pNSYP5oZbX9cr9QrHvTv5k5kkZ0ti7It9TSf4",
       "developer": "Loungees",
-      "description": "매일 말씀 한 본문, 관찰·해석·적용으로 묵상하는 큐티 노트. CCC 큐티책 『풍성한 삶』의 일정을 따라 오늘의 본문을 읽고, 단계별 질문에 답하며 하루의 묵상을 노트처럼 남겨요. ■ 오늘의 말씀 · 날마다 바뀌는 오늘의 본문과 한 줄 요절 · 『풍성한 삶』 해설과 소그룹 나눔 질문 · 개역한글 본문 제공 ■ 관찰 · 해"
+      "description": "매일 말씀 한 본문, 관찰·해석·적용으로 묵상하는 큐티 노트.\n\nCCC 큐티책 『풍성한 삶』의 일정을 따라 오늘의 본문을 읽고, 단계별 질문에 답하며 하루의 묵상을 노트처럼 남겨요.\n\n■ 오늘의 말씀\n· 날마다 바뀌는 오늘의 본문과 한 줄 요절\n· 『풍성한 삶』 해설과 소그룹 나눔 질문\n· 개역한글 본문 제공\n\n■ 관찰 · 해석 · 적용 · 기도\n· 본문 읽기부터 기도까지 다섯 단계로 차근차근\n· 단계마다 묵상 질문과 도움말\n· 줄노트에 적는 대로 자동 저장\n\n■ 말씀 달력과 묵상 노트\n· 묵상한 날이 달력에 채워지고, 실천한 날은 진하게 표시\n· 지난 묵상을 검색하고 다시 읽기\n· 묵상한 내용을 메시지로 나누기\n\n■ 서재 책꽂이\n· 다 읽은 큐티책이 책꽂이에 꽂히고, 묵상한 날만큼 책이 두꺼워져요\n\n■ 매일 묵상 알림\n· 원하는 시각을 직접 골라 매일 알림\n\n태블릿에서는 본문과 노트를 나란히 펼쳐 볼 수 있어요.\n로그인 없이 바로 쓰고, 기록은 이 기기 안에만 저장돼요. 광고와 추적이 없어요.\n\n지금은 무료 사용 기간이라 모든 기능을 무료로 쓸 수 있어요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/TWOOIgbFv6mZf_CG9ZQ-FACZehZt-8giEtbHI94PF9zgC-8ucz3tejS-rLI4dEJ6tD5uOfx-gEPlB9mm05A1",
+        "https://play-lh.googleusercontent.com/wMKhUC8s4PEfjlSEKx7zcPr0tvWRDhEGJlQdWOzBKOI5bV8AsirGyy17rtTFZo-6yP53cbsQn9naFGF0TdswcA",
+        "https://play-lh.googleusercontent.com/yN_WuD57NFhLgXDdppyyS-Iau4KTLgbkgjHI923WoN4JQzfOrMh_3zZABY8B4O2jkL87ktNu4QAY0X9whJ_LVao",
+        "https://play-lh.googleusercontent.com/BsV3hbfoy4dcoqqL3HmLAhLXOaDCBa1Ky2b1guw_UT5WPbggQM1ko11cmGm7tf2v_xOG1Zc4jCj0W7JOZe7guA",
+        "https://play-lh.googleusercontent.com/oP9_4asuHfQEowRIuMpCuh8xtE8OuSmVaPCIhGKJ1NDFfwH9iY1Hw2qSdYG6KdZgl-8_JXNeOIBgS6V9KNHwj7Q",
+        "https://play-lh.googleusercontent.com/0eLVe1gxaLMG-sVm4jyGGxPtOiC1XP5YyYg0qRwpSjfC7kov-e_RNydAzRXx-pW-Oy9BUL_t1TqXWkfw5pLxVg"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.richplus0987.spanishnote",
@@ -168,7 +333,14 @@
       "released": "2026-11-11T08:41:00Z",
       "icon": "https://play-lh.googleusercontent.com/ICsQTM8a5YDA51-sBBkrt-ayZe3JUoY094sCLswvIOna6TtwRGcO2ryQUx2Wo87VXgw54Chz4AAoGbLF4Gj2",
       "developer": "Rich Plus",
-      "description": "스페인어 배우기 - 기초 회화 단어장 스페인어를 처음 배우시나요? 스페인어 배우기는 알파벳부터 필수 단어, 일상 회화, 여행 표현, 문법까지 단계적으로 학습할 수 있도록 구성된 스페인어 학습 앱입니다. 처음 시작하는 입문자부터 기초 실력을 다지고 싶은 초급자까지, 자신의 수준에 맞는 단계부터 공부할 수 있습니다. 매일 조"
+      "description": "스페인어 배우기 - 기초 회화 단어장\n\n스페인어를 처음 배우시나요?\n\n스페인어 배우기는 알파벳부터 필수 단어, 일상 회화, 여행 표현, 문법까지 단계적으로 학습할 수 있도록 구성된 스페인어 학습 앱입니다.\n\n처음 시작하는 입문자부터 기초 실력을 다지고 싶은 초급자까지, 자신의 수준에 맞는 단계부터 공부할 수 있습니다.\n\n매일 조금씩 배우고, 듣고, 복습하면서 학습을 이어가 보세요.\n\n■ 주요 학습 기능\n\n1. 기초 학습\n알파벳과 기본 발음부터 차근차근 시작합니다.\n• 알파벳 27자와 발음 익히기\n• 기초 문장과 필수 표현 학습\n• 문법과 동사 활용 배우기\n• 입문부터 초급까지 단계별 학습 과정\n\n2. 단어장\n자주 쓰는 단어 2,000여 개를 주제별로 공부하고 복습할 수 있습니다.\n• 일상생활에서 쓰는 기초 단어\n• 음식, 여행, 가족, 숫자 등 주제별 단어\n• 단어 뜻과 예문 확인\n• 단어 발음 듣기\n• 플래시카드로 단어 복습\n• 자주 보는 단어 저장\n\n3. 일상 회화와 여행 표현\n자주 쓰는 표현 680여 개를 상황별로 배웁니다.\n• 인사와 자기소개\n• 음식점 주문\n• 공항과 호텔\n• 쇼핑과 길 찾기\n• 교통수단 이용\n• 친구와의 일상 대화\n문장과 한국어 뜻을 함께 보고 발음을 들으며 표현에 익숙해질 수 있습니다. 40가지 상황 대화에서 내가 할 말을 직접 골라 보는 대화 연습도 있습니다.\n\n4. 듣기와 발음\n단어와 문장을 음성으로 들으며 공부할 수 있습니다.\n• 단어 발음 듣기\n• 회화 문장 듣기\n• 느린 속도로 듣기\n• 듣기 문제로 학습 내용 확인\n\n5. 문법\n기초 문장 구성부터 자주 쓰는 동사 표현까지 50개 주제를 단계적으로 배웁니다.\n• 기본 문장 구조\n• 명사와 형용사\n• 현재시제와 동사 활용\n• 일상 회화에 필요한 기초 문법\n• 문법 예문과 연습 문제\n\n6. 퀴즈와 반복 복습\n배운 내용을 퀴즈로 확인하고, 어려웠던 부분을 다시 공부할 수 있습니다.\n• 단어 뜻 맞히기\n• 듣기 퀴즈\n• 문법 문제\n• 빈칸 채우기와 단어 배열로 문장 만들기\n• 틀린 문제 다시 풀기\n• 플래시카드 반복 복습\n\n7. 나만의 학습 관리\n하루 목표를 정하고 학습 현황을 확인할 수 있습니다.\n• 하루 학습 목표 설정\n• 학습 진도 확인\n• 주간 학습 시간과 퀴즈 점수 확인\n• 저장한 단어와 문장 모아 보기\n• 연속 학습일과 익힌 단어 수 확인\n\n■ 이런 분들께 추천합니다\n• 스페인어를 처음 배우는 분\n• 알파벳부터 차근차근 공부하고 싶은 분\n• 단어를 꾸준히 외우고 싶은 분\n• 스페인·중남미 여행을 준비하는 분\n• 실생활 회화를 배우고 싶은 분\n• 문법과 동사 활용을 공부하는 분\n• 짧은 시간 동안 외국어를 공부하고 싶은 분\n• 단어장과 퀴즈로 반복 학습하고 싶은 분\n\n■ 매일 조금씩 시작하는 스페인어 공부\n외국어 학습에서 중요한 것은 꾸준한 반복입니다.\n오늘은 새로운 단어를 배우고, 내일은 짧은 회화 문장을 익히고, 배운 내용을 퀴즈와 단어장으로 복습해 보세요.\n스페인어 배우기 - 기초 회화 단어장과 함께 나만의 속도로 스페인어 학습을 시작해 보세요.\n\n■ 이용 안내\n• 발음 듣기는 기기에 설치된 스페인어 음성을 사용하므로 기기마다 목소리와 발음이 다를 수 있습니다. 소리가 나지 않으면 기기 설정에서 스페인어 음성을 설치해 주세요.\n• 단어 옆의 한글 발음 표기는 참고용이며 실제 발음과 다를 수 있습니다.\n• 학습 단계(입문·A1·A2)는 앱 안에서 쓰는 학습 기준이며, 공인 시험이나 자격 판정과는 관련이 없습니다.\n• 회원가입 없이 이용할 수 있으며, 학습 기록은 사용하는 기기에만 저장됩니다. 앱을 삭제하면 기록도 함께 지워집니다.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ob8VCvo_QXbwJuPxQ5owCjVmJGTptfhvWjbZ5Q-4slkSJu4EOOUzdHkl1bo-0hn_uTV2EvJ43J-audb-u6uR",
+        "https://play-lh.googleusercontent.com/YceuwbzplzKwBrC0hYwj8W2p-Lfcii9P7WjHZlbAkjYo6-c6yGmT6KQRbHVK9GhuRcf3XHqhA6VzWr5NiPXS",
+        "https://play-lh.googleusercontent.com/fL_qjJUvpUypHugFCqxyk8LFNXidgNZtmbP3Yn1nC0KrNQAYQsXaFMvfRJ0_yXZFpfACtHpHMHZxV1SaJ_jX0w",
+        "https://play-lh.googleusercontent.com/ghNFGpmGTfaRk8JJe_rv_77neCTfzCFuPbLV6OVhvpOeWIypV6qSS1-LglaRnuvS8BFQcPHPoE7Bxm3Oh6484w"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.bogoitgae.bogodog",
@@ -176,7 +348,14 @@
       "released": "2026-11-11T04:31:34Z",
       "icon": "https://play-lh.googleusercontent.com/mZdVb7rU_Glf3h7u4KoArpmzQtnWj0xxTIH50oCWwzj2nRQEdTc-qxrtjQhnS5OLuQlkgNxiQREgZR0tfEGI",
       "developer": "seunghyeon Yu",
-      "description": "집에 혼자 있는 우리 강아지, 오늘은 어떻게 지냈을까요? 보고있개는 사용하지 않는 스마트폰을 반려견 홈캠으로 활용할 수 있는 AI 펫 모니터링 서비스입니다. 별도의 홈캠을 구매하지 않아도 공기계를 카메라로 연결해 언제 어디서나 반려견의 모습을 확인할 수 있습니다. AI가 카메라의 영상과 소리에서 주요 이벤트를 감지하고, "
+      "description": "집에 혼자 있는 우리 강아지, 오늘은 어떻게 지냈을까요?\n\n보고있개는 사용하지 않는 스마트폰을 반려견 홈캠으로 활용할 수 있는 AI 펫 모니터링 서비스입니다.\n\n별도의 홈캠을 구매하지 않아도 공기계를 카메라로 연결해 언제 어디서나 반려견의 모습을 확인할 수 있습니다.\n\nAI가 카메라의 영상과 소리에서 주요 이벤트를 감지하고, 확인이 필요한 행동이 발견되면 보호자에게 알림과 함께 해당 장면을 전달합니다.\n\n하루 동안 감지된 이벤트를 바탕으로 반려견의 하루를 정리한 AI 케어 리포트도 제공합니다.\n\n주요 기능\n- 공기계를 활용한 반려견 홈캠\n- 실시간 라이브 화면 확인\n- AI 기반 영상·소리 이벤트 감지\n- 이상행동 감지 알림 및 클립 확인\n- 하루의 주요 활동을 정리한 AI 케어 리포트\n\n보이지 않는 순간에도 보고있개와 함께 우리 아이의 하루를 확인해 보세요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/pnh919QVbPJNX--0NExvmUlB7KtrUz4BuBCdZbOcNFlbQQa5WzJjxJLKIelZi2UECDbJtlF6k9BsU2bkyndsFA",
+        "https://play-lh.googleusercontent.com/2YgaJZMCFs7Uo3Y_jOZVQEWnaTX6rNb-vbyWqrFG0ys_N8GAg0QbulKt4LAcT4p4BDLVRzrOxwMO6Y0A40EF2g",
+        "https://play-lh.googleusercontent.com/nKkKePbxYAwwx5UttoWVxLGDYW_WJ_xigcLwxhNidWZnk6N3O1M0aB3EVcNO4WO62qblq2nv6yi1fDSRmvoERA",
+        "https://play-lh.googleusercontent.com/5C6BGxAwLa88xEuap0GMbCk8ipnAjiwMPGjrH7MP-kbUv3QPcwE4Zf-B3l7R33NZymAjlRe-Le704lr40qGY"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.seongsildeul.seulseul",
@@ -184,7 +363,15 @@
       "released": "2026-11-11T03:20:34Z",
       "icon": "https://play-lh.googleusercontent.com/sy0WqgKnQyNEl_3hEFHfe7mEn0gVn09pkaklwYfJ8gZBJSge_8UoOfrJtECmyQ-VYcTlTQHuKAUUoMcUocW4f2Y",
       "developer": "반듯한김밥",
-      "description": "슬슬버스는 전국 대학교의 통학버스 노선과 시간표를 편리하게 확인할 수 있도록 도와주는 앱입니다. 학교별 통학버스 정보를 한곳에서 확인할 수 있으며, 복잡한 시간표를 쉽고 빠르게 찾아볼 수 있습니다. 주요 기능 전국 대학교 통학버스 정보 확인 학교별 버스 노선 및 시간표 조회 간단한 미니게임 플레이 게임 점수에 따른 랭킹 "
+      "description": "슬슬버스는 전국 대학교의 통학버스 노선과 시간표를 편리하게 확인할 수 있도록 도와주는 앱입니다.\n\n학교별 통학버스 정보를 한곳에서 확인할 수 있으며, 복잡한 시간표를 쉽고 빠르게 찾아볼 수 있습니다.\n\n주요 기능\n\n전국 대학교 통학버스 정보 확인\n\n학교별 버스 노선 및 시간표 조회\n\n간단한 미니게임 플레이\n\n게임 점수에 따른 랭킹 확인\n\n슬슬버스로 통학버스 정보를 편리하게 확인하고, 기다리는 시간에는 미니게임을 즐겨보세요.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/6mFt0XBDT8mliP8xviPIZF20aOr-qO9KkbdHkXFCTe0oTCEPfafKylneL73sDJjo_wzgvUAq9WK0FbhGD5c_ww",
+        "https://play-lh.googleusercontent.com/M60hFA0dogbWxbrY0BJxY5y8QW80O4AndgRE7cTRtaP7crI8iVh10nFhWLUclpVcB-QI9t6SwV6mY-ef45VI",
+        "https://play-lh.googleusercontent.com/buscIuko6W_Zp_RlXcJ4Nm7P-gWqRwu2cHm0PSJyn4s6wqc2dSixEobtiwC4jPk1ybmZoapL8ObbI365gB0lnQ",
+        "https://play-lh.googleusercontent.com/lxXBZy-Ackn1iM0AkG3sIGpipv8-Z8YD_U0e3A9y4gJTpytPd3d51Mbw7Pw1fs8asNCQSTivrbwOaBRhbrbOY9M",
+        "https://play-lh.googleusercontent.com/wqjGu_bZ7ybDRK7eBXt3RhJQXKkiMsbr_DP0ttRh3_lpzEDQRMfBORP-o9jBQS1Lr_fSgWYx0vELkckUWuq4"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.shimkorn.yokai.sort",
@@ -192,7 +379,15 @@
       "released": "2026-11-11T00:53:36Z",
       "icon": "https://play-lh.googleusercontent.com/EpvO0ICE7Ow6hFzzJx-hScTGSrJ5q4WtlkDBucUJ58wFGlHjTZJQICxN5_u3Jf7R4kG_YmeVrA_taykMBPNuOw",
       "developer": "shimkorn",
-      "description": "밤이 내려앉은 요괴마을의 보물 창고. 장난꾸러기 도깨비가 엽전, 복주머니, 부적, 경단, 뚝딱 방망이를 몽땅 뒤섞어 놨어요! 뚝이와 요괴 친구들을 도와 같은 보물끼리 항아리에 차곡차곡 정리해 주세요. ■ 이렇게 놀아요 • 항아리를 톡 누르면 맨 위 보물이 떠올라요. • 같은 보물 위나 빈 항아리를 톡 누르면 옮겨져요. •"
+      "description": "밤이 내려앉은 요괴마을의 보물 창고. 장난꾸러기 도깨비가 엽전, 복주머니, 부적, 경단, 뚝딱 방망이를 몽땅 뒤섞어 놨어요!\n뚝이와 요괴 친구들을 도와 같은 보물끼리 항아리에 차곡차곡 정리해 주세요.\n\n■ 이렇게 놀아요\n• 항아리를 톡 누르면 맨 위 보물이 떠올라요.\n• 같은 보물 위나 빈 항아리를 톡 누르면 옮겨져요.\n• 같은 보물 4개가 모이면 뚜껑이 쾅! 항아리 완성.\n• 시간 제한도, 생명도 없어요. 천천히 생각하며 즐기세요.\n\n■ 이런 게임이에요\n• 손으로 정성껏 다듬은 100판: 쉬운 판부터 머리를 굴려야 하는 \"어려움\" 판까지 톡톡 튀는 리듬으로 이어져요.\n• 1층 곡간부터 5층 보물 다락까지, 층마다 다른 분위기와 주인 요괴가 기다려요.\n• 새 규칙이 차근차근 등장해요: 가려진 보물, 잠긴 항아리, 다섯 칸 큰 항아리, 밧줄로 묶인 항아리.\n• 막히면 되돌리기·항아리 +1·힌트로 해결! 어려운 판은 엽전 2배.\n• 적은 수로 정리할수록 福 도장이 늘어나요. 모든 판 도장 3개에 도전해 보세요.\n• 인터넷 없이도 즐길 수 있어요. 출퇴근길, 잠들기 전 한 판에 딱.\n• 색을 구분하기 어려워도 괜찮아요. 보물마다 모양이 모두 달라요.\n• 한국어 포함 13개 언어 지원.\n\n■ 알려 드려요\n• 게임은 무료이며 광고가 나와요. 「광고 제거」를 한 번 구매하면 판 사이 광고가 사라져요(보상형 광고는 원할 때만 볼 수 있어요).\n• 문의: shimkorn@shimkorn.com\n\n요괴마을 대소동 시리즈의 다른 소동도 곧 만나요!\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/BYYLyq_5i3KOZqqND1EG4x-b4hFMHXdMOmkLxqImpxTbHHbWFQNHjxkCn1_ln2oJdf1cKBZECturCFoqh28qRIQ",
+        "https://play-lh.googleusercontent.com/V4QmcDFAl8ua8BhYrfrel4QQFsmiXZOA0-L3QqFJj1HEJ7-PzrVkb1-ZfP7I-sPOpyETccUCfip2QfNut11k_o8",
+        "https://play-lh.googleusercontent.com/hDe3co-vz_jrxWgMOwhEIHvHTm0eO_f60JrEytRC9iP160_uWrH9CWftFAWaowbwVS1vIytXnSMPHwP3lvrK",
+        "https://play-lh.googleusercontent.com/ATIpMu_uPliGbatXxj8L1Qu2xST2wguxVkx_39Nffk7r-VuTIIXdwmudzRWs2VDvgLI9pMSUK7hv92urCqOGZw",
+        "https://play-lh.googleusercontent.com/hcp5yl6FurxJGUe1D5VobhN07-4BqYvVQOLJsByfPHaR9Q6_ar_AAWCx5nSYjyPvxXtKMiO_xxFphvr1TVI7"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.dkblossom.phoenixsquad",
@@ -200,7 +395,16 @@
       "released": "2026-11-10T15:01:12Z",
       "icon": "https://play-lh.googleusercontent.com/b0q-Nuz6PdonJnB1aI-HIiyTgkMH0NoEQ0wo8Trkl7UlnOrRRSP7KFjgJQkoEV5D15IHOz7tw_UFCxc8r71g",
       "developer": "alphavipertrading",
-      "description": "한 손으로 조종하는 세로형 우주 슈팅, 스페이스 X. 기체를 상하좌우로 움직여 적 탄막 사이를 파고들고, 자동 사격과 비상 폭탄으로 적 편대를 돌파하세요. ■ 세 항로, 200스테이지 외곽 항로 80스테이지를 돌파하면 수성부터 해왕성까지 태양계 8개 행성을 탐사할 수 있습니다. 이어지는 태양핵 항로 끝에서 최종 보스 솔라"
+      "description": "한 손으로 조종하는 세로형 우주 슈팅, 스페이스 X. 기체를 상하좌우로 움직여 적 탄막 사이를 파고들고, 자동 사격과 비상 폭탄으로 적 편대를 돌파하세요.\n\n■ 세 항로, 200스테이지\n외곽 항로 80스테이지를 돌파하면 수성부터 해왕성까지 태양계 8개 행성을 탐사할 수 있습니다. 이어지는 태양핵 항로 끝에서 최종 보스 솔라리스 Ω가 기다립니다. 각 구역에서 무전으로 이야기가 이어지고, 최종 보스를 격파하면 일러스트와 전용 음악으로 구성된 엔딩이 펼쳐집니다.\n\n■ 편대 전투와 40종의 보스\n적 편대는 여러 방향에서 진입해 대형을 갖추고 공격합니다. 구역마다 5번째 스테이지의 중간 보스와 10번째 스테이지의 구역 보스가 서로 다른 선체와 탄막을 펼칩니다. 보스를 격파할 때 장갑과 무장이 단계적으로 파손되는 모습을 확인하세요.\n\n■ 무기 강화와 보조기 편대\n번개, 레이저, 유탄, 반사포 등 무기를 최대 5단계까지 강화하세요. 보조기를 최대 3기까지 함께 띄우고, 보호막과 비상 폭탄으로 위기를 넘기세요. 오비탈 도크에서 모은 코인으로 기체와 정비 용품을 마련할 수 있습니다.\n\n■ 닉네임으로 도전하는 통합 랭킹\n프로필에서 온라인 공개를 켜면 게임오버 점수가 온라인 랭킹에 등록됩니다. 통합 순위표에서는 닉네임과 최고점수로 경쟁합니다. 전투는 인터넷 연결 없이도 즐길 수 있으며, 온라인 랭킹에는 인터넷 연결이 필요합니다.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sVu_Qt3Q22EOy_qrZWqUmKZoYWn83l_5S0eX2oCcCBaTf3UsJxFeruZAUk6YBKDOQAPsg3_d046J1zM-TSLD",
+        "https://play-lh.googleusercontent.com/VE5fDVMHFhhVJ9q365ez6hJSWzGKF4gDRZjDGmx8pvPoUWrX78nRXSplOmxLZ8RZiF7b8juZlX-FD_ftiy9ELw",
+        "https://play-lh.googleusercontent.com/mNghoBQoHtAbJX41ggSs4hfFtN9JX9SLmHsbqbpVVrndc8vMb2V-LKdN30Jun9An1fLWprT71bR4fxMCQCy1",
+        "https://play-lh.googleusercontent.com/kxSm0-0Y6X_Xb3k61pe_5Ot4awNPvl_IpaCljSQ8tA2jegF1g4kGoDjKM-4zhOi_z0sPCwK1sIKXG4Ntr4sVnto",
+        "https://play-lh.googleusercontent.com/k4eHkLA0jgauqELn_yyT4lUi5y5Qkz9xgRJX__qPMcg2Ua_P_THL9MO9bDnPrYjPv2kDJ2M6H5D7YbVP8uq4Sg",
+        "https://play-lh.googleusercontent.com/I_lEsE9MyX4i_bJ7oUGRZRzcjf-9vCrKKpNYEiFkGPAbb1l9vVTUtd18DuYLhG-CExmF9Mc8IbEfXllONYPMbQ"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.newooju.starlight_garden",
@@ -208,7 +412,13 @@
       "released": "2026-11-10T13:45:41Z",
       "icon": "https://play-lh.googleusercontent.com/UGQzQT1Sz2zlVp3Q2DI_TTd596dTeKPfI1yTjwfeNzeGK0LiRhuNTlFfdk9bKzYAx6or7udxhOWID9veHGZ5",
       "developer": "NEWOOJU",
-      "description": "별빛을 모아 화분을 강화하고 정원의 새 구역을 열어요. 별빛 화단에서 씨앗을 골라 심고, 물을 주어 꽃이 피면 수확할 수 있어요. 별알 둥지에서 별알을 돌보고, 부화한 식물과 정원 친구를 도감에서 확인해요. 정원을 꾸미거나 심기, 물 주기, 수확으로 오늘의 정원 목표에 도전할 수 있어요. 자리를 비운 동안에도 별빛이 쌓여"
+      "description": "별빛을 모아 화분을 강화하고 정원의 새 구역을 열어요. 별빛 화단에서 씨앗을 골라 심고, 물을 주어 꽃이 피면 수확할 수 있어요.\n\n별알 둥지에서 별알을 돌보고, 부화한 식물과 정원 친구를 도감에서 확인해요. 정원을 꾸미거나 심기, 물 주기, 수확으로 오늘의 정원 목표에 도전할 수 있어요.\n\n자리를 비운 동안에도 별빛이 쌓여요. 수면 모드를 켜면 화면이 어두워지고 효과음이 꺼진 상태로 별빛을 모아요.\n\n광고 포함: 보상형 광고는 선택해서 볼 수 있어요. 시청하면 오프라인 보상 등 일부 보상을 추가로 받을 수 있어요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/n_Jcl30IhaCjDwYMWrrBcMYDB4aNIUC44bwgN4E8EFYYsucrYdeajjiRQokzouNLBvNcoPB-umDkTIJo81cRtXY",
+        "https://play-lh.googleusercontent.com/eaZNfomamtPegDZrnB38AUlC19XqnQTxCw0im5dZBhmUYoX-rnuxA1NDmpqGGi3f4ghxfJkKSqj_4yhR1ovpJg",
+        "https://play-lh.googleusercontent.com/M11rAv-_gD3TSt9TfeKarLiN_3XIJZdOb3a76na9L6N09w5hpO36c2WkI6Ap9QY04Lck9JQ8DI9OSekWkqIzFQ"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.newooju.cat_gunner",
@@ -216,7 +426,14 @@
       "released": "2026-11-10T13:36:05Z",
       "icon": "https://play-lh.googleusercontent.com/K4bHw_z_Sc3KUyggmYEEKN94Ft0C1c1FWHmk2bPbGU66C_XRre3Z5FPNxdnXf1W8JRAPZPS7_IQiSXvtDSdj9g",
       "developer": "NEWOOJU",
-      "description": "고양이가 대포로 몰려오는 몬스터를 상대하는 방치형 RPG예요. 전투에서 얻은 골드로 공격력과 발사 속도 등을 올리고, 구역을 진행하며 보스를 만나요. 원정에 나설 고양이를 고르고 장비를 제작하거나 착용해 전투를 준비해요. 모은 고양이와 장비는 도감에서 확인할 수 있어요. 자리를 비운 뒤 게임에 돌아오면 쌓인 방치 보상을 "
+      "description": "고양이가 대포로 몰려오는 몬스터를 상대하는 방치형 RPG예요. 전투에서 얻은 골드로 공격력과 발사 속도 등을 올리고, 구역을 진행하며 보스를 만나요.\n\n원정에 나설 고양이를 고르고 장비를 제작하거나 착용해 전투를 준비해요. 모은 고양이와 장비는 도감에서 확인할 수 있어요.\n\n자리를 비운 뒤 게임에 돌아오면 쌓인 방치 보상을 받을 수 있어요.\n\n광고 포함: 보상형 광고는 선택해서 볼 수 있어요. 시청하면 방치 보상을 늘리거나 전투를 이어갈 수 있어요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/mqw-ww4FQbt8SnejDyh4Uw_iRCxc5mLXtNJTN5T8P_0E_yDYCTbjjF5eGobPvqflpGp0kGGyBlNfRGvVmukpDw",
+        "https://play-lh.googleusercontent.com/sRdnuFXeioLDg1T_ZXZf_zOg-7_t9Ly2LP-11UYowKPPqFPPDjD4027igrq00cYpx9VWIjCnrHQMVawFDM1l5yU",
+        "https://play-lh.googleusercontent.com/YtXCJ15ZkaMjd_FwoVClXEc5rlAoN94xaAKfTT7IxZv3ksdvqeqz5NHLOdJ36l281qt6Rc-UQrmgFS6NmIDL",
+        "https://play-lh.googleusercontent.com/ojO5-qFLFjH0EBIA8s42hsQCCA_0bCWMQEf9clrk_p2Ke_VpJ3sihhjcbMngLeTDEEV5TvLaSWiDKR1_tFzEk2Y"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.mansil.relicradar",
@@ -224,7 +441,16 @@
       "released": "2026-11-10T12:56:03Z",
       "icon": "https://play-lh.googleusercontent.com/9pmD32GJjWxG9vTV3-7_mllGXNTsfynOSUvfFeuBTFMsP9CtA9esrg76SkP_1lqgxKcuBxNTT5y-wwtmATSNNA",
       "developer": "김만실",
-      "description": "금속탐지기에서 삐삐 소리가 난다. 여기를 파면 금반지가 나올까, 병뚜껑이 나올까? ‘땅 파면 돈나오냐?’는 금속탐지기로 숨은 물건을 발견하고, 직접 발굴해 도감을 채우는 캐주얼 보물찾기 게임입니다. 귀여운 탐사 대원과 함께 100개 지도를 탐험하고 50종의 보물을 수집하세요. 고물 속 뜻밖의 횡재, 장비 업그레이드, 발굴"
+      "description": "금속탐지기에서 삐삐 소리가 난다. 여기를 파면 금반지가 나올까, 병뚜껑이 나올까?\n\n‘땅 파면 돈나오냐?’는 금속탐지기로 숨은 물건을 발견하고, 직접 발굴해 도감을 채우는 캐주얼 보물찾기 게임입니다. 귀여운 탐사 대원과 함께 100개 지도를 탐험하고 50종의 보물을 수집하세요. 고물 속 뜻밖의 횡재, 장비 업그레이드, 발굴 중 이어지는 미니게임과 사건이 기다립니다.\n\n[삐삐 울리는 신호를 따라 보물찾기]\n지도를 자유롭게 이동하며 금속 반응을 찾아보세요. 수상한 신호 앞에서 멈춰 정밀 탐지를 하면 매장 깊이와 발굴 성공률을 확인할 수 있습니다. 무엇이 묻혀 있는지는 땅을 파기 전까지 알 수 없어요. 이번 신호에 도전할지, 다른 자리를 찾아볼지 직접 결정하세요.\n\n[100개 지도와 매번 달라지는 발굴 위치]\n다양한 분위기의 지역으로 이어지는 100스테이지를 탐험하세요. 같은 지도에 다시 도전해도 매장물 위치가 달라집니다. 한 판의 목표 발굴 가치를 달성하면 다음 스테이지가 열립니다. 정밀 탐지 횟수가 한정되어 있어 어디를 살펴보고 무엇을 발굴할지 선택하는 재미가 있습니다.\n\n[병뚜껑부터 왕관까지, 50종 수집 도감]\n소소한 고물부터 반지, 금화, 보석 장식 보물과 왕관까지 찾아보세요. 처음 발견한 물건은 그림 도감으로 해금되고, 중복 발견에도 게임 머니를 받습니다. 초반에도 뜻밖의 좋은 물건을 발견할 수 있으며, 뒤쪽 지역에서는 더 값진 보물이 새로 등장합니다. 한 번의 횡재가 탐사 결과를 바꿀지도 몰라요.\n\n[고물 탐지기와 녹슨 모종삽에서 시작하는 장비 성장]\n탐지기 5종과 발굴장비 15종을 순서대로 구매하고 장착하세요. 더 좋은 탐지기로 탐사 범위를 넓히고, 모종삽·삽·곡괭이·땅파는 드릴·굴착기로 발굴 장비를 발전시킬 수 있습니다. 물건의 깊이와 발굴 성공률을 살펴보며 다음 업그레이드를 준비하세요. 재도전해도 모은 머니, 구매 장비와 도감은 유지됩니다.\n\n[발굴하다 만나는 미니게임과 뜻밖의 사건]\n물건을 발견하면 상황에 맞는 도전으로 이어집니다. 손가락으로 문질러 녹을 제거하고, 엉킨 사슬을 풀고, 금고 다이얼과 자동차 회로에 도전해 보세요. 처음 접하는 미니게임은 설명과 샘플 따라 하기로 익힐 수 있습니다.\n분실물의 주인을 찾아주면 물건에 얽힌 다양한 사연을 만나게 됩니다. 단서를 따라 숨은 보물을 찾거나, 얄미운 두더지가 보물을 자랑하며 달아나는 사건도 경험해 보세요.\n\n[개성 있는 6명의 탐사 대원]\n양동이, 찌루, 국수, 치즈, 나리, 뻘짓봇과 함께 출발하세요. 좋아하는 캐릭터를 선택하고 탐사 도중에도 바꿀 수 있습니다. 카툰 스타일의 지도와 캐릭터, 땅파는 동작과 효과음으로 가볍게 즐기는 탐험의 재미를 담았습니다.\n\n[게임 이용 안내]\n• 가로 화면으로 플레이하는 싱글 플레이 게임입니다.\n• 표시되는 돈과 보물 가치는 게임 속 재화이며 현금으로 교환하거나 출금할 수 없습니다.\n• 광고가 포함되어 있으며 광고 이용에는 인터넷 연결이 필요합니다.\n• 선택형 보상 광고로 해당 발굴의 성공률을 5%p 올릴 수 있습니다(최대 100%).\n• 게임 진행은 기기에 저장됩니다. 앱 데이터 삭제 또는 앱 제거 시 진행 정보가 삭제될 수 있습니다.\n\n문의: jwkim7127@gmail.com\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/dphBrhTkBbjmZvlD9rhDHLhJw16mejZFOR2KblKTDXZNEHhpQnY98V3ByGS98rFgzg2BcBDEtb598z52DTU6",
+        "https://play-lh.googleusercontent.com/1zY-KYRTzGuetoT2p3kdoIwucGX6mcMSOOgwv8HEcEnqp80afNduoOb7f0nWUKyByOcTZNXcT-UipkVTsEof",
+        "https://play-lh.googleusercontent.com/p6pDd17aAr7C1JuosVrcI_2kAQtiTFNnLdcT3WSk2BI9V5_PAoX2i2onzJE22zSGcP4W80NAsfbYZG0asPUX0GA",
+        "https://play-lh.googleusercontent.com/HKR5E-joF9r4tmfOLLU4PEmP7SKkwd1IVF5_saLkessXOx-9nFN4tAIjbH8p9FBlRiD5EbubW0qdwpxUiIVnVw",
+        "https://play-lh.googleusercontent.com/-wsFF1oJLt5lobKiIQZ6yk3xYiv1TcPmL13KLrg0zhQiZ05Bu0UQ0FQREnuH7i852R1vD4O1_zhsFNEq99iqPg",
+        "https://play-lh.googleusercontent.com/9TYAd8mHuVacfBBa-5VVZ9BGA9fEYoD5TKuSyKVXyI9GQN0AI49AnuxmtbuPAXEulusQk01HibUKAd3a4Vi433g"
+      ],
+      "details_version": 2
     },
     {
       "id": "kr.dreamsoft21.studychingu.app",
@@ -232,7 +458,16 @@
       "released": "2026-11-10T11:44:09Z",
       "icon": "https://play-lh.googleusercontent.com/Qw0IXe5TF4oLyL2fr46f_9-NDmOo9x8vOcgxazK_QQENcjiVCdcpLuP_bj5Ez9YsVV65s_j4E1mVF3pjAZol",
       "developer": "성용",
-      "description": "아침 집중 공부부터 점심·저녁 식사, 저녁 유산소 러닝, 잠자리 수면 동화까지! 하루친구(HaruChingu)는 밥친구·런닝친구·공부친구·동화친구 4가지 일상 루틴 서비스를 하나로 통합한 올인원 라이프스타일 루틴 메이트 앱입니다. ■ 1. 탭 1: 🏠 하루홈 (4대 일상 루틴 통합 허브) - 아침·점심·오후·저녁·밤 시간"
+      "description": "아침 집중 공부부터 점심·저녁 식사, 저녁 유산소 러닝, 잠자리 수면 동화까지!\n하루친구(HaruChingu)는 밥친구·런닝친구·공부친구·동화친구 4가지 일상 루틴 서비스를 하나로 통합한 올인원 라이프스타일 루틴 메이트 앱입니다.\n\n■ 1. 탭 1: 🏠 하루홈 (4대 일상 루틴 통합 허브)\n- 아침·점심·오후·저녁·밤 시간대에 맞춰 지금 가장 필요한 친구 모드를 추천하고, 오늘 나의 하루 루틴 달성률(%)을 한눈에 보여줍니다.\n- 밥친구(7,919편) · 런닝친구(7,054편) · 공부친구(790편) · 동화친구(2,973편) 총 18,736편의 상황별 큐레이션과 전용 네이티브 도구로 원터치 진입할 수 있습니다.\n\n■ 2. 탭 2: 📺 영상피드 (상단 캡슐 스위처로 4개 모드 즉시 전환)\n- 상단 고정 네이티브 스위처(밥친구 / 런닝 / 공부 / 동화)를 누르면 앱 테마 컬러와 맞춤 영상 피드가 즉시 전환됩니다.\n- 식사할 때 보기 좋은 혼밥·집밥 영상, 러닝머신 위에서 달리기 좋은 버추얼 코스, 독서실 노토킹 스터디윗미·ASMR, 아이 잠자리 명작·수면 동화를 한 앱에서 모두 즐길 수 있습니다.\n\n■ 3. 탭 3: ⏱️ 루틴도구 (오프라인에서도 100% 작동하는 4대 전용 네이티브 스튜디오)\n- [🍚 밥친구 도구]: 천천히 꼭꼭 씹기 식사 타이머(15/20/30/40분), 한입 카운터 & 24종 오늘 뭐 먹지 메뉴 룰렛\n- [🏃 런닝친구 도구]: 유산소 인터벌 타이머, 트레드밀 속도(km/h) ↔ 러닝 페이스(분'초\"/km)·예상 칼로리(kcal)·권장 케이던스(SPM) 실시간 계산기\n- [📚 공부친구 도구]: 25분 뽀모도로 / 50분 서울대식 집중 타이머 & 과목별 백지복습 회독 트래커\n- [🧚 동화친구 도구]: 포근한 잠자리 수면 페이드아웃 타이머 & 우리 아이 생활습관 칭찬 스티커판(10칸 보드)\n\n■ 4. 탭 4: 📅 하루일지 (4대 루틴 통합 타임라인 & 맞춤 알림)\n- 식사·운동·공부·동화 루틴 기록을 기기 내에 통합 저장하고, 카테고리별 필터링과 주간 달성률 리포트를 제공합니다.\n- 모닝 공부(09:00), 점심 식사(12:00), 저녁 러닝(19:00), 잠자리 동화(21:00) 시간대별 로컬 알림을 지원합니다.\n\n공식 웹사이트: https://studychingu.dreamsoft21.kr",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/vw-yv7MqxzrV6sxg5fcohfyPcr2l_rzEddkQ3Lb8O4aerPT6SDZgv-xD6m86JcM2po-f1IwZTI5ACElKJoJ2lA",
+        "https://play-lh.googleusercontent.com/C-SKtlYgAVxjJ0FKVw9eWwBtub5X9w3ZWNf1YjyaoCUw9wxLOos4BBpwLp2ltRI71HXtCIz6egfh73SoUEAv9Q",
+        "https://play-lh.googleusercontent.com/Rhm_XXyidxzaCrk2B5AUdLL4ttIzESYOPdkBNRXpXmRWjFKXs2K750uJpbzzbv5qoEc1Mtfsf0Gle0k4kua_rw",
+        "https://play-lh.googleusercontent.com/TSd9GQY7o0RyQbAIfmjn5cWqq5RvEuuOrON4yFXSa9k8PlPiQlNM7PF-Zpr95U_JZ42FcR-IVYaLa65OzhanDnQ",
+        "https://play-lh.googleusercontent.com/XC42rxijjNluxz6SjYHA6xtEBFV61pPMrXCutD0WJXMPqTHPQ9aYbmIaNbkW2XwMBEnqUk_OPeDTtvI5_VI3xA",
+        "https://play-lh.googleusercontent.com/ZeHGSF0QYR7HC3KNLvfV4IEtU2Nhu8tDZXZRLlI8t4erzG8oepBry4MyVoPZ3wBb3ZRiiqHzbsRUU8_ETLp-4Q"
+      ],
+      "details_version": 2
     },
     {
       "id": "kr.sharenshare.apps.unicor",
@@ -240,7 +475,16 @@
       "released": "2026-11-10T08:57:44Z",
       "icon": "https://play-lh.googleusercontent.com/B5i6Njg-2wc5uOpBnnsClWSyGEHlMtpJaurYpiofUP40T3P6253OTl79H-53X000UuktIlaqNx-1lZDH1pYreQ",
       "developer": "Share & Share Co,. Ltd.",
-      "description": "와이파이 게이트는 와이파이 기반 스마트 기기와 공간을 더 편리하게 관리할 수 있도록 도와주는 IoT 관리 앱입니다. 사용자는 앱을 통해 등록된 기기의 상태를 확인하고, 필요한 제어 기능을 간편하게 사용할 수 있습니다. 공간별 기기 관리, 사용자 권한 관리, 예약 기능 등을 지원하여 개인은 물론 공유 공간이나 조직에서도 효"
+      "description": "와이파이 게이트는 와이파이 기반 스마트 기기와 공간을 더 편리하게 관리할 수 있도록 도와주는 IoT 관리 앱입니다.\n\n사용자는 앱을 통해 등록된 기기의 상태를 확인하고, 필요한 제어 기능을 간편하게 사용할 수 있습니다. 공간별 기기 관리, 사용자 권한 관리, 예약 기능 등을 지원하여 개인은 물론 공유 공간이나 조직에서도 효율적으로 사용할 수 있습니다.\n\n주요 기능\n- 스마트 기기 등록 및 관리\n- 기기 상태 확인 및 제어\n- 공간별 기기 분류\n- 사용자 및 권한 관리\n- 예약 및 이용 내역 확인\n- 알림을 통한 주요 상태 안내\n- 모바일 환경에 최적화된 편리한 사용 경험\n\n와이파이 게이트는 기기와 공간을 더 쉽게 연결하고, 필요한 기능을 한곳에서 관리할 수 있도록 설계되었습니다.\n일상적인 기기 제어부터 공간 운영까지, 와이파이 게이트로 더 간편하게 관리해 보세요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/H5OetsvqMSvXUszfZfBUJYpNRFIYp-QtX3Y9hwg0Je7soz9WcKU0mgL-QxZtZ2bRt8J1pmBodwUjRyinVhUlDg",
+        "https://play-lh.googleusercontent.com/ZTVXuUhNpHWSHFwBOgOsNJJp_tJlfQvEUKeahas0qw9xzMIVDFHqmPYtVeOsCPJo-plyo8RdQyY55XwnAkTjiQ",
+        "https://play-lh.googleusercontent.com/dh5vrQpjKXm9GV_fRFYnKj4qEC5bNCOofwsL8BAMc4TFg-8qyzKPhUCGt6ULWO92cJ8j-zeTce-MFTaLpqVn",
+        "https://play-lh.googleusercontent.com/UrbWE3lwHQjRv3_W9Hr-Ikm5LkBYpjfv4zdESSDuyjVE-4vKpZGXYvR5gwQpHJjnHFfRISayoVu2fXiiLS4OX0E",
+        "https://play-lh.googleusercontent.com/1e39pu_UO_FA-YmuukMjRTUgI11s0bwuF4Nbj4y--fa_ScnEEoxI90d-QkYjTJBD3_RWvHqwfZX8qFbO8jtqZQ",
+        "https://play-lh.googleusercontent.com/QveBd6_7uOUoSWHCvjgmhpTQjTUs_ZTK9wGsmWuYQ4c0VcSM7BZofq9GeKcFQ5iAQ7OITvU9kh3TRmJtBdgLIQ"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.feltpang.app",
@@ -248,7 +492,13 @@
       "released": "2026-11-10T08:07:01Z",
       "icon": "https://play-lh.googleusercontent.com/QK9qfF__Bta9PUg6p35xBKpWIOdTGaiMRJ_7ifaBDxYP9HNB_Es74bMatq1ksG5NZvsxWwpg38R4kWFxikUcAw",
       "developer": "Smart it",
-      "description": "폭신한 펠트 조각을 떨어뜨려 같은 것끼리 합치는 물리 퍼즐이에요. 펠트팡의 특별한 점은 조각을 내 사진으로 바꿀 수 있다는 것! ■ 내 사진으로 하는 합치기 게임 · 가족, 친구, 반려동물 사진을 여러 장 한 번에 고르면 작은 조각부터 차례로 들어가요. · 사진 위치와 크기는 원 안에서 직접 맞출 수 있어요. · 같은 얼"
+      "description": "폭신한 펠트 조각을 떨어뜨려 같은 것끼리 합치는 물리 퍼즐이에요.\n펠트팡의 특별한 점은 조각을 내 사진으로 바꿀 수 있다는 것!\n\n■ 내 사진으로 하는 합치기 게임\n· 가족, 친구, 반려동물 사진을 여러 장 한 번에 고르면 작은 조각부터 차례로 들어가요.\n· 사진 위치와 크기는 원 안에서 직접 맞출 수 있어요.\n· 같은 얼굴끼리 닿으면 합쳐져서 다음 얼굴이 돼요.\n\n■ 손바느질 느낌의 펠트 그림\n· 단추, 폼폼, 도토리부터 해님까지 10단계 펠트 친구들\n· 사진을 넣지 않아도 귀여운 펠트 그림으로 바로 즐길 수 있어요.\n\n■ 안심하고 쓰는 사진\n· 고른 사진은 휴대전화 안에만 저장되고, 어디로도 전송되지 않아요.\n· 회원가입, 광고, 앨범 전체 접근 권한이 없어요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/uJt4UkoHaZ6KJd3Y9s1lYrWqznbaUSPolbm41tqOhw9j3gGZVGWHVWrFOeIqIXUV3Fwn9hD33-LEkMa4DH8YJw",
+        "https://play-lh.googleusercontent.com/_VJAUXplqDUzkFi-v3X7_ErJcen16pWD2EN-OSsDcjRzKadeuQ7ECddhK6wrO21VsgO8KEQ721Og8BS6f3DCYg",
+        "https://play-lh.googleusercontent.com/mh_HI7brEV6ubQmYfNzWJE7NQ1rVA6tydx-f028sC2aPwCF1lz12uaIPrZtbi3o2fueyVn5ajz3z-Zh1h1zGWQ"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.cafe24.ec.plusaudwn85",
@@ -256,7 +506,15 @@
       "released": "2026-11-10T07:27:40Z",
       "icon": "https://play-lh.googleusercontent.com/WmcyIjjyG5GtIUo4BQu8cc9ipACDE0QuVLTkecTwweWjfos8agQwWH9BZUUZLCTXPHAJPe2FS6bzoPh6-wd1Kg",
       "developer": "cafe24 PRO 2",
-      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers. Main features: Enjoy exclusive coupons and discounts Use automatic login Chec"
+      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers.\n\nMain features:\n\nEnjoy exclusive coupons and discounts\n\nUse automatic login\n\nCheck and track your orders\n\nManage your shopping cart and shipping info\n\nReceive store notifications\n\nAccess social media channels\n\nContact Customer Service",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/pW1IB8GcWVLfY7tgWUFSjqBkBAlRGzr5RNagZs9369z1XiXS-gGlDMa1vYMQHKK-qChcIo226-TfqKpMNqYLgA",
+        "https://play-lh.googleusercontent.com/DADU0r76yoNOojWaecOYD709oyBss5m4pkWGMrZ32f-hWbdVqXDNJmihBw8rvXXoyXHTpc5RSayjnHvlF16NEg",
+        "https://play-lh.googleusercontent.com/CJ6B-u_BqobSM7np5XealkBhjEIHloU63JxAdCzEjxFbf9QRRXeLluG3FnsgidFwBnxap9ELauGm0c8rdHhY7Q",
+        "https://play-lh.googleusercontent.com/uwDlbHA-DnWJV_B2ha-s31BhQCnsqYTrm0tfTTRx2tbtCs8MmV5-fUyN3mENq9RkC2tg5AkU8pNpZFM7-1t0XsQ",
+        "https://play-lh.googleusercontent.com/Upggi7yolC7WnCL68bZUNkWkbqCpdyDDBfPcKhrPsNCVmDaBOR66UaMEo8ULJgliRZ_BDkSFnOteVIKQl5WDwQ"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.cafe24.ec.plusfelicemall6435",
@@ -264,7 +522,14 @@
       "released": "2026-11-10T07:06:36Z",
       "icon": "https://play-lh.googleusercontent.com/C-KW67LibnCUG_6Xayx7qMrvpvN9fa3eaL4SnpHXhZWMIDXgd5PTMZ_7eBhg9mCbDAilb1KrIQDOhE3VopCQ",
       "developer": "cafe24 PRO 4",
-      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers. Main features: Enjoy exclusive coupons and discounts Use automatic login Chec"
+      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers.\n\nMain features:\n\nEnjoy exclusive coupons and discounts\n\nUse automatic login\n\nCheck and track your orders\n\nManage your shopping cart and shipping info\n\nReceive store notifications\n\nAccess social media channels\n\nContact Customer Service",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/8NnwfVql1LhvdzIYeaYK8o-Oa7F3_I3XDRPpgkcFF5GwFzeofgtqJ5cnwj5UuMsccA8sgVukdRjLHFUfZCz6uso",
+        "https://play-lh.googleusercontent.com/R6P_Z8PtXcEfSQ00MqOt4EjkPEgO5WizswcP75xhBOWcX3Fe0L3CR4VOtQpe2hZj1yg-1NlOB-yiwR_-xhPynA",
+        "https://play-lh.googleusercontent.com/Mkz6kF5YSmeKi4FSPMxVaq9qg1zacZkUJDVfeNEadLAiBeNRbzoRbOsplaNS4sCRSf6uktJfdSkBE0wWCce_XA",
+        "https://play-lh.googleusercontent.com/qZrJEEjE7qa3ZF56Xanx8adAJUpQqBOoHlgrZVRe1RPe83qUl1eqKWt36a1txYvRIvWwL_ytEoNTq1axU6srU_4"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.cafe24.ec.pluswepnp5230",
@@ -272,7 +537,14 @@
       "released": "2026-11-10T06:56:44Z",
       "icon": "https://play-lh.googleusercontent.com/OIHRKvyev6lnUf7NbaYZn6AKs3HPKHgZTmo5xt-ZLadctdpr_LXkgf35cAYTx4M1No7rvFdCe8T-pgehs7T28g",
       "developer": "cafe24 PRO 4",
-      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers. Main features: Enjoy exclusive coupons and discounts Use automatic login Chec"
+      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers.\n\nMain features:\n\nEnjoy exclusive coupons and discounts\n\nUse automatic login\n\nCheck and track your orders\n\nManage your shopping cart and shipping info\n\nReceive store notifications\n\nAccess social media channels\n\nContact Customer Service",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ZdjoAZ5BAyUHCAYK6fji779W8Gc9J42dwU32Wi6TO3bfSBHkINRjFlQihsiK-x2hiB6XjwavkdBy8Pe84uqkz-A",
+        "https://play-lh.googleusercontent.com/L3KWrKMKDn6Cpsncvtx0Dbqi8zY3LhBAV0R4z1PtUb4_UIsZ_2NurBqqh6YnK6d3TNoekRKAq81iB8J_L0312w",
+        "https://play-lh.googleusercontent.com/v2ce8Du92JBtob3mYsPTguIIPJp15JiDJN3xnMwqtzkU9EfljJ4Mzisy8wInqEPYpdWTTZLHZfd3lsRvuY8TMYk",
+        "https://play-lh.googleusercontent.com/Zx4k2ocUEJyTPBV2Me6H5blaBhEe7Zv5mZfrjwxmlUkWoVSmI51SPjB1GLowOy9kxkg_jRzHR0KAa43bQus5ZQ"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.cafe24.ec.plusgkdlcm0303",
@@ -280,7 +552,15 @@
       "released": "2026-11-10T06:46:31Z",
       "icon": "https://play-lh.googleusercontent.com/p5q_vm_tsewQRJzfhLUmIV795MtPp93oDFACVgg3oBOZ3gdr6F4DnN4_wmu4N38XwNvcIx4B78d7dBsnTB37xCI",
       "developer": "cafe24 PRO 4",
-      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers. Main features: Enjoy exclusive coupons and discounts Use automatic login Chec"
+      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers.\n\nMain features:\n\nEnjoy exclusive coupons and discounts\n\nUse automatic login\n\nCheck and track your orders\n\nManage your shopping cart and shipping info\n\nReceive store notifications\n\nAccess social media channels\n\nContact Customer Service",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/bFDbeJO7HA0BHi2NK-_m4UfLsIM-HfjFtN5E3X_8vVY2dvDNr7WY136o7ivs_PO6ptjMocLT5a5YmmNGr6OdzQ",
+        "https://play-lh.googleusercontent.com/uzBkSRgswEAplfft39v6_TJWwEw16G5iUZLCLVsgvksrgauLCDBLnnIi9pwxj6QkB7TDL7TN_g2NXPE5ICR_gvE",
+        "https://play-lh.googleusercontent.com/slBh_6h3gKTiTGGW73I71wZojwfl7tkisAMDWFbXp8Jfpq2UrEFPokMp12TFk68zcysHHthUqLMcMjzTYRnHhKA",
+        "https://play-lh.googleusercontent.com/aKDjuXfppu2iuVLt1_Nh2WI2N3s1wlkVDg3S3W65m73k1jjrZnU3sd4XiUsFG6WOyqq1atPwI0JR7Jnd_VSLoQ",
+        "https://play-lh.googleusercontent.com/rmqtX86Fqulz_Daze_MKukyVx6JRW67nAhKVUThOVqGSOvWb-rM1BVtmo2RuGvo-HeRja3hPrG0XlFpdFOF5"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.newooju.cat_queens",
@@ -288,7 +568,14 @@
       "released": "2026-11-10T06:15:07Z",
       "icon": "https://play-lh.googleusercontent.com/JmkICl23YZ2-0b7ZK5e5wShtxOyM0KoBQTvmzIiWTMQK2aLXApKdtdKgdJF-A9DC_0g9Mf9OhckSa694A0uT",
       "developer": "NEWOOJU",
-      "description": "색으로 나뉜 격자에서 고양이가 앉을 자리를 찾는 논리 퍼즐이에요. 각 행과 열, 색 구역에 고양이를 한 마리씩 놓고, 두 고양이가 가로나 세로, 대각선으로 이웃하지 않게 배치해요. 작은 격자부터 9×9 격자까지 도전해 보세요. 레벨 퍼즐을 이어서 풀거나, 날짜마다 달라지는 오늘의 퍼즐을 선택할 수 있어요. 어디에 놓을지 "
+      "description": "색으로 나뉜 격자에서 고양이가 앉을 자리를 찾는 논리 퍼즐이에요. 각 행과 열, 색 구역에 고양이를 한 마리씩 놓고, 두 고양이가 가로나 세로, 대각선으로 이웃하지 않게 배치해요.\n\n작은 격자부터 9×9 격자까지 도전해 보세요. 레벨 퍼즐을 이어서 풀거나, 날짜마다 달라지는 오늘의 퍼즐을 선택할 수 있어요.\n\n어디에 놓을지 막힐 때는 힌트로 다음 자리를 확인할 수 있어요.\n\n광고 포함: 보상형 광고는 선택해서 볼 수 있어요. 시청하면 힌트나 추가 보상을 받을 수 있어요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/p7HOXyUfMMOyS5d8ZSrDkkFm1nYqarCSnPH-g7Gg_sM93qv-8NbgNNfbiUoDpSKw18mr4cNy_fquSMKKBzXhYQ",
+        "https://play-lh.googleusercontent.com/kNUALia_-3AnpE4mxcNfnK1krL6ITWzoGpnY6U-Du238565BiA6o0tabjrRHFS_1X-VO5jYAbNE6fYrrkxjX8A",
+        "https://play-lh.googleusercontent.com/ppCP7_w3czikVU51c6cBnhrmtbXl5-_Daq8Xp-SaFnkmj5TqmJgk0zQf1PL35uxi7ezFutG1itC59ryLPyu9ag",
+        "https://play-lh.googleusercontent.com/EN0CJBnqkOzTLgWUks-7-BSjJt94ieBjtvkTUGnp3wBmZ0CsovCfcmRabeBCSTLqpnJoP0j_6dQ8YvNuZIvIM-Y"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.mrsun.smartdetoxbiblequiz",
@@ -296,7 +583,12 @@
       "released": "2026-11-10T05:49:11Z",
       "icon": "https://play-lh.googleusercontent.com/3yEmmw_A0OjCA13mnBbEcMaNBEfSfZpi_ulaFVmupUIq4Y8aya_bnRiJDYLmt3VrXGI4cJsXR_Bhp_No4YvnGr8",
       "developer": "Venus샛별",
-      "description": "스마트폰 사용을 절제하고 말씀과 기도로 하루를 채우는 디지털 디톡스 영성 훈련 앱, DD입니다. 무분별한 스마트폰 사용과 도파민 중독에서 벗어나, 정해진 시간 동안 온전히 집중하고 성경 말씀을 묵상할 수 있도록 돕습니다. [주요 기능] 1. 30분 디지털 디톡스 타이머(시간과 문항수는 설정에서 조정 가능합니다.) - 시작"
+      "description": "스마트폰 사용을 절제하고 말씀과 기도로 하루를 채우는 디지털 디톡스 영성 훈련 앱, DD입니다.\n\n무분별한 스마트폰 사용과 도파민 중독에서 벗어나, 정해진 시간 동안 온전히 집중하고 성경 말씀을 묵상할 수 있도록 돕습니다.\n\n[주요 기능]\n1. 30분 디지털 디톡스 타이머(시간과 문항수는 설정에서 조정 가능합니다.)\n- 시작 버튼을 누르고 30분 동안 스마트폰 사용을 절제합니다.\n- 앱을 닫거나 백그라운드로 전환해도 정확하게 시간을 측정합니다.\n- 30분 훈련이 완료되면 알림(소리/진동)을 통해 성경 퀴즈 풀이로 안내합니다.\n\n2. 성경 퀴즈 및 말씀 훈련\n- 디톡스 완료 후 유익한 성경 퀴즈를 풀며 말씀을 되새깁니다.\n- 구약과 신약의 다양한 퀴즈를 통해 성경 지식과 영성을 함께 기릅니다.\n\n스마트폰을 내려놓고 말씀에 귀 기울이는 거룩한 습관, 지금 DD와 함께 시작해보세요!",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ePiXx3wmhLtyeZLw7a-ENGCXOjeIUUQ7nSkTfRmMSiDvbdWK1eHX_kt-A-qhW7sY9brGs8p6mTERLd38_1y7",
+        "https://play-lh.googleusercontent.com/vnh8Y7JKIfJMar_bddT3TMjUSZVevbWMpdknH8NtxOw_hEKGS7Me0ruywc9Pqrz0fygkBJzZkAWa3TZgH1WNhA"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.newooju.cat_sort",
@@ -304,7 +596,14 @@
       "released": "2026-11-10T04:11:56Z",
       "icon": "https://play-lh.googleusercontent.com/Wo4vq520ddOuCNCx3lu-4ZWelwabk31CSV-YjtRYke_8wEJdwJf2TjBGueJvgkPpMTF8y8JnpQfzMtI1iAHB59U",
       "developer": "NEWOOJU",
-      "description": "방석에 앉아 있는 고양이를 옮겨 같은 종류끼리 모으는 정리 퍼즐이에요. 방석을 같은 종류의 고양이로 채우면 고양이들이 잠들어요. 회전 캣타워에서는 고리를 돌려 고양이의 자리를 맞춰요. 방석 정리와 회전 캣타워 두 종류의 퍼즐이 있고, 모은 고양이는 도감에서 확인할 수 있어요. 막히면 힌트를 보거나 마지막 움직임을 되돌릴 "
+      "description": "방석에 앉아 있는 고양이를 옮겨 같은 종류끼리 모으는 정리 퍼즐이에요. 방석을 같은 종류의 고양이로 채우면 고양이들이 잠들어요.\n\n회전 캣타워에서는 고리를 돌려 고양이의 자리를 맞춰요. 방석 정리와 회전 캣타워 두 종류의 퍼즐이 있고, 모은 고양이는 도감에서 확인할 수 있어요.\n\n막히면 힌트를 보거나 마지막 움직임을 되돌릴 수 있어요.\n\n광고 포함: 보상형 광고는 선택해서 볼 수 있어요. 시청하면 힌트나 되돌리기 횟수 등을 추가로 받을 수 있어요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/AsfWU5RCY4WICQoQ8TFHMUKLjscl9HF2tAV26dCJ_p1kqo_3XTk1cNIqnG3luKZqyf7uyCIWek3J_-mx4cAYtBo",
+        "https://play-lh.googleusercontent.com/ceKrRHHiWi0fkiDm7TH5Fq86QdBCw0orW4rbIcFz1y66O0wWvkHvElwWvonCfuFNnsOyRyCr-fHmmELZR3olVg",
+        "https://play-lh.googleusercontent.com/i0SMJaDsgPOu0rizVpxpzFogAHEtMqwZRAQ6r6a5K520FOgz_6K9GqCkaXKAoXCcBlh_QRcJKClKtSgmsNnc",
+        "https://play-lh.googleusercontent.com/Lw0R1e1AfFv-S4lc-8v-NYVNVbIp75UR13YcpSGj2d48NYSfbjqAiwlg4Z9Bm0IlTRczy46cozov2A4BJ9mHHm8"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.souliff.souliff_saju_ai",
@@ -312,7 +611,16 @@
       "released": "2026-11-10T00:06:38Z",
       "icon": "https://play-lh.googleusercontent.com/3fIaseX0M9JPIaAzjLNxGru52IlXJd3RcUE-fDHtPM3p7bMPtnKRbvYXXx0DUZjKysF_sHkaHTp2IPEnnMvJ",
       "developer": "Ciel Line",
-      "description": "“어려운 한자투성이 사주는 이제 그만! 누구나 1초 만에 이해하고 오늘 하루 바로 실천하는 진짜 인생 가이드” 소울리프(Souliff.com)의 첨단 온디바이스 명리 분석 엔진으로 완성된 『천기 (天機)』는 조선 고전 명리학의 깊이 있는 원리와 빅데이터를 융합하여, 복잡한 한자와 고어 대신 누구나 쉽게 이해할 수 있는 명"
+      "description": "“어려운 한자투성이 사주는 이제 그만!\n누구나 1초 만에 이해하고 오늘 하루 바로 실천하는 진짜 인생 가이드”\n\n소울리프(Souliff.com)의 첨단 온디바이스 명리 분석 엔진으로 완성된 \n『천기 (天機)』는 조선 고전 명리학의 깊이 있는 원리와 빅데이터를 융합하여,\n복잡한 한자와 고어 대신 누구나 쉽게 이해할 수 있는 명쾌한 현대적 행동 요령(Do & Don't)을 전해드립니다.\n\n데이터 통신 없이도 100% 오프라인에서 즉시 계산되는 초정밀 4기둥 8글자 만세력부터,\n사주 오행 에너지를 물리 시뮬레이션으로 구현한 3D 사주 로또,\n그리고 내 소원을 새겨 폰 잠금화면으로 평생 간직하는 60종 영험 실물 부적까지!\n당신의 2027년 대운과 매일의 복록을 천기가 든든하게 지켜드립니다.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🌟 『천기』만의 5대 핵심 기능과 특별함\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n1. 📌 초등학생도 1초 만에 이해하는 [오늘의 사주 운세 & 바이오리듬]\n• 난해한 한자나 선비 말투는 싹 뺐습니다!\n• [오늘의 핵심 운 흐름], [오늘의 황금 찬스], [오늘의 주의사항], [오늘의 복 부르는 비결]의 직관적인 3단계 가이드 제공.\n• 자시(子時)부터 해시(亥時)까지 24시간 12시진별 일상 행동 요령과 행운의 색상, 방위, 음식, 귀인 띠 처방전 수록.\n\n2. 🎰 내 사주 오행 맞춤 [3D 실시간 사주 로또 명당]\n• 내 사주 원국에서 부족한 기운을 채워주고 행운을 부르는 5대 테마 번호 조합!\n• (1) 수호천사 행운수, (2) 오행 에너지 보완수, (3) 대박 횡재수, (4) 귀인 합덕수, (5) 만사형통 조화수\n• 로또 1등 당첨 기운을 끌어당기는 오늘의 로또 명당 방위 및 명당 특징 안내.\n• 원클릭 번호 복사 및 실시간 추첨 연출 지원.\n\n3. 📿 60종 정통 영험 실물 부적 & [나만의 소원 각인 폰 배경화면]\n• 재물·로또(10종), 사업·성공(10종), 애정·인연(10종), 학업·승진(10종), 액막이·삼재(10종), 건강·소원(10종) 총 60종의 정통 실물 부적 탑재.\n• 내 이름과 간절한 소원을 붉은 주사(朱砂) 필체로 직접 새겨 넣는 나만의 소원 각인 기능.\n• 내 스마트폰 해상도에 완벽하게 맞춘 고해상도 복 부적 잠금화면/배경화면 즉시 다운로드 및 설정.\n\n4. 📜 혼자 끙끙 앓던 고민을 단칼에 해결하는 [천기 도사 1:1 밀실 비결서]\n• 이직, 퇴사, 사업 창업, 주식/코인 투자, 부동산 매매, 빚 청산, 연애/재회, 결혼 적기, 구설수/소송 등 인생 8대 고민 60대 현실 질문 트리 수록.\n• 도사의 명쾌한 결단(확신/신중/도약/경계)과 월별 대박 타이밍 지침 제공.\n• Souliff.com 공식 인증 정통 고서 양식의 칙명 비결서 PDF 자동 조판 및 카카오톡 공유/영구 보관 기능.\n\n5. 🔮 100% 온디바이스 정밀 [정통 만세력 명식표 & AI 사주 멘토]\n• 인터넷 연결이 끊겨도 0.01초 만에 정확하게 펼쳐지는 4기둥 8글자 사주 명식표.\n• 천간, 지지, 지장간, 10대 십신(十神), 12운성, 12신살(천을귀인·도화살·역마살 등)을 알기 쉬운 현대 언어로 완전 해설.\n• 2026년 병오년(붉은 말의 해) & 2027년 정미년(신년) 대운 심층 분석.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🛡️ 안심 정책 및 공식 안내\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n• 개인정보 100% 단말기 로컬 저장: 입력하신 생년월일과 사주 정보는 외부 서버로 일절 전송되지 않으며 스마트폰 내부에만 암호화되어 안전하게 보존됩니다.\n• 공식 개발사: Souliff (소울리프)\n• 공식 웹사이트: https://souliff.com\n• 공식 유튜브: https://www.youtube.com/@souliff\n• 고객지원 및 제휴 문의: cielline100@gmail.com",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/oRudoZ1K4jfhi2l9v7Pjiz2SXV48dxrSSLbH3nQZfhpu1zdnktFVUxybgXSfiONM7ikNvnW8yPDyILT5iB0c",
+        "https://play-lh.googleusercontent.com/6iahHmJ7bn2rXM8Ir7iOtm8YZdvMowu7RfGf1L6i11Q7A3pk1k8yHBRmGE1o4cx9RwGiqKqbMn4Zdb6nIrwMCuc",
+        "https://play-lh.googleusercontent.com/quu0ZlFncmeOroOBEteaM5DdCbnQkL8xQCcQ3pm1j61bTTU_78-3uxIj1dSX_2E3kil8Nc7e_5XgiS-WRHdQlg",
+        "https://play-lh.googleusercontent.com/o9uNvUEHdK-mhRzk85mJ87un371lLOlrnem9CoIDQ5SuW8i6rxNNbh6HPdgaNOdHiTB8l3RiQeCtluK5e5Im-w",
+        "https://play-lh.googleusercontent.com/n8xEn1awk1nuxicsk_YL8LruiqIwQKTU59EA_5BEfzgJaj8MLNB3Q5ldzHwFIFUco06-IhTPyWp0FfqE-cxLbw",
+        "https://play-lh.googleusercontent.com/k2zUaeFG7F-fuFc_6fdgtRSWZLthFo68sG4EYAvHFUCFrQzZxQ61zQ3KkD6CwuUvKWL9IcWHQG9FLxXOkmWLgA"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.minki.hanuru33",
@@ -320,7 +628,16 @@
       "released": "2026-11-09T23:43:41Z",
       "icon": "https://play-lh.googleusercontent.com/2TORJ4ZPkxZwSOjL5BMK-bO3uhqQbbsSsDBRWg-sMxWOagnL5TJwEMZx--Fl8OJpjppuT2bLmS7meXgQ8-VE7Q",
       "developer": "MKHJ Studio",
-      "description": "하루 33단어, 30일이면 일상 회화가 쉬워져요. 영어, 일본어, 중국어 중 공부할 언어를 고르고 1일차부터 30일차까지 하루 33개씩 단어와 표현을 익혀 보세요. ■ 이런 점이 좋아요 • 듣기: 단어와 예문 2개를 원어민 목소리로 들어요. 천천히 듣기도 지원해요. • 따라 말하기: 마이크로 직접 말하면 발음이 맞는지 바"
+      "description": "하루 33단어, 30일이면 일상 회화가 쉬워져요.\n\n영어, 일본어, 중국어 중 공부할 언어를 고르고 1일차부터 30일차까지 하루 33개씩 단어와 표현을 익혀 보세요.\n\n■ 이런 점이 좋아요\n• 듣기: 단어와 예문 2개를 원어민 목소리로 들어요. 천천히 듣기도 지원해요.\n• 따라 말하기: 마이크로 직접 말하면 발음이 맞는지 바로 확인해 줘요.\n• 문제 풀기: 5지선다 퀴즈로 외운 내용을 점검하고, 끝나면 답안지를 볼 수 있어요.\n• 발음 테스트: 뜻을 보고 단어와 문장을 말해 보는 연습을 해요.\n• 자동 학습: 단어와 예문을 순서대로 읽어 줘서 눈과 손이 편해요. 속도도 고를 수 있어요.\n• 단어 알림: 정한 시간에 오늘의 단어를 알려 줘요.\n• 읽어주는 목소리: 남성·여성 목소리와 톤을 고를 수 있어요.\n\n■ 언어별 구성\n• 영어: 일상 회화 중심의 단어와 문장\n• 일본어: 읽는 법(히라가나)과 함께 배우는 회화 표현\n• 중국어: 병음과 한국어 발음 표기를 함께 보여 줘요. (HSK 1~3급 수준)\n\n■ 안내\n• 회원가입 없이 바로 사용할 수 있어요.\n• 학습 기록은 내 폰에만 저장돼요.\n• 발음 확인에는 마이크 권한이 필요해요. 말하는 동안에만 사용하고 음성은 저장하지 않아요.\n• 광고가 포함되어 있어요.\n\n하루 33단어로 매일 조금씩, 꾸준히 외워 보세요!\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/U-KfkNEdmm9DS0yp5OSbSAVK9bmitcnPLikzBmwBVDnWrrVckrUunErYpTcIyN8ijSaPVQ91bV_R0BAZ9nIX",
+        "https://play-lh.googleusercontent.com/rwM3TIIeMS_pzOYwN-43voDBVo6FsgaSUYlOk5_lPZj-Wwn2lAdKcNoUO9sWo_A9UYMd5La7d_pyT6aSbS10qKo",
+        "https://play-lh.googleusercontent.com/C87ij2tshvm1W0BgJ0Fwev5_V7QlVZ0t4IKMp92IY_q3SJ9ypJ-Bj0zGokIpdEH0GPPb0DXfHMFGzmXwMbDxlg",
+        "https://play-lh.googleusercontent.com/uNO0CGojmkkOaXc4JsEljgOnnOxvyvYF0UmTOdikqMKjEjIUSaE8X5Q0W27VI3UmaDmdgy2QZZ7icstbVfQjf3k",
+        "https://play-lh.googleusercontent.com/CM9OeqdLSucTp-CHdGtoPxzX4h0TWxD2XwMWlKkQ9RUnHWGdJIB2DymdvBFBnU1XUbaT3ujl1731mqAIAZcM",
+        "https://play-lh.googleusercontent.com/iyGVZrjwp_Ua7MlSeeOD6nkzvWCOwKywQe1Cvoe8wPu8P4DHr3JmrmuRzjeL9dEFFTFx7O1rTQQ5yPGTgObQNg"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.mansil.kimdaeri",
@@ -328,7 +645,16 @@
       "released": "2026-11-09T23:23:27Z",
       "icon": "https://play-lh.googleusercontent.com/EpaoPIefXVvq9lc6-3mFSbVJjLKAIy0GLJJisOnsyiRyqZ8GOTHpjHf25ZB0nSZ878zRlmTjhABgBittfUQSjQ",
       "developer": "김만실",
-      "description": "상사가 한눈파는 순간, 김대리의 반격이 시작된다! 키보드부터 복사기까지, 쌓여 있는 회사 집기를 시원하게 박살 내세요. 단, 상사가 돌아보기 전에 손을 떼야 합니다! 「월급루팡 김대리!!」는 연타의 손맛과 눈치 싸움을 함께 즐기는 2D 카툰 타이밍 게임입니다. ■ 연타하면 샥! 멈추면 모르쇠~ 부수고 싶은 물건을 직접 터"
+      "description": "상사가 한눈파는 순간, 김대리의 반격이 시작된다!\n\n키보드부터 복사기까지, 쌓여 있는 회사 집기를 시원하게 박살 내세요.\n단, 상사가 돌아보기 전에 손을 떼야 합니다!\n\n「월급루팡 김대리!!」는 연타의 손맛과 눈치 싸움을 함께 즐기는 2D 카툰 타이밍 게임입니다.\n\n■ 연타하면 샥! 멈추면 모르쇠~\n부수고 싶은 물건을 직접 터치하세요.\n김대리가 순식간에 이동해 난타하고, 손을 멈추면 제자리로 돌아가 얌전히 일하는 척합니다.\n물건의 빨간 체력 게이지를 깎으며 파괴 타이밍을 노려보세요!\n\n■ 한 번만 더 치면 부서지는데…!\n상사가 딴짓하는 틈을 이용해 목표 점수를 채우세요.\n경고 신호가 보이면 즉시 손을 떼야 합니다.\n뒤로 갈수록 까다로워지는 감시와 페이크!\n욕심을 부릴지, 안전하게 멈출지는 여러분의 선택입니다.\n\n■ 6개 장소에서 펼쳐지는 30일의 직장 생활\n사무실, 탕비실, 회사창고, 공장, 회의실, 임원실!\n각 장소에서 출근 1일차부터 5일차까지 도전합니다.\n여러 종류의 물건 파괴, 지정된 순서, 강화된 감시 등 근무일마다 달라지는 목표를 공략하세요.\n\n■ 장소마다 다른 물건, 다른 손맛\n키보드와 모니터, 정수기와 냉장고, 창고의 상자와 운반 카트!\n공장에서는 지게차, 자동화 롤, 크레인과 납품 제품까지 등장합니다.\n장소별로 준비된 총 72종의 물건이 근무일에 따라 다른 조합으로 배치됩니다.\n\n■ “이거 왜이래?! 이거!!?”\n물건이 부서지면 상사는 깜짝!\n김대리는 태연하게 “글쎄요??”\n팡팡 터지는 파괴 이펙트와 능청스러운 모르쇠 상황극을 즐겨보세요.\n\n■ 회장님 변신!!\n물건을 부수며 변신을 충전하세요.\n조건을 채우면 잠깐 동안 회장님으로 변신해 상사에게 코믹한 반격을 펼칠 수 있습니다!\n\n■ 오늘 회사에 끼친 손해는 얼마?\n파손한 물건의 수량과 게임 속 가상 손해액이 청구서에 기록됩니다.\n눈치 보너스와 최대 연타 기록을 쌓고 수집품도 해금해 보세요.\n\n■ 나만의 상사 이름과 소리 설정\n상사의 이름을 직접 입력하면 이름과 직함이 함께 표시됩니다.\n장소마다 다른 배경음악과 다양한 타격음을 즐기고, 배경음악과 효과음 볼륨을 각각 조절하세요.\n\n로그인 없이 바로 시작할 수 있으며, 진행 기록은 기기에 저장됩니다.\n\n오늘도 성실하게 일하는 척!\n김대리의 아슬아슬한 출근 생활에 함께하세요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/SCOoiSZqoK6f33k_VQtaPq2XyhJeU6IScae_qRY7U6qqVGIRjyO2CKD-wD4nKuwZsgN-kdDj19IwGrO0FxurqL0",
+        "https://play-lh.googleusercontent.com/L8MuASB1kSJIZJNS_Ye4emwUUFqQ0b419G1K1rz5-hkDvN8wEx-eb--FNqtBkIPD1MzMOzHIEzuF8kHQmEqJbA",
+        "https://play-lh.googleusercontent.com/rLBGuUQG212_lfUS_vCPDeDcL-RDODWnqI1FqGNfEsLOaU0H7-zep3-9Kf-nVez-canJITbeVihGWoizbEznOg",
+        "https://play-lh.googleusercontent.com/qH7XResuqp6bl4Oo4P8jZ_YV2IctjU5UCJ7uOV2oDyIpmhIc0KLwdQMjs9XcLbzxEx_Ytv_UuJe7nKUHhPpwkeU",
+        "https://play-lh.googleusercontent.com/TKqxMJrPLfu2gEtsYCTr08P0VGr7nKIdfXixg1cxnfVsG6no6d7-XisTdKxVuSQlr2wOqt0ZRMPv4889wfERFA",
+        "https://play-lh.googleusercontent.com/nDlfHEEhjpbNMglmZZlONmeE1-GJ6guXFVZtFrQZ8bdjfNHkI15WKC0SazVSINNtsWkz_Wl6SuExfxiIWuU0"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.glogos.onedayqt",
@@ -336,7 +662,14 @@
       "released": "2026-11-09T22:41:32Z",
       "icon": "https://play-lh.googleusercontent.com/Z41ZIrL-MXTEAXqYlky8_8jI_m-_Mfh7D8nw78cepwMs5iQqBUMbToGYlg2lQOSh129_veOWZQFeNnKMzv80",
       "developer": "G-LOGOS LLC",
-      "description": "📖 [G-LOGOS 공식] 하루한장 큐티 (OneDay QT) — 100% 광고 없는 청정 묵상과 성우 오디오 낭독, 하·인·나 3단계 영성 일기 \"분주하고 지친 하루, 말씀 앞에 머무는 거룩한 순간에 불쑥 튀어나오는 전면 광고와 배너에 방해받으셨습니까?\" 하루한장 큐티(OneDay QT)는 어떠한 배너 광고, 동영상 광"
+      "description": "📖 [G-LOGOS 공식] 하루한장 큐티 (OneDay QT) — 100% 광고 없는 청정 묵상과 성우 오디오 낭독, 하·인·나 3단계 영성 일기\n\n\"분주하고 지친 하루, 말씀 앞에 머무는 거룩한 순간에 불쑥 튀어나오는 전면 광고와 배너에 방해받으셨습니까?\"\n\n하루한장 큐티(OneDay QT)는 어떠한 배너 광고, 동영상 광고, 유료 결제 유도가 일절 없는 [100% 광고 제로(Zero Ads) 묵상 앱]입니다.\n복잡한 회원가입이나 개인정보 요구 없이, 앱을 켜는 즉시 오늘의 말씀 1장과 차분하고 은혜로운 성우 오디오 낭독을 들으며 하나님과 깊은 1:1 교제를 나눌 수 있습니다.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n✨ 하루한장 큐티(OneDay QT)만의 6대 핵심 은혜\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n1. 🛡️ 100% 광고 제로(Zero Ads) & 무추적(Zero Tracking)\n- 기도와 묵상을 방해하는 하단 배너나 팝업 광고가 0%입니다.\n- 유료 구독 강요가 전혀 없으며, 전 기능이 영구 무료로 제공됩니다.\n- 회원가입 없이 기기 로컬에 안전하게 저장되므로 개인정보 유출 걱정이 없습니다.\n\n2. 🎧 맑고 은혜로운 성우 오디오 낭독 (Audio Narration)\n- 눈이 피로한 아침, 출퇴근길, 운전 중, 잠들기 전 듣는 오디오 묵상\n- 말씀 본문을 자연스럽고 따뜻한 호흡으로 정갈하게 낭독해 드립니다.\n- 잔잔한 묵상 앰비언트 배경음악과 함께 깊은 평안을 누리세요.\n\n3. ✍️ 하·인·나 3단계 정통 큐티 가이드\n- [하나님은 어떤 분이신가?]: 오늘 본문에 나타난 하나님의 성품과 뜻 발견\n- [내게 주시는 교훈은?]: 말씀이 비추는 나의 연약함과 순종해야 할 지혜\n- [나의 삶에 어떻게 적용할까?]: 구체적이고 실천 가능한 오늘 하루의 결단\n\n4. 🎙️ 편리한 음성 녹음(STT) & 텍스트 영성 노트\n- 타자를 치기 어려운 상황에서도 마이크 버튼만 누르면 음성이 텍스트로 자동 기록됩니다.\n- 날짜별로 나의 기도 제목과 묵상 일기가 차곡차곡 쌓여 은혜의 기념비가 됩니다.\n\n5. 🌿 눈이 편안한 크림 골드(Cream Gold) 킨포크 디자인\n- 종이 성경책을 펼쳐 든 듯 따뜻하고 눈이 피로하지 않은 프리미엄 서체와 색감\n- 글자 크기(폰트 스케일) 조절 기능으로 어르신도 편안하게 읽으실 수 있습니다.\n\n6. 🌐 한글 & 영어 듀얼 묵상 지원\n- 정통 한글 말씀과 영어 성경 본문을 지원하여 글로벌 성도 및 다음 세대 영어 묵상까지 완벽 지원합니다.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ivoJxYFgwlpcUhrMmNjxWdY1NQ4jrWCbISW7N7VoTXinHVS5C9dBrmccDP6CxpH4bjo7OkhKuCP2bUnBJGm9l9I",
+        "https://play-lh.googleusercontent.com/qsU71aWvv8_BnaUJu5w2PyqdIWn_ycnOYxNkbDJLWNzFe71c9qmisQ7QRKU3pYwbF0K3NmPWLirQ7THQTwsQkA",
+        "https://play-lh.googleusercontent.com/8-wQzkX65zFPPVzVRismaKePdmEIb8VipnzJPvBWsGr-ygo37PJemaN5omhFqDkrTPIE_ikWcaV4v2QbAG6deHs",
+        "https://play-lh.googleusercontent.com/1yD8oW3vUKx-Ir8OZJNm2o2dLsuEFZ2I_S-4OidBmEFinkg_7WidAjQSNZOtxHRfbEhu6rcdr7AcZxVENYZFZA"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.nws.proNJobMoneyManagement",
@@ -344,7 +677,15 @@
       "released": "2026-11-09T16:36:01Z",
       "icon": "https://play-lh.googleusercontent.com/3m_TJURS8tLNeVNs663ZnkpD-lAwEK2kr2VMFIZghOTqyJdkdT5ciRHg_rmFb4hrcijxp11rQS0FbkAfneeM",
       "developer": "NextWorksStudio",
-      "description": "여러 일을 하는 나의 수입과 비용을 한곳에 기록하세요. 프로엔잡러는 부업·프리랜서·N잡 활동의 순수익을 살펴보고, 나에게 맞는 수익 기록 습관을 만드는 앱입니다. 수입과 비용을 함께 기록 날짜, 수입, 비용, 분류, 수입원과 메모를 남겨 활동별 기록을 관리하세요. 작업시간을 입력하면 시간을 기록한 활동의 시간당 수익도 확"
+      "description": "여러 일을 하는 나의 수입과 비용을 한곳에 기록하세요.\n프로엔잡러는 부업·프리랜서·N잡 활동의 순수익을 살펴보고, 나에게 맞는 수익 기록 습관을 만드는 앱입니다.\n\n수입과 비용을 함께 기록\n날짜, 수입, 비용, 분류, 수입원과 메모를 남겨 활동별 기록을 관리하세요. 작업시간을 입력하면 시간을 기록한 활동의 시간당 수익도 확인할 수 있습니다.\n\n월별·연간 수익 흐름 확인\n월별 수입과 비용, 순수익과 연간 흐름을 확인하세요. 원화(KRW)와 달러(USD)는 통화별로 나누어 관리하며 서로 다른 통화를 자동 합산하지 않습니다.\n\n달력과 북마크로 다시 찾기\n달력에서 날짜별 기록을 확인하고, 자주 확인할 기록은 북마크로 모아보세요. 직접 추가한 분류와 수입원으로 기록을 정리할 수 있습니다.\n\n월 목표와 CSV 내보내기\n월별 순수익 목표를 설정하고 진행 상황을 살펴보세요. 선택한 월의 기록은 기기에서 CSV로 만들어 저장하거나 공유할 수 있습니다.\n\n필요할 때 직접 새로고침\n확인한 자료는 기기에서 재사용합니다. 다른 기기에서 바뀐 내용은 화면을 아래로 당겨 새로고침하세요. 저장과 갱신에는 인터넷 연결이 필요합니다.\n\n계정과 개인정보\nGoogle 계정으로 로그인할 수 있으며 iOS에서는 Apple 로그인도 지원합니다. 앱의 설정에서 계정 삭제를 요청할 수 있습니다. 삭제는 앱을 실행하는 동안 진행되며, 중단되면 다시 열어 이어갑니다. 필요한 경우 로그인 제공자의 본인 확인을 진행합니다. 구버전 자료나 과거 사진의 정리를 앱에서 확인할 수 없으면 운영자 확인을 안내합니다.\n\n2.0.0에는 금융계좌 자동 연동, 송금, 대출, 투자·세무 자문은 제공하지 않습니다.\n\n운영자: NextWorksStudio\n문의: nextworksstudio@gmail.com\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/VhLmCLUVQrlS0w83LRKiLhFtY2qs2PAU-ZawXW_ooEkY5VyO3cSAaS8E7tViTIWwrKEUW9Hfx0_lVsLun10Nn7E",
+        "https://play-lh.googleusercontent.com/c55K9FYr0EfKtswRBHCuGALrT_4MCGDfw5mcDRNzsG1f71pcXkg3p-p8kythPWmRJgIkMWdL1cZcuiL58-qczg",
+        "https://play-lh.googleusercontent.com/ufbC7PO1LYxG9fFOgglrXlYzcHQYRmNl5eaTQ7G4lDHvm_UtSM1BXPpJqBd7QB2pgUbk5AOsI2e9_CdZ05NMXg",
+        "https://play-lh.googleusercontent.com/rpYBVTMHLmeoQWH8jdimiYuS6u00Lnr0h2IQil87OE9Fba8CbGZpy_T37aKNvE1ouXH2zrSXRKD9Ff0GR1hujQ",
+        "https://play-lh.googleusercontent.com/aoZ6AHAO0R4zKY2Knzb6QueRGfYwDNLoiEuK0zc4Brq6eRnqXXQ40g09gUgfQny2DqiRMFas0Xf5qyOAUUPocw"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.loziccode.hanpilsocialworker1",
@@ -352,7 +693,16 @@
       "released": "2026-11-09T16:12:52Z",
       "icon": "https://play-lh.googleusercontent.com/XFFnIc_QUB2jGnT69O6lPeiEEu4X1-8b4sB5-UlAmRJsCrKRmE2CJWdSHP9QY3UuMv2sIJeKR_X9KI4wlHiICg",
       "developer": "로직코드(LozicCode)",
-      "description": "사회복지사 1급 필기, 개념부터 기출 복습까지 한필완으로 이어가세요. ■ 풀이 기록에 맞춘 스마트 복습 기존에 푼 문항의 정답·오답과 복습 기록을 바탕으로 FSRS가 다음 복습 일정을 준비합니다. 한 번에 최대 10문항을 복습하고, 합격분석에서 최근 20일 학습 기록과 개념별 약점을 확인할 수 있습니다. 학습 기록을 분석"
+      "description": "사회복지사 1급 필기, 개념부터 기출 복습까지 한필완으로 이어가세요.\n\n■ 풀이 기록에 맞춘 스마트 복습\n기존에 푼 문항의 정답·오답과 복습 기록을 바탕으로 FSRS가 다음 복습 일정을 준비합니다. 한 번에 최대 10문항을 복습하고, 합격분석에서 최근 20일 학습 기록과 개념별 약점을 확인할 수 있습니다. 학습 기록을 분석하는 기능이며 합격 확률을 예측하거나 새 문제를 생성하지 않습니다.\n\n■ 8영역 85장·457개념\n스터디판다 판다노트 요약노트를 바탕으로 한필완 문체로 다시 쓴 개념을 읽습니다. 도입 상황과 예제, 핵심 정리와 학습 도표로 판단 기준을 익히고 연결된 기출로 복습하세요.\n\n■ 공식 기출 7개년·1,400문항\n2020~2026년 기출을 연도별 200문항씩 원문·선지·최종정답과 순서대로 제공합니다. 1교시 50문항·50분, 2·3교시 각각 75문항·75분으로 총 200문항·200분입니다. 각 교시 40% 이상과 총 120점 이상이라는 기준을 적용합니다. 기출은 해당 시험 당시 기준으로 풀며, 한필완 학습 해설은 공단의 공식 해설과 구분합니다. 재조합 모의고사는 제공하지 않습니다.\n\n■ 복습·스피드·오답을 하나의 기록으로\n개념별 복습퀴즈 1,293문항과 챕터별 스피드퀴즈 1,352문항은 같은 기출을 재사용합니다. 각 모드의 문항 수를 더한 수량이 새로운 문제 수는 아닙니다. 학습 근거가 충분하지 않거나 특수 최종정답으로 처리된 일부 문항은 반복 학습 출제에서 제외하지만, 원래 연도별 기출과 공식 채점은 유지합니다.\n\n■ 벼락치기 요약과 퀴즈 과정\n요약 모아보기에는 457개념이 수록되어 있습니다. 퀴즈 과정은 연결 문항이 있는 454개념·1,293문항으로 구성됩니다. 연결 문항이 없는 3개념도 요약으로 읽을 수 있으며, 읽기만으로 퀴즈 정답이나 클리어가 늘어나지 않습니다.\n\n■ 무료 누적 체험과 PRO\n무료 체험은 서로 다른 개념 5개, 스피드퀴즈 누적 10답안, 연도별 기출 누적 30답안입니다. 일반 개념·벼락치기·요약 읽기는 같은 개념 한도를 공유하며, 같은 개념의 재열람·복습은 개념 수를 중복 차감하지 않습니다. 기출의 연습·실전 모드와 모든 회차는 기출 답안 한도를 공유합니다. 목록은 열어 볼 수 있고, 한도 이후의 새 학습은 PRO가 필요합니다.\n\nPRO는 이 앱의 전체 학습 범위를 이용하는 비소모성 일회성 상품으로, 자동 갱신과 별도 만료일이 없습니다. 구매 전 이용권 화면에서 해당 스토어의 현지화 가격을 확인하세요. 같은 앱 마켓 계정의 구매 복원은 유료 이용 권한만 복원하며, 다른 자격증 앱이나 다른 운영체제의 권한으로 자동 이전되지 않습니다.\n\n■ 로그인 없이 기기에 남는 학습 기록\n회원가입·로그인·광고 없이 학습합니다. 진도·답안·오답·설정은 기기에 저장되며 기기 간 동기화 기능은 제공하지 않습니다. 앱·앱 데이터 삭제나 기기 변경으로 사라진 학습 기록은 구매 복원으로 되살아나지 않습니다. 개인 시험일과 D-day, 종목 기본·화이트·다크 테마도 사용할 수 있습니다.\n\n기출 출처: 한국산업인력공단 Q-Net 사회복지사 1급 기출문제, 공공누리 제1유형(출처표시). 본 앱은 한국산업인력공단의 공식·후원·제휴 앱이 아닌 독립 학습 서비스입니다. 공단의 공식 기출 원문과 한필완이 재집필한 개념·요약·학습 해설을 구분합니다. 학습 이용이 시험 합격을 보장하지 않습니다.\n\n■ 공식 정보 확인\n시험 정보: https://www.q-net.or.kr/man001.do?gId=52&gSite=L&id=\n기출 원문: https://www.q-net.or.kr/cst003.do?gId=52&gSite=L&id=cst00309\n최종정답: https://www.q-net.or.kr/cst003.do?gId=52&gSite=L&id=cst00310\n현행 법령: https://www.law.go.kr/\n기출은 출제 당시 기준이며, 법령·제도의 현행 적용 여부는 공식 자료의 시행일을 확인해 주세요.\n\n정신건강·발달·실천 이론은 국가시험 학습용 교육 자료입니다. 개인별 진단·치료·복약·상담 서비스를 제공하지 않으며, 실제 건강 문제는 자격을 갖춘 의료 전문가에게 상담해 주세요.\n\n운영: 로직코드\n문의: dailykorea@loziccode.com\n앱의 설정 > 문의에서 메일 초안을 작성할 수 있으며, 메일 앱에서 사용자가 전송을 완료합니다.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/1yRw-NL5EGYGNP4aiYXmK8_oaX7dyrDZeA9YRp8iNXcsDZTZd5PWQ56SAQtDzY17Y0VQDhVECvQ1GZECK-qEkA",
+        "https://play-lh.googleusercontent.com/pE4sh22Td_GjW92QwkksENRJEOjg8MJdLtheO9l6Sb4cPKi7EaXus4WlCzHgzZlx9yOM4950cKC3jzM6qCJHwA",
+        "https://play-lh.googleusercontent.com/UEczUCLzeA9VXLjNmlORTTo6YOT_h0WazvTIgUoclSdzsrSrBYBvn2HlBj32L7W0MTKR5NWIQUWg3TU_U0TrKQ",
+        "https://play-lh.googleusercontent.com/okS348BxSa-aAiX4-NaNEK2JupmS26_m8fI46h5F0WbTXwloVU89uQP9S0cTcz4Tk7cJjyLpf-ikxPEL9-7ZOA8",
+        "https://play-lh.googleusercontent.com/WBJRHfgJmG9yPRVJ2lUAFHGn2NL3R1iiNVHDWrAfBqL5zg9BVEpaRZ-VRIVY_zgWWsJvgf6RlNVKJh6EUAMs",
+        "https://play-lh.googleusercontent.com/RHkzx9CTv7461pb2mfTWySb3A6bu0eiNJqm4XMQnBJn3u2Otymll09D7DxejQq0Y-7IoXHhsM8cjO2v9vVzbFEo"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.loziccode.hanpilnetworkmanager2",
@@ -360,7 +710,16 @@
       "released": "2026-11-09T16:12:43Z",
       "icon": "https://play-lh.googleusercontent.com/x3AnfaHTcWzX3xReYl7dACs0tHyWoagRP0n5NP8kKWmjxmSRkFxt4TLtm-yG1EK5xNSXcgVE7RpifB9vwVST",
       "developer": "로직코드(LozicCode)",
-      "description": ""
+      "description": "네트워크관리사 2급 필기 공부를 개념부터 문제 풀이까지 이어가세요.\n\n한필완은 스터디판다 자료를 바탕으로 다시 쓴 개념·벼락치기 원고와 자체 재집필 문항을 함께 제공하는 학습 앱입니다. 기출에서 분석한 개념과 문제 스타일을 학습에 활용하며, 시험 시행기관이 운영하거나 공식 후원·제휴한 서비스는 아닙니다.\n\n개념을 읽고 바로 확인하세요\n\n24개 챕터·212개 개념으로 TCP/IP, 네트워크일반, NOS, 네트워크 운용기기를 학습합니다. 비교표와 설명 도표를 확대해 확인하고, 개념을 읽은 뒤 복습퀴즈와 선지별 해설로 이해를 점검합니다.\n\n모의고사와 스피드퀴즈로 연습하세요\n\n실전 모의고사5회는 회당50문항·50분 기준입니다. 정답30개,100점 만점60점 이상을 합격 기준으로 채점합니다. 과목별 과락은 적용하지 않습니다. 스피드퀴즈는 챕터를 골라 빠르게 확인하고, 틀린 문제는 오답노트에서 다시 풀 수 있습니다.\n\n벼락치기와 스마트 복습을 이용하세요\n\n별도로 집필한 벼락치기 요약으로 핵심을 빠르게 확인합니다. 문제를 푼 기록을 바탕으로 FSRS가 문항별 다음 복습 시점을 계산하며, 합격분석 화면에서 최근 학습 기록과 개념별 약점을 살펴볼 수 있습니다. 이는 시험 합격 확률 예측이나 기억률 보장 기능이 아닙니다.\n\n내 기기에 기록하세요\n\n회원가입 없이 진도·답안·오답·개인 시험 날짜·설정을 기기에 저장합니다. 기본 테마, 화이트/블루, 다크 모드를 제공합니다. 학습 기록의 서버 동기화는 제공하지 않으며 앱 데이터 삭제나 기기 변경으로 기록이 사라질 수 있습니다. 개인 D-day는 학습 목표이며 실제 시험 접수·예약이 아닙니다.\n\n누적 체험과 PRO 이용권\n\n모든 챕터·스피드 범위·모의고사 회차 목록을 확인할 수 있습니다. 새 개념5개·스피드10답안·모의30답안까지 종목 전체 누적으로 체험합니다. PRO는 이 앱의 전체 학습을 이용하는 비소모성 일회성 상품이며 구독·자동 갱신이 없습니다. 실제 제공 범위와 가격은 구매 화면과 스토어에서 확인하세요. 진행 초기화는 PRO 전용이며 체험 사용량은 초기화하지 않습니다.\n\n같은 앱 마켓 계정의 구매 복원으로 이용권을 복원할 수 있습니다. 구매 복원은 삭제된 학습 기록을 되살리거나 다른 종목 앱·다른 운영체제로 이용권을 이전하는 기능이 아닙니다. 환불은 구매한 앱 마켓의 절차를 따릅니다.\n\n시험 제도와 일정은 한국정보통신자격협회 공식 안내에서 확인하세요. 학습 콘텐츠가 합격을 보장하지 않습니다.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/oQS_1FHgzaldbIZSgNtGnXVUw9XXMm-Kbk5aVqrTKttED8ns3gofUULLktBFJ5K-TGpHDI_d_QhM2MnPoAMaAw",
+        "https://play-lh.googleusercontent.com/uyx-lsJssWVDx3S1s5zXF53BmCb0JEcFuWWg_xTmbN06MXnWHaEvOSwKJpB5E3_AMKyGRffVwcw6A1HXYq96Ng",
+        "https://play-lh.googleusercontent.com/J_g9y9VCrHf3YtSWa6W-K6386dg6LjsHEJVsRfeuciwUjF_IlWP-RVRiOO8lKIgHOXrj__pR3UJ5i3GgAL2kyw",
+        "https://play-lh.googleusercontent.com/a8YenzP6Ufs4lOjse0zJtBuuAmfkhtJzQkgKtW1Ui39kNG3w1aL7RAIMxdjeY3SLcKtNNWLopuZ9wtoAqhey",
+        "https://play-lh.googleusercontent.com/arZsBBoiHZTYnvo-1eq5AWr5DXTxgV-L-y0qyXWNxO8LXji2fK3mhLgrs68D6QdK406AGjHKM4SH8CkNtT-X",
+        "https://play-lh.googleusercontent.com/JcLMUYOxSq5Pxt5im9WarK0MBYQHIoeEZFwqMpdxgD13OAKrF7bOMqeA55JmXdCtDnXNuzpi70cwQ3x6Q8OPYt4"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.cumiel.waglewagle",
@@ -368,7 +727,16 @@
       "released": "2026-11-09T14:41:39Z",
       "icon": "https://play-lh.googleusercontent.com/OhElQp8M9PQV3T7gUE4C6nWsHP1qnk7DRsVkwgvlpeiWg_X9EDYKFwwUg90tzVFuWzeagc-Y7vFEcwkIaMRQeno",
       "developer": "Cumiel Inc.",
-      "description": ""
+      "description": "다 같이 와글와글, 실시간 퀴즈 대전!\n\n회원가입 없이 닉네임 하나로 바로 시작해요. 수십 명이 같은 문제를 동시에 풀고, 귀여운 몽글이들이 정답 쪽으로 우르르 몰려가요.\n\n■ OX 서바이벌 (30인)\nOX와 4지선다 문제가 이어져요. 정답 바닥으로 몽글이를 옮기고, 마지막 한 명이 될 때까지 살아남으면 우승!\n\n■ 스피드 퀴즈 (8인)\n같은 문제를 동시에 풀고 먼저 맞힌 순서대로 점수를 받아요. 주관식은 점수 1.5배.\n\n■ 배틀 가로세로 (4인)\n한 판의 가로세로 낱말 퀴즈를 4명이 함께 풀며 겨뤄요. 시간 제한 없이 혼자 천천히 푸는 모드도 있어요.\n\n■ 오늘의 퀴즈\n매일 새로 열리는 10문제. 모두가 같은 문제를 풀어요.\n\n■ 친구와 하기\n방 코드나 초대 링크 하나로 친구들과 같은 방에 모여 세 게임을 오가며 즐겨요.\n\n■ 나만의 몽글이\n8가지 색 중에 고르고, 명절마다 열리는 이벤트 변신으로 꾸며요.\n\n■ 사람이 적어도 바로 시작\n참가자를 잠깐 기다린 뒤 빈자리는 연습 봇이 채워요.\n\n■ 깨끗한 채팅\n욕설과 전화번호·이메일 같은 개인정보는 자동으로 가려져요. 불쾌한 참가자는 이름을 눌러 차단하거나 신고할 수 있어요.\n\n문제 일부는 우리말샘(국립국어원, CC BY-SA 2.0 KR)과 위키데이터(CC0)를 바탕으로 만들었어요.\n\n이용약관: https://www.cumiel.com/services/waglewagle/terms\n개인정보처리방침: https://www.cumiel.com/services/waglewagle/privacy\n문의: contact@cumiel.com\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/lTQnBE6oqNAAT_ABdN6pduRIAjZyG920nDa3G4xd4mGqPY5O4nFDfFRjLLhSvxKbHhx01UIaXPb7WsTOmVCI_w",
+        "https://play-lh.googleusercontent.com/CWIHS2STQ9Utn9YybS1abV-zD83OBT3LuZHOHkQkLwnSpPF3RNQCOy1aDLjpgvHMHacHdosYhwEMZMKl4VvKUw",
+        "https://play-lh.googleusercontent.com/sQ-cBPCHnIratnEuDPZ4-TXft1raXxbac6EExnBZaOie_C5mpE1W32_fwZJ1gmbF7A4WKdL4GOKeeo38a9oEIA",
+        "https://play-lh.googleusercontent.com/OO3Jok_4-8ikVhTxmsiMZqqmhE7n3moLZCI-lCQSFE7YoggRFo0AQkDTSZFdEHSSKe_F3QP7sZdRwSbCU3nM",
+        "https://play-lh.googleusercontent.com/lTQnBE6oqNAAT_ABdN6pduRIAjZyG920nDa3G4xd4mGqPY5O4nFDfFRjLLhSvxKbHhx01UIaXPb7WsTOmVCI_w",
+        "https://play-lh.googleusercontent.com/CWIHS2STQ9Utn9YybS1abV-zD83OBT3LuZHOHkQkLwnSpPF3RNQCOy1aDLjpgvHMHacHdosYhwEMZMKl4VvKUw"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.jsy.shottune",
@@ -376,7 +744,15 @@
       "released": "2026-11-09T11:40:33Z",
       "icon": "https://play-lh.googleusercontent.com/KiDazxJ2gP9FWowwCpSh7CAsOHlLmh79Mj6C-VZSvYetu6lEME6MMbMIlg0zku8mRAz7Xasb42NL0Ck-u1vX",
       "developer": "JungSangYeon",
-      "description": ""
+      "description": "에스프레소, 감으로만 맞추고 계신가요?\n\nShotTune은 홈바리스타를 위한 간단한 에스프레소 추출 기록 앱입니다.\n\n원두마다 달라지는 분쇄도, 도징량, 추출량, 추출 시간을 기록하고 이전 샷과 비교해 나에게 맞는 다이얼인 설정을 찾아보세요.\n\n복잡한 커피 관리 기능 대신, 에스프레소 한 잔을 빠르게 기록하고 비교하는 데 집중했습니다.\n\n■ 빠른 샷 기록\n\n에스프레소를 추출한 뒤 필요한 값만 간단하게 기록할 수 있습니다.\n\n• 분쇄도\n• 도징량(Dose)\n• 추출량(Yield)\n• 추출 시간\n• 맛 평가\n\n자주 사용하는 값만 입력해 기록 부담을 줄였습니다.\n\n■ 추출 비율 자동 계산\n\n도징량과 추출량을 입력하면 Brew Ratio를 자동으로 계산합니다.\n\n예)\n18g → 36g\nBrew Ratio 1:2.0\n\n매번 직접 계산할 필요 없이 바로 추출 결과를 확인할 수 있습니다.\n\n■ 이전 샷과 비교\n\n이번 샷이 이전 샷과 어떻게 달라졌는지 한눈에 확인하세요.\n\n• 추출 시간이 얼마나 달라졌는지\n• 추출량이 얼마나 변했는지\n• 분쇄도 설정이 어떻게 달라졌는지\n\n기록을 비교하면서 다음 샷의 설정을 조정할 수 있습니다.\n\n■ 원두별 기록 관리\n\n사용하는 원두를 등록하고 원두별로 에스프레소 기록을 관리할 수 있습니다.\n\n원두가 바뀌어도 이전에 사용했던 설정과 추출 기록을 다시 확인할 수 있습니다.\n\n■ 베스트 샷 기록\n\n맛있게 추출된 샷을 확인하고 해당 원두에서 사용했던 분쇄도, 도징량, 추출량, 시간을 다시 참고할 수 있습니다.\n\n어제 만족스러웠던 샷의 설정을 오늘 다시 찾아보세요.\n\n■ 추출 변화 그래프\n\n샷 기록이 쌓이면 추출 데이터의 변화를 그래프로 확인할 수 있습니다.\n\n분쇄도와 추출 시간, 추출량이 어떻게 변했는지 살펴보면서 자신만의 에스프레소 패턴을 찾아보세요.\n\nShotTune은 이런 분들에게 추천합니다.\n\n• 집에서 에스프레소 머신을 사용하는 분\n• 원두를 바꿀 때마다 다이얼인을 다시 맞추는 분\n• 그라인더 분쇄도 설정을 자주 잊어버리는 분\n• 종이나 메모장에 추출값을 기록하고 있는 분\n• 복잡하지 않은 에스프레소 기록 앱을 원하는 분\n\n한 잔을 추출하고,\n기록하고,\n비교하고,\n다음 샷을 조정하세요.\n\nShotTune으로 나만의 에스프레소 다이얼인 기록을 만들어보세요.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/QLix5R8iWRMhETog2pM9eGj62cKBWdZAmCRmechu3jBzeAEy3w32anUibGlbvZfjwAphQY9D0AppTSjuvtye",
+        "https://play-lh.googleusercontent.com/DdSrsbDShqR0oBc9HXYCPDW7AFSkrqq0Ke7cfDIMzk_0aaGgKwyS9QhwzNp2NTS361zB-TTHVOYkpS1IAaHh6w",
+        "https://play-lh.googleusercontent.com/mx23fzWYN5HYBmPfZ-9F_OprtaApWnBCoOOF25FDmP54vxXUvAHNy1RAVB_6rEkbwJrL1ZcwFXME4u3mQkPZ",
+        "https://play-lh.googleusercontent.com/yhnqJCJjmBFajjlqPcZ7ao0EIK0oTqDiJWLFk4lV2jytdOrX5c-p30Pp6AAG2FVXM0u68pp66UoNQEuGDkI52w",
+        "https://play-lh.googleusercontent.com/LZ8G983Mer1UUBnlbzLoE-z1p0owUkX7nOw1boL0TlSJjprVS9f_a1k_5At2sqSzudKqLYeWtR5iD2gMUv4rsno"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.dhcomms.tarotsecret",
@@ -384,7 +760,16 @@
       "released": "2026-11-09T11:10:03Z",
       "icon": "https://play-lh.googleusercontent.com/aaolekhN5TjUtTwtDC0WoS_Vnvbo-b9odg9GF3lMy_h-5dsl_pgqwsv13Zccb8R-wMW4kLq8m8jvx--wKB9Wa6A",
       "developer": "DHcommunication",
-      "description": ""
+      "description": "오늘은 어떤 일이 생길까? 어떻게 해야 좋을까?\n이런 고민, 누구나 한 번쯤 있으시죠.\n타로비결에서 그 실마리를 찾아보시길 바랍니다.\n\n1. 오늘의 타로\n- 마음을 집중해 카드를 뽑으면 오늘 생길 일과 한 줄 조언을 바로 보여 줍니다.\n- 같은 카드도 정방향과 역방향, 2가지 의미로 나눠 해석합니다.\n- 오늘의 운세로 하루의 흐름을 알아보고, 지금 내 마음과 선택을 돌아보는 시간을 가져 보세요.\n\n2. 주제별 데일리 타로\n- 애정운, 재물운, 관계운, 처세운, 직업운, 학업운, 사업운 등을 주제마다 따로 뽑아 볼 수 있습니다.\n- 애정운 타로는 솔로와 커플로 나뉘어 있어, 내 상황에 맞는 연애운과 카드 해석을 확인할 수 있습니다.\n- 재물운에서는 소비와 돈 관리가 고민될 때 도움이 되는 조언을 얻을 수 있습니다.\n- 취업과 이직을 앞둔 날엔 직업운, 시험을 앞둔 날엔 학업운을 확인해 보세요.\n- 처세운에서는 대인관계에 도움이 되는 Today TIP을 알기 쉽게 정리해 줍니다.\n\n3. YES or NO 타로점\n- 마음속 질문 하나를 떠올리고 카드를 뽑아 보세요. 결과를 하나의 참고로 삼아, 내가 바라는 방향과 더 확인할 점을 생각해 볼 수 있습니다.\n\n4. 풀이와 함께 읽는 오늘의 조언\n- 카드에 담긴 메시지를 생활에서 어떻게 활용할지 살펴봅니다.\n- 오늘 해볼 수 있는 작은 행동을 찾아 나의 하루에 적용해 보세요.\n\n5. 이런 분께 추천합니다\n- 출근길이나 잠들기 전, 1분 만에 하루의 흐름을 확인하고 싶은 분\n- 썸이나 연애 고민을 타로카드 한 장으로 차분히 정리해 보고 싶은 분\n- 이직이나 창업처럼 중요한 선택 앞에서 생각을 정리할 계기가 필요한 분\n\n타로비결의 결과는 일상을 돌아보는 재미와 참고를 위한 타로 운세 콘텐츠이며, 미래의 일이나 특정 결과를 보장하지 않습니다. 나에게 맞는 메시지를 가볍게 참고하며 하루를 시작해 보세요.\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/lrMApPT8Y5sueyNiPy_KLpMoGae70BOy8Ycr9eVvoce6ytahaxnGMUZtBvprLE74N3ovHPz8tEb4SdhiYa-J",
+        "https://play-lh.googleusercontent.com/4RPGM-IyKEtcaIzHdpqN6OomsBeO_unvAjTZbw_MI3WPmlLhRvXN05JnpF5yu5dQFXty39uhx61OVrqoLnIyqw",
+        "https://play-lh.googleusercontent.com/kqZglTklkP_amcXYE98kuvQ93NXW4IhPkaPSBmKjwf57FrapgwaDSiM5-_6kX1yc_lTBgxyZTyV1V2qm8iBk-g",
+        "https://play-lh.googleusercontent.com/jxn_1gAnH_07RhVi0ryPaaCUCbTQAXvtVAl-PqOBxKXOaJjLfRaT1nzDwPQJTQLc-L6Ea9bjNmnZKNw5SIbFdQ",
+        "https://play-lh.googleusercontent.com/H6wUnEc6mA0J4BAAuyf03zJmyuEgADkp5M49r2TnARpcqoGlV8vzrC3hJSGH4B3QZ3KY6WZc1c2D7Xq-TgSyWA",
+        "https://play-lh.googleusercontent.com/VvEYXCfX3WvJBnTiI9i5dBNaUC6v-O2D2ECMEk41sFItSkKf_v98qJ6Rd8Dnl4qqVS7CoKxnJJ6CYoV68C5doDY"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.attosave.app",
@@ -392,7 +777,12 @@
       "released": "2026-11-09T09:56:16Z",
       "icon": "https://play-lh.googleusercontent.com/bke-V7W8tgr91pw86xCR2KXq0m2hXlQP7fcco7V8dPwaobM2ZfbVHBk_-yov6ggvDJghNNoC0XtXC2S-JwYb",
       "developer": "CHOI JUNGHUN",
-      "description": ""
+      "description": "아또저장은 유튜브 쇼츠를 이용할 때 저장 버튼을 실수로 누르는 불편함을 줄여주는 간편한 유틸리티 앱입니다. 쇼츠 화면의 저장 버튼 위치에 댓글 버튼을 표시하여, 익숙한 위치에서 바로 댓글을 확인할 수 있도록 도와줍니다.\n\n[주요 기능]\n• 유튜브 쇼츠의 저장 버튼 위치에 댓글 버튼 표시\n• 표시된 댓글 버튼을 누르면 기존 유튜브 댓글창으로 연결\n• 댓글 버튼을 길게 누르면 잠시 숨겨 실제 저장 버튼 사용 가능\n• 다시 켜기 버튼으로 언제든 기능 복원\n\n[사용 방법]\n1. 아또저장을 실행합니다.\n2. 접근성 권한을 허용합니다.\n3. 유튜브 쇼츠를 실행하면 저장 버튼 위치에 아또저장 댓글 버튼이 표시됩니다.\n\n아또저장은 유튜브 앱의 콘텐츠를 저장하거나 수정하지 않으며, 사용자의 쇼츠 이용을 더 편리하게 만들어주는 보조 도구입니다.\n\n[접근성 서비스(AccessibilityService API) 사용 안내]\n\n아또저장은 YouTube Shorts에서 댓글 버튼과 저장 버튼을 혼동하여 발생하는 불편함을 해결하기 위해 Android 접근성 서비스(AccessibilityService API)를 사용합니다.\n\n접근성 서비스는 YouTube Shorts 화면의 UI 구조와 댓글 및 저장 버튼 정보를 확인하여 저장 버튼의 위치를 파악하고, 해당 위치에 아또저장의 댓글 버튼을 표시하는 데 사용됩니다.\n\n사용자가 아또저장의 댓글 버튼을 누르면 YouTube의 기존 댓글 기능이 실행됩니다. 댓글 버튼을 길게 누르면 일시적으로 기존 저장 버튼을 사용할 수 있으며, 되돌리기 버튼을 누르거나 10초가 지나면 댓글 버튼이 다시 표시됩니다.\n\n접근성 서비스는 사용자가 직접 권한을 활성화한 경우에만 작동합니다. 접근성 서비스를 통해 확인한 화면 정보는 해당 기능을 제공하기 위한 용도로만 사용되며, 외부 서버로 전송하거나 제3자에게 공유하지 않습니다.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/914mUAKH4Raa_r_qNT8J_yYk7FaCFhrZ6-YXQTe6gAFnDNh7zonrjMYlILpypiNpY6zuzUppR06ML_sySPDTpCA",
+        "https://play-lh.googleusercontent.com/m6P1nZtxmrmMwJuwv0kj7Puha97hSIcNO0HAHZVPajavgYQ2eyuETC7232mOzoAUhdLCAbJ8w5a_K7qtBevUxw"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.butterplace.motin",
@@ -400,7 +790,13 @@
       "released": "2026-11-09T09:44:12Z",
       "icon": "https://play-lh.googleusercontent.com/MMuoYzOu8cGoOKA274rgy5vBeSZRzNmE1_7UDAriFZUmz-PO8Bu8n-guDEbcp9V3hNlyoEC_oOfhtEbD4O6k8A",
       "developer": "butter-place",
-      "description": ""
+      "description": "모틴은 기상 시각과 아침 루틴을 하나의 시간표로 묶는 알람 앱입니다. 더 자고 싶으면 루틴 하나를 오늘만 포기해 그 시간만큼 더 자고, 준비를 마치는 시각은 그대로 지킵니다.\n\n■ 아침을 하나의 시간표로\n기상 시각과 준비할 일을 정하고, 루틴마다 소요 시간과 순서를 바꿔 보세요. 준비를 마칠 시각에서 거꾸로 계산해 알람이 잡힙니다.\n\n■ 더 자고 싶을 때\n알람이 울릴 때 어떤 루틴을 포기하면 몇 분 더 잘 수 있는지 먼저 보여 줍니다. 포기한 루틴은 오늘만 빠지고 내일은 다시 돌아옵니다.\n\n■ 일어난 뒤에는\n진행 타이머가 지금 할 루틴과 남은 시간을 안내합니다. 아침 기록을 돌아보고 정정하거나 삭제할 수 있습니다.\n\n■ 기기 안에서만\n계정·서버·광고 없이 사용합니다. 계획과 기록은 기기에만 저장됩니다. 한국어·영어, 라이트·다크 모드를 지원합니다.\n\n알람에는 Android 8.0 이상과 정확한 알람·알림 권한이 필요합니다. 제조사 절전 설정에 따라 알람이 지연될 수 있으니 설정의 시험 알람으로 확인해 주세요.\n\n현재 버전은 다음 두 아침의 전체 경계와 최대 7일의 기상 경계를 예약합니다. 앱을 오래 열지 않으면 이후 알람이 보장되지 않으니 별도 기상 알람을 함께 설정해 주세요.\n\n문의: notwry8556@gmail.com\n개인정보처리방침: https://kimjo5eph.github.io/motin-support/privacy/",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/1TT_ehUamfDrhfPjMeNWXdkx6IKekb8MiTGX0osEWH3L8TToKKcotSAxCu0XOQmr_DPSlUFjY8OjIN63ouyD5A",
+        "https://play-lh.googleusercontent.com/ZmL9EQ6swhdD4h11G6WjpDhUpVoF1sn_9A5YV5RngBNVvrVReCiCxBd0bOQclIqlNmVYKwJTuf_arZHSehmI8DU",
+        "https://play-lh.googleusercontent.com/onMThLbjn0ELRGVfhEfyI5b4moCm5AIsOVddtuIYGkvNhUZHS9wtnjXl6cua5Qe4Y_gLY-v65VeBW5i7-nVzxA"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.cafe24.ec.plussejongelec",
@@ -408,7 +804,15 @@
       "released": "2026-11-09T07:30:43Z",
       "icon": "https://play-lh.googleusercontent.com/qXeWhCOdy9UWEMdP7J2R7UZnXJWUNUy3FqhzRbv4UNZSf6sAyWcVIRKytq8ODOSL0kUNWbKFfV7RmsthNycajA8",
       "developer": "cafe24 PRO 2",
-      "description": ""
+      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers.\n\nMain features:\n\nEnjoy exclusive coupons and discounts\n\nUse automatic login\n\nCheck and track your orders\n\nManage your shopping cart and shipping info\n\nReceive store notifications\n\nAccess social media channels\n\nContact Customer Service",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/1EudPg_qC9mPGXcA0iMYs2Y1Rvm1C63Sg0sN5QWPHi5tLUt3_vTKTq1M9vwe15Xg0LUDMFBPHuK-9wc1pnanwEc",
+        "https://play-lh.googleusercontent.com/lmqUR_cHLie4x9oux8CIIPILwfInXmbae22yAH-G0CK2N0q2bEDGEIJ6HKgBMFtfFdaX4LaZJEB6perJLHCplQ",
+        "https://play-lh.googleusercontent.com/kPNBYyPVa7GEZwY9U4XvfUDy0rqYadxUMZlO7hgiVYLR-eNXSoTLsey1Eqqj2glOHXZKfX7i5Yf0G8hB8wv1Qg",
+        "https://play-lh.googleusercontent.com/ovzvA6mw1Wu0UjQB22r2kpMo92Wf_GD1xOYDQSGKZL8ROi2B0xzMZgeP4sCSn2wthP3ocGrt61Q9KxInR1X7xSU",
+        "https://play-lh.googleusercontent.com/l9quGysN1RD8cK7j5tsjaiwesdJ2AVQG0NhkCGFYudCH7_eWVIiPYK7Y3Iy08PUONQI64BKGCxjE8CybZBLmXg"
+      ],
+      "details_version": 2
     },
     {
       "id": "kr.maen.parking_enforcement",
@@ -416,7 +820,16 @@
       "released": "2026-11-09T07:18:16Z",
       "icon": "https://play-lh.googleusercontent.com/cK8M8kfHGaKru2XjKXeAkM7mKKUk540ZhwRio4EMXmXCRwk_VqLQY3NGDwRDm1-6yiRjdmgKN3V9epyltT0G8A",
       "developer": "maen",
-      "description": ""
+      "description": "글자 입력 없이 사진만 찍으면 끝나는 주차단속 앱\n복잡한 회원가입이나 로그인 없이, 앱을 켜서 차량 번호판을 비추기만 하세요.\n\n1. 가입 없이 바로 씁니다: 아이디나 비밀번호를 만들 필요 없이 바로 시작합니다.\n\n2. 번호판을 자동으로 읽습니다: 번호를 일일이 칠 필요 없이, 카메라로 비추면 알아서 입력됩니다.\n\n3. 사진 찍고 바로 기록: 위반 사진 한 장 찍고 사유만 고르면 시간과 날짜가 자동으로 남습니다.\n\n4. 내 휴대폰에만 안전하게 보관: 작성한 기록은 내 휴대폰 안에만 보관되므로 안심하고 쓰실 수 있습니다.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/mS00TuWK1Q7V-0EbuH1a-_pCAg7yPEx33VlfCvSdpPkUiyXbcVcS7YPSKTmrEHkL4EMFMJVgHxFau26w3FYm0w",
+        "https://play-lh.googleusercontent.com/iFeh8DBhYpxbRda6P2cuaA2x9Zc3s9ZTx9KexxBMEilHkrTbg_1TY9FeTon1SZ96tLudTExFS_4cBCp3ANa7Jw",
+        "https://play-lh.googleusercontent.com/Fd57amXYc6qi0z7yKGSDMiTgX1I2CruJc8it8KmRDj9oV2xyGRYoAxdR7VP7Xf6SwRZcQgS1_ZIoIVQdR6ekTHE",
+        "https://play-lh.googleusercontent.com/9NnSEG7K71rLjFOitZvuXy7bJGLTHWTisAZZ4W6X9wIJJcAtL01vMql-mVjvM-IM6VaC55bfBE3JBXjXKYmtvnM",
+        "https://play-lh.googleusercontent.com/AVprxpKdG_A0QElxQ_vsr7GJ_Mtx6YtIBJInh7h54-gzfCekCfp2JP6mLLIqsIU_ayUGmvMHzu9sbQGiKCZ8x2U",
+        "https://play-lh.googleusercontent.com/dJva0Zit-REYtjeO52ySwlNBp-tv6xlDj43152rRoJf-2iH8xC0tUH3ufWfWdGrEbSytK1LMmjoSny2keLrytA"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.cafe24.ec.plusabbox",
@@ -424,7 +837,15 @@
       "released": "2026-11-09T06:44:24Z",
       "icon": "https://play-lh.googleusercontent.com/AvHIcIJUqcbeRBMao6IO4Klj__-Y6dyucSk9u9jXq2YqhVbkKBUi_wqL5q0YPWMpkM7ImVLWD5CAjeZigxTR5A",
       "developer": "cafe24 PRO 4",
-      "description": ""
+      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers.\n\nMain features:\n\nEnjoy exclusive coupons and discounts\n\nUse automatic login\n\nCheck and track your orders\n\nManage your shopping cart and shipping info\n\nReceive store notifications\n\nAccess social media channels\n\nContact Customer Service",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/RloFBQ2tRZFiCZ-qaOP0pPZ1cJMwYTMeVamErdnmA5joXhCbGVRFKT-y0dwiY7U1OZBEaSuZniGze30hCmzFTQ",
+        "https://play-lh.googleusercontent.com/mVY0wS87mSRG2jw2PFI66xgdl6MUxmpcTPfk92BVBmfkaT-X96XxJeaW-8jfiDi77MPdT76K9DGExgNVStDGPQ",
+        "https://play-lh.googleusercontent.com/SnQp6cettnDPCYK5HE79R-7MCmVrCC_dgu1DAbUlXyUwJeQNaD9oGqZd32vMPiFhRT7Kl0Jiqmj4nF_4CRPx",
+        "https://play-lh.googleusercontent.com/7284lpv0Se2q4t7g88PwCqMg2yM5j4n_1LsHlOgebludgEyBrRXPDqFY28xTVJdIqkVJcVENsc-Jyb880FLjJQ",
+        "https://play-lh.googleusercontent.com/fhUo25Jby8MCs_Hr14SOCknI-UzDH3e9sz2Szr0I7sDOTbOwPfR80LvBmdqA8_ooNDQNp7cHh-aBfXM4WuV3Vw"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.cafe24.ec.plusgoguryeofood001",
@@ -432,7 +853,15 @@
       "released": "2026-11-09T06:28:51Z",
       "icon": "https://play-lh.googleusercontent.com/WHFpXiLaXlQGGKaFnZFpGxQfSUtGaLnoRXixyFiWaS-RzhlWbKOwWuPYe3FAdXxd-2JayUm0C-htAyZuE-Nchg",
       "developer": "cafe24 PRO 5",
-      "description": ""
+      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers.\n\nMain features:\n\nEnjoy exclusive coupons and discounts\n\nUse automatic login\n\nCheck and track your orders\n\nManage your shopping cart and shipping info\n\nReceive store notifications\n\nAccess social media channels\n\nContact Customer Service",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/m5e0_v1HAgZ11iHw4jpgaUbJiAOMF7j-5gfpsUvZedYKzvIhLK0IyfdAP8JC88YEG2VX9aHCNJ68uYdyStKBFcs",
+        "https://play-lh.googleusercontent.com/iSkdccO68RfsSt-G4tj23McFB8e8zzjXqxjRRpgx9EuTq-4whUbLS7q2CLmxyrXbmVckkpY4rbYJeVcoLmoF",
+        "https://play-lh.googleusercontent.com/cDexMBk-D7Yzuv6pn8621KbSSzX7pCitQXuN_8GjEJfUiF6mKKCVo8yCzmtJnXUsC1ihxxUJ5tzY_TNoZGmnrA",
+        "https://play-lh.googleusercontent.com/92QXQin3DTVhP-d5GYpJ-dHN3Aol87nA-zcLoT1DtwvuE7ZF88cmiZDuRXFvy8UHAfn_818YJ6DQWHaZF_r0Gg",
+        "https://play-lh.googleusercontent.com/H0AXe2qPvVAOjDuuB3g4o1r5mjMeEkUbQuFdunhk7bB4otMvCNS3TWSvjCQew6DNUh5yJTPI8E-9n_whw106"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.bizroute.app",
@@ -440,7 +869,16 @@
       "released": "2026-11-09T05:43:56Z",
       "icon": "https://play-lh.googleusercontent.com/KJe9DwR1ZYg9nUgIsB5Q4te_Xr6dpR2hIfvGy6aAcMLfBfiiZOoXHefkhCQQUn6oy25QYgDoIfLRFsnzOval",
       "developer": "YoungAndRich",
-      "description": ""
+      "description": "## 비즈루트(BizRoute) \n\n**방문 서비스 사업자를 위한 스마트한 업무 관리 앱**\n\n청소업, 방역업, 정기 방문 서비스 등 여러 거래처를 관리하는 사업자를 위한 앱입니다.\n\n거래처 정보부터 반복 방문 일정, 매출과 미수금까지 한곳에서 간편하게 관리할 수 있습니다.\n\n### 주요 기능\n\n- **거래처 관리**: 거래처별 서비스 정보와 방문 조건을 등록하고 관리\n- **일정 자동 생성**: 반복 방문 요일과 시간을 설정하면 일정을 자동으로 생성\n- **일정 및 길찾기**: 오늘의 방문 일정을 확인하고 이동 경로를 편리하게 관리\n- **알림 및 리마인더**: 방문 일정, 입금일, 세금계산서 발행 예정일 등을 놓치지 않도록 알림\n- **매출 및 미수금 관리**: 월별 매출과 거래처별 수금 현황 확인\n- **자료 내보내기**: 거래처 정보와 매출 내역을 PDF 및 Excel 파일로 저장\n- **엑셀 일괄 등록**: 여러 거래처를 엑셀 파일로 한 번에 등록\n\n### 이런 분들에게 추천합니다.\n\n- 여러 거래처를 정기적으로 방문하는 사업자\n- 청소업, 방역업, 방문 관리 서비스를 운영하는 분\n- 거래처와 방문 일정을 체계적으로 관리하고 싶은 분\n- 매출과 입금 내역을 간편하게 확인하고 싶은 분\n\n**비즈루트와 함께 흩어져 있던 업무를 한곳에서 관리해 보세요.**\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/McQl0w3TIlS1nbT2HBJuJjXcGo61B7WdZbzV-EM5jfBV1OJR_-szQFA8RtbNXvK3EQ93uziLJkYhNbrfkoFC",
+        "https://play-lh.googleusercontent.com/XXrhCOFNhymOrxomCbfPdnolDNyruroMq9nXBIAwaJdAxyp9Di9ENYxmNNAtfOdBPqM8C3wENwC1Y9v1Rll1RGg",
+        "https://play-lh.googleusercontent.com/mffjPnfgAKvM6BOb-_m_vfAEV6Evz3H4TfG5TFQwpGJrx3zZ5zu5X4k-aHcxAcV-z-iPzKhuIFt1kOz8C1pf8XM",
+        "https://play-lh.googleusercontent.com/iHQ7UoiKmSeO28tuUB680pGngeuTguGz_gTQzd0fRBQ3mNIkkBCKG6DPk_LEEuq-bovfz_l_hULYG-COR9NZPvM",
+        "https://play-lh.googleusercontent.com/-KUSD1ADhGxTYXkuf3eyR6gdGoEPOklMhobi7cxy5IYkrFjnGFC8d4N4a-4O-WItu7DAXP9eNkOp5VlltfGK",
+        "https://play-lh.googleusercontent.com/xrUgwu3HsBGNd3H19sSfV1_5V8CoOqxHN5Xm9NDSZekljkBkW1ri6sEtGcfR1yBN-Sv3m6WG-I8JWRpybR5JPg"
+      ],
+      "details_version": 2
     },
     {
       "id": "com.dowoong.astra",
@@ -448,7 +886,12 @@
       "released": "2026-11-09T02:19:39Z",
       "icon": "https://play-lh.googleusercontent.com/0Tc6TkIyqDfdu_n00vzx-KKZcg_nEx2E0skQ-LLGDDygsJFhcr9GbIayGWpB3sJeuJy6vKQIJDlZQq-3Y6nv",
       "developer": "드래곤카이츠게임즈",
-      "description": ""
+      "description": "출격하고, 강화하고, 더 먼 우주로!\n아스트라: 우주선 키우기\n\n우주선을 조종하는 슈팅의 재미와 차근차근 강해지는 성장의 즐거움을 함께 만나보세요.\n\n전투에 도전해 재화를 모으고, 기체와 파일럿을 강화하며 다음 스테이지를 준비하세요. 유물과 보조기를 조합하고 전력을 높여, 나만의 우주선을 성장시켜 보세요.\n\n■ 직접 조종하는 우주 전투\n우주선을 움직여 적의 공격을 피하고 전투를 펼치세요. 기체의 성장에 조작 실력을 더해 스테이지를 돌파하는 재미를 느낄 수 있습니다.\n\n■ 쌓아가는 성장과 강화\n전투에서 얻은 재화로 기체와 파일럿을 강화하세요. 막혔던 스테이지도 전력을 정비한 뒤 다시 도전해 보세요. 조금씩 강해지는 우주선과 함께 다음 목표를 향해 나아갈 수 있습니다.\n\n■ 유물과 보조기로 만드는 나만의 조합\n기체와 파일럿뿐 아니라 유물과 보조기도 성장의 한 축입니다. 보유한 요소를 살펴보고 조합을 바꾸며, 나에게 맞는 구성을 찾아보세요.\n\n■ 다시 돌아왔을 때도 이어지는 성장\n게임을 잠시 쉬었다 돌아오면 오프라인 보상을 확인하세요. 획득한 보상으로 전력을 보강하고 다음 출격을 준비할 수 있습니다.\n\n오늘의 목표는 한 단계 더 높은 스테이지!\n아스트라에서 나만의 우주선을 키우고 새로운 전투에 도전하세요.\n\n[이용 안내]\n게임에는 선택적으로 시청할 수 있는 보상형 광고가 포함되어 있습니다.\n\n[문의]\nleeyoun2810@gmail.com\n\n[개인정보처리방침]\nhttps://astra-privacy.dfsdfdsasdf.chatgpt.site\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/i2OneJai-h1P_zTexO6cgRx241A3vGvJLD4dMayu1-kIPzispxjvVcEtxXHREGx-mrN91abawuQntwOuqplcKQ",
+        "https://play-lh.googleusercontent.com/t1C_IxtN5t2BtZdHg9zjmny486Eew8L3W-ux0unQUybI2iMd-uVHSdXp9WhpORsgwhshhZTPqIFwqYOoH_BP5Q"
+      ],
+      "details_version": 2
     }
   ]
 }

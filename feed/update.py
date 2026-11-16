@@ -29,20 +29,29 @@ for page in range(1, 6):
             continue
         item = {k: a.get(k) for k in ('id','title','released','icon')}
         item['developer'] = (a.get('developer') or {}).get('name', '')
-        item['description'] = previous.get(item['id'], {}).get('description', '')
+        old = previous.get(item['id'], {})
+        item['description'] = old.get('description', '')
+        item['screenshots'] = old.get('screenshots', [])
+        item['details_version'] = old.get('details_version', 0)
         items.append(item)
     if page >= result.get('pages', 1):
         break
     time.sleep(2)
 
-# Spend at most 20 detail tokens per update; unchanged app descriptions are cached.
-for item in [x for x in items if not x['description']][:20]:
+# Spend at most 20 detail tokens per scheduled update; unchanged details are cached.
+limit = min(int(os.environ.get('DETAIL_LIMIT', '20')), 100)
+for item in [x for x in items if x['details_version'] < 2][:limit]:
     detail = request('app', {'id':item['id']}).get('app') or {}
     raw = detail.get('description') or ''
     raw = re.split(r'개발자\s*(?:연락처|정보)|developer\s*(?:contact|information)', raw, flags=re.I)[0]
-    clean = re.sub(r'<[^>]*>', ' ', raw)
-    clean = re.sub(r'\s+', ' ', html.unescape(clean)).strip()
-    item['description'] = clean[:180]
+    raw = re.sub(r'<br\s*/?>', '\n', raw, flags=re.I)
+    clean = html.unescape(re.sub(r'<[^>]*>', '', raw))
+    clean = re.sub(r'[^\S\n]+', ' ', clean)
+    clean = re.sub(r'\n{3,}', '\n\n', clean).strip()
+    item['description'] = clean
+    media = detail.get('media') or {}
+    item['screenshots'] = [u for u in (media.get('screenshots') or []) if isinstance(u, str) and u.startswith('https://play-lh.googleusercontent.com/')][:6]
+    item['details_version'] = 2
     time.sleep(2)
 
 data = {'updated_at':now.isoformat(), 'source':'Play API', 'apps':items}
