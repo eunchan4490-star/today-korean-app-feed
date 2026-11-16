@@ -1,0 +1,22 @@
+name: Update GitHub trending
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 0 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: app-feed
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 feed/trending.py
+      - name: Publish changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add trending.json
+          if ! git diff --cached --quiet; then git commit -m 'Update weekly trending'; git push; fi
