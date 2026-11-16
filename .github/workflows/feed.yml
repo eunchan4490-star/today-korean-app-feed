@@ -1,0 +1,25 @@
+name: Update app feed
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: app-feed
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update feed
+        env:
+          PLAY_API_KEY: ${{ secrets.PLAY_API_KEY }}
+        run: python3 feed/update.py
+      - name: Publish changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add feed.json
+          if ! git diff --cached --quiet; then git commit -m 'Update recent apps'; git push; fi
