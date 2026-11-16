@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T11:46:22.347043+00:00",
+  "updated_at": "2026-11-16T11:52:07.812596+00:00",
   "source": "https://github.com/trending?since=weekly",
   "repos": [
     {
@@ -7,77 +7,88 @@
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "weekly_stars": 13501
+      "weekly_stars": 13501,
+      "readme_excerpt": "An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them.\n\nCurrently in Beta · Built on React 19+ and StyleX\n\n![npm version](https://www.npmjs.com/package/@astryxdesign/core) ![license MIT](LICENSE) ![PRs welcome](https://github.com/meta/astryx/wiki/Contributing)\n\n![Docs](https://astryx.atmeta.com) ![Storybook](https://astryx.atmeta.com/storybook/) ![Sandbox](https://astryx.atmeta.com/sandbox/)"
     },
     {
       "name": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "weekly_stars": 6077
+      "weekly_stars": 6077,
+      "readme_excerpt": "![skills.sh](https://skills.sh/anthropics/skills)\n\nFor more information, check out: - What are skills? - Using skills in Claude - How to create custom skills - Equipping agents for the real world with Agent Skills\n\nThis repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.)."
     },
     {
       "name": "sherlock-project/sherlock",
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
-      "weekly_stars": 10412
+      "weekly_stars": 10412,
+      "readme_excerpt": "Community-maintained packages are available for Debian (>= 13), Ubuntu (>= 22.10), Homebrew, Kali, and BlackArch. These packages are not directly supported or maintained by the Sherlock Project.\n\nSee all alternative installation methods here.\n\nAccounts found will be stored in an individual text file with the corresponding username (e.g ).\n\nThank you to everyone who has contributed to Sherlock! ❤️"
     },
     {
       "name": "backnotprop/plannotator",
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
-      "weekly_stars": 1719
+      "weekly_stars": 1719,
+      "readme_excerpt": "⭐️ NEW: Plannotator Inbox is the missing review layer between you and multi-agent work. It surfaces decisions, prototypes, variations, plans, and everything you need to stay in the loop. Works with all coding agents and personal assistants.\n\nPlannotator is a local, browser-based review surface for AI coding agents: Claude Code, Codex, Copilot CLI, Gemini CLI, OpenCode, Kiro, Droid, Amp, DeepSeek Harness, and Pi. Plannotator Inbox also works with personal assistants (Grok Bot, Muse, Hermes, OpenClaw)."
     },
     {
       "name": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "weekly_stars": 4217
+      "weekly_stars": 4217,
+      "readme_excerpt": "Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell.\n\nagent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the page as compact text with a ref such as @e1 for each element. The agent acts on a ref, reads the page again to check the result, and repeats. The browser stays open between commands, so each step is one short shell call."
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "weekly_stars": 4548
+      "weekly_stars": 4548,
+      "readme_excerpt": "![GitHub stars](https://github.com/ZhuLinsen/dailystockanalysis/stargazers) ![arXiv](https://arxiv.org/abs/2608.26990) ![CI](https://github.com/ZhuLinsen/dailystockanalysis/actions/workflows/ci.yml) ![License: MIT](https://opensource.org/licenses/MIT) ![Python 3.10+](https://www.python.org/downloads/) ![GitHub Actions](https://github.com/features/actions) ![Docker](https://hub.docker.com/r/zhulinsen/dailystockanalysis)"
     },
     {
       "name": "we-promise/sure",
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
-      "weekly_stars": 4556
+      "weekly_stars": 4556,
+      "readme_excerpt": "![Ask DeepWiki](https://deepwiki.com/we-promise/sure) ![View performance data on Skylight](https://oss.skylight.io/app/applications/s6PEZSKwcklL) ![Dosu](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask) ![Pipelock Security Scan](https://github.com/we-promise/sure/actions/workflows/pipelock.yml)\n\nThe Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription."
     },
     {
       "name": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
-      "weekly_stars": 5463
+      "weekly_stars": 5463,
+      "readme_excerpt": "The open-source Grok Bot alternative: your own team of AI bots, in a chat app.\n\nopenmausbot.com · Download · Open source Grok Bot alternative, compared\n\nEvery bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own personality, its own model, its own cloud computer, and its own connected apps. Talk to them like contacts. Watch them work. Approve what matters."
     },
     {
       "name": "google/elephant-goldfish-model",
       "url": "https://github.com/google/elephant-goldfish-model",
       "description": "Open-source plugin for designing and reviewing software with agents",
       "language": "Python",
-      "weekly_stars": 5060
+      "weekly_stars": 5060,
+      "readme_excerpt": "Develop ideas with context and review documents with fresh eyes. EGM is an open-source plugin for AI assistants.\n\nElephant holds your project context and drafts the specification. Goldfish reviewers examine the draft and referenced source material without the earlier conversation, helping expose unstated assumptions and blind spots. You make the architectural trade-offs and approve the specification before implementing."
     },
     {
       "name": "google-deepmind/mujoco",
       "url": "https://github.com/google-deepmind/mujoco",
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
-      "weekly_stars": 1922
+      "weekly_stars": 1922,
+      "readme_excerpt": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environment.\n\nThis repository is maintained by Google DeepMind."
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "weekly_stars": 3889
+      "weekly_stars": 3889,
+      "readme_excerpt": "Production-grade engineering skills for AI coding agents.\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n9 slash commands that map to the development lifecycle. Each one activates the right skills automatically."
     }
   ]
 }
