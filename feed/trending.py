@@ -73,6 +73,11 @@ for repo in repos:
     related = {'meta/astryx': 'https://news.hada.io/topic?id=31190',
                'anthropics/skills': 'https://news.hada.io/topic?id=23713'}
     repo['korean_article'] = related.get(repo['name'].lower(), '')
+    summaries = {
+        'meta/astryx': '메타가 만든 웹 화면 디자인 도구 모음이에요. 버튼, 메뉴처럼 자주 쓰는 화면 요소를 제공해서 앱이나 웹사이트를 일관된 디자인으로 더 쉽게 만들 수 있어요. 색상과 스타일을 바꿀 수 있고 AI 코딩 도구와 함께 쓰는 기능도 제공해요.',
+        'anthropics/skills': 'AI가 특정 일을 더 잘하도록 작업 방법을 담아 둔 스킬 예제 모음이에요. 문서 만들기나 웹 앱 테스트처럼 반복되는 작업에 필요한 지침과 도구를 살펴보고, 자신에게 맞는 스킬을 만드는 데 참고할 수 있어요.'
+    }
+    repo['korean_summary'] = summaries.get(repo['name'].lower(), '')
     try:
         repo['readme_excerpt'] = readme_excerpt(repo['name'])
     except Exception as error:
