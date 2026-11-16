@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T12:00:26.314520+00:00",
+  "updated_at": "2026-11-16T12:10:55.513942+00:00",
   "source": "https://github.com/trending?since=weekly",
   "repos": [
     {
@@ -9,6 +9,7 @@
       "language": "TypeScript",
       "weekly_stars": 13501,
       "korean_article": "https://news.hada.io/topic?id=31190",
+      "korean_summary": "메타가 만든 웹 화면 디자인 도구 모음이에요. 버튼, 메뉴처럼 자주 쓰는 화면 요소를 제공해서 앱이나 웹사이트를 일관된 디자인으로 더 쉽게 만들 수 있어요. 색상과 스타일을 바꿀 수 있고 AI 코딩 도구와 함께 쓰는 기능도 제공해요.",
       "readme_excerpt": "An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them.\n\nCurrently in Beta · Built on React 19+ and StyleX\n\nDocs · Storybook · Sandbox · Contributing · Discord\n\nAstryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day.\n\nIt ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as one cohesive system. You import pre-built CSS and use typed React components — no build plugin, no styling library to adopt — and both people and AI assistants build with the same tooling.\n\nOpen internals. Components are built to be composed at any level, not locked behind a closed top-level API. The building blocks you'd reach for are exported directly, and when you need to go deeper, swizzle ejects a component's full source into your project to own. - No styling lock-in. Astryx authors its styles with StyleX, but that's invisible to consumers. Override with className using Tailwind, CSS modules, or plain CSS — whatever your project already uses. - Customize without wrapping. A theme is a set of CSS custom property overrides, so a designer can make Astryx unmistakably theirs without forking or wrapping component source. - Built for people and agents. The API, docs, and CLI are designed together so a person and an AI assistant build the same way, from the same reference."
     },
     {
@@ -18,6 +19,7 @@
       "language": "Python",
       "weekly_stars": 6077,
       "korean_article": "https://news.hada.io/topic?id=23713",
+      "korean_summary": "AI가 특정 일을 더 잘하도록 작업 방법을 담아 둔 스킬 예제 모음이에요. 문서 만들기나 웹 앱 테스트처럼 반복되는 작업에 필요한 지침과 도구를 살펴보고, 자신에게 맞는 스킬을 만드는 데 참고할 수 있어요.",
       "readme_excerpt": "For more information, check out: - What are skills? - Using skills in Claude - How to create custom skills - Equipping agents for the real world with Agent Skills\n\nThis repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.).\n\nEach skill is self-contained in its own folder with a SKILL.md file containing the instructions and metadata that Claude uses. Browse through these skills to get inspiration for your own skills or to understand different patterns and approaches.\n\nMany skills in this repo are open source (Apache 2.0). We've also included the document creation & editing skills that power Claude's document capabilities under the hood in the skills/docx, skills/pdf, skills/pptx, and skills/xlsx subfolders. These are also open source (Apache 2.0), and we wanted to share them with developers as a reference for more complex skills that are actively used in a production AI application.\n\nThese skills are provided for demonstration and educational purposes only. While some of these capabilities may be available in Claude, the implementations and behaviors you receive from Claude may differ from what is shown in these skills. These skills are meant to illustrate patterns and possibilities. Always test skills thoroughly in your own environment before relying on them for critical tasks."
     },
     {
@@ -27,6 +29,7 @@
       "language": "Python",
       "weekly_stars": 10412,
       "korean_article": "",
+      "korean_summary": "",
       "readme_excerpt": "Community-maintained packages are available for Debian (>= 13), Ubuntu (>= 22.10), Homebrew, Kali, and BlackArch. These packages are not directly supported or maintained by the Sherlock Project.\n\nSee all alternative installation methods here.\n\nAccounts found will be stored in an individual text file with the corresponding username (e.g ).\n\nThank you to everyone who has contributed to Sherlock! ❤️\n\nMIT © Sherlock Project Creator - Siddharth Dushantha"
     },
     {
@@ -36,6 +39,7 @@
       "language": "TypeScript",
       "weekly_stars": 1719,
       "korean_article": "",
+      "korean_summary": "",
       "readme_excerpt": "⭐️ NEW: Plannotator Inbox is the missing review layer between you and multi-agent work. It surfaces decisions, prototypes, variations, plans, and everything you need to stay in the loop. Works with all coding agents and personal assistants.\n\nPlannotator is a local, browser-based review surface for AI coding agents: Claude Code, Codex, Copilot CLI, Gemini CLI, OpenCode, Kiro, Droid, Amp, DeepSeek Harness, and Pi. Plannotator Inbox also works with personal assistants (Grok Bot, Muse, Hermes, OpenClaw).\n\nIt plugs directly into your agent through plugins, hooks and commands. When the agent proposes a decision, plan, html, or finishes working, the app opens in your browser and you mark it up, comment, and send feedback directly to the agent for it to act on it.\n\nAnnotate plans, specs, messages, html, then send the feedback to your agent.\n\nReview local changes or remote PRs. Comment on diffs, suggest code. Your comments go back to the agent. Works with Git, GitButler, Jujutsu (jj), Perforce (p4), GitHub, and GitLab.\n\nThe Plannotator Inbox is one local window where your agents leave you messages, questions, files, and guided reviews while they keep working. Answer a question with a click, annotate a file, and press Send when you can. Nothing holds an agent session open while you do, and your reply goes back to the session that asked.\n\nClaude Code, Pi, and OpenCode connect through Plannotator's plugins, and your replies arrive as their next turn. Any other agent reaches it over MCP with plannotator inbox mcp, and plannotator inbox --help is the guide an agent reads."
     },
     {
@@ -45,6 +49,7 @@
       "language": "Rust",
       "weekly_stars": 4217,
       "korean_article": "",
+      "korean_summary": "",
       "readme_excerpt": "Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell.\n\nagent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the page as compact text with a ref such as @e1 for each element. The agent acts on a ref, reads the page again to check the result, and repeats. The browser stays open between commands, so each step is one short shell call.\n\nHomebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's system libraries. - No install: npx agent-browser open example.com.\n\nProject installs, building from source, upgrade, and doctor are covered in Installation.\n\nRefs describe the page at the time of the snapshot. After navigation or a DOM change, take a new snapshot before using refs again. - CSS selectors, text, XPath, and semantic locators also work, for example agent-browser find role button click --name \"Submit\". See Selectors. - A click fails, instead of reporting success, when the target is hidden, disabled, outside the viewport, or covered by another element such as a consent banner. Dismiss the covering element, take a new snapshot, and retry.\n\nThe CLI sends each command to a background daemon that starts on the first command and controls the browser over the Chrome DevTools Protocol. Each --session gets its own daemon and browser. By default, the daemon closes a headless browser and exits after one hour without commands, saving state first when session persistence is configured."
     },
     {
@@ -54,6 +59,7 @@
       "language": "Python",
       "weekly_stars": 4548,
       "korean_article": "",
+      "korean_summary": "",
       "readme_excerpt": "Settings → Secrets and variables → Actions → New repository secret\n\n默认先选一个模型服务商并填写 API Key；需要多模型、图片识别、本地模型或高级路由时，再参考 LLM 配置指南。\n\nActions 标签 → I understand my workflows, go ahead and enable them\n\nActions → 每日股票分析 → Run workflow → Run workflow\n\n默认每个工作日 18:00（北京时间）自动执行，也可手动触发。默认非交易日（含 A/H/US 节假日）不执行；强制运行、交易日检查、断点续传等规则见 完整指南。\n\n完整环境变量、模型渠道、通知渠道、数据源优先级、交易纪律、基本面 P0 语义和部署说明请参考 完整配置指南。\n\nWeb 工作台提供配置管理、任务监控、手动分析、历史报告、完整 Markdown 报告、Agent 问股、回测、持仓管理、智能导入和浅色 / 深色主题。启动方式：\n\n访问 即可使用。认证、智能导入、搜索补全、历史报告复制、云服务器访问等细节见 本地 WebUI 管理界面。\n\n配置任意可用 AI API Key 后，Web /chat 页面即可使用策略问股；如需显式关闭可设置 AGENTMODE=false。\n\n支持均线金叉、缠论、波浪理论、多头趋势、热点题材、事件驱动、成长质量、预期重估等内置策略 - 支持实时行情、K 线、技术指标、新闻和风险信息调用 - 支持多轮追问、会话导出、发送到通知渠道和后台执行 - 支持自定义策略文件与多 Agent 编排（实验性）"
     },
     {
@@ -63,6 +69,7 @@
       "language": "Ruby",
       "weekly_stars": 4556,
       "korean_article": "",
+      "korean_summary": "",
       "readme_excerpt": "The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription.\n\nThe business end of things didn't work out, and so they stopped developing the app in mid-2023.\n\nAfter spending nearly $1 million on development (employees, contractors, data providers, infra, etc.), the team open-sourced the app. Their goal was to let users self-host it for free — and eventually launch a hosted version for a small fee.\n\nThey actually did launch that hosted version … briefly.\n\nThat also didn’t work out — at least not as a sustainable B2C business — so now here we are: hosting a community-maintained fork to keep the codebase alive and see where this can go next.\n\nSure is a fully working personal finance app that can be self hosted with Docker. Sure can be accessed from a browser, the macOS desktop app, the mobile app, API clients, and LLM agents. See Sure Clients for an overview.\n\nBe sure to include the original AGPLv3 license and clearly state in your README that your fork is based on Maybe Finance but is not affiliated with or endorsed by Maybe Finance Inc. - \"Maybe\" is a trademark of Maybe Finance Inc. and therefore, use of it is NOT allowed in forked repositories (or the logo)\n\nWith data-heavy apps, inevitably, there are performance issues. We've set up a public dashboard showing the problematic requests seen on the demo site, along with the stacktraces to help debug them."
     },
     {
@@ -72,6 +79,7 @@
       "language": "TypeScript",
       "weekly_stars": 5463,
       "korean_article": "",
+      "korean_summary": "",
       "readme_excerpt": "The open-source Grok Bot alternative: your own team of AI bots, in a chat app.\n\nopenmausbot.com · Download · Open source Grok Bot alternative, compared\n\nEvery bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own personality, its own model, its own cloud computer, and its own connected apps. Talk to them like contacts. Watch them work. Approve what matters.\n\nOne assistant in one box is the wrong shape for agents. OpenMausBot is an independent, open-source project inspired by Grok Bot — it keeps the idea (AI as a messaging app: a roster of bots you chat with, each with its own personality, memory of its thread, model, computer, and apps) and rebuilds it open, local-first, and on the agents you already have\n\nBring your own agents. Bots run on the claude, codex, and grok CLIs installed on your own machine — your existing logins and subscriptions, no new accounts, no proxy in the middle. Point any engine at a custom CLI binary (a versioned build or wrapper) in Settings → Engines. - Local first. One small harness server on 127.0.0.1 owns every agent process. Transcripts, keys, and events live in ~/.openmausbot, not a cloud. - Agents with hands. Each bot can use a cloud Linux desktop, an isolated Local VM, or—where the platform safety boundary is currently certified—your own computer, plus 500+ apps through Composio. Host control is available on macOS and Ubuntu Xorg after explicit opt-in. Ubuntu Wayland host control remains disabled while issue 345 is resolved."
     },
     {
@@ -81,6 +89,7 @@
       "language": "Python",
       "weekly_stars": 5060,
       "korean_article": "",
+      "korean_summary": "",
       "readme_excerpt": "Develop ideas with context and review documents with fresh eyes. EGM is an open-source plugin for AI assistants.\n\nElephant holds your project context and drafts the specification. Goldfish reviewers examine the draft and referenced source material without the earlier conversation, helping expose unstated assumptions and blind spots. You make the architectural trade-offs and approve the specification before implementing.\n\nThe built-in draft and design-review workflow targets software specifications. For other documents, choose reviewers and standards with /egm-review-loop. Bootstrap and drift reporting apply to software codebases.\n\nChoose your coding agent. Install the complete plugin so its skills can read the reviewer prompts and document standards.\n\nOpen the published EGM plugin in the desktop app and install it. This listing is desktop-only. For Codex CLI, use the commands below.\n\nFor the Antigravity App and Antigravity for IDEs (Visual Studio Code extension), run /plugin or see the installation instructions.\n\nStart a new session after installation. For Claude Cowork and ChatGPT Work, see the setup guide.\n\nReview an existing design document, README, or PR plan against the live code. You do not need to write a new specification. The commands below use the /egm: prefix for Antigravity (agy CLI) and Claude Code. In Codex, select the corresponding EGM skill from the skill picker.\n\nUse the path to your design doc, or to a PR plan saved as Markdown. Fresh reviewers check the design, its clarity, its fit with the code, and its implementation plan."
     },
     {
@@ -90,6 +99,7 @@
       "language": "C++",
       "weekly_stars": 1922,
       "korean_article": "",
+      "korean_summary": "",
       "readme_excerpt": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environment.\n\nThis repository is maintained by Google DeepMind.\n\nMuJoCo has a C API and is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes interactive visualization in native desktop windows and web browsers. MuJoCo further exposes a large number of utility functions for computing physics-related quantities.\n\nWe also provide [Python bindings] and a plug-in for the [Unity] game engine.\n\nMuJoCo's documentation can be found at [mujoco.readthedocs.io]. Upcoming features due for the next release can be found in the [changelog] in the \"latest\" branch.\n\n1. Try MuJoCo in your browser. Visit mujoco.org to explore MuJoCo on desktop or mobile with nothing to install, or open live.mujoco.org to inspect and drag and drop your own models in the WebAssembly version of the [MuJoCo Studio] app (slower than native C, since it runs in WebAssembly).\n\n2. Run a viewer on your machine. Follow the [Getting Started] guide in the documentation to download a prebuilt release and run the [MuJoCo Studio] app or the classic simulate viewer (shown in this video) on your machine."
     },
     {
@@ -99,6 +109,7 @@
       "language": "JavaScript",
       "weekly_stars": 3889,
       "korean_article": "",
+      "korean_summary": "",
       "readme_excerpt": "Production-grade engineering skills for AI coding agents.\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n9 slash commands that map to the development lifecycle. Each one activates the right skills automatically.\n\nIn Claude Code these install as plugin commands. Where a built-in command has the same name, as /review does, use the namespaced form: /agent-skills:review.\n\nWant fewer manual steps once the spec exists? /build auto generates the plan and implements every task in a single approved pass — you approve the plan once, then it runs autonomously. It removes the human stepping between tasks, not the verification: every task is still test-driven and committed individually, and it pauses on failures or risky steps.\n\nSkills also activate automatically based on what you're doing — designing an API triggers api-and-interface-design, building UI triggers frontend-ui-engineering, and so on.\n\nFastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more)\n\nPrefer a native integration? Pick your tool below.\n\nAlready installed? How you roll the pack out depends on your codebase. The Adoption Guide covers two paths: the full lifecycle from day one for a greenfield project, or an incremental, verification-first rollout for an established codebase."
     }
   ]
