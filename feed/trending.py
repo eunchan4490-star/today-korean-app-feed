@@ -68,7 +68,26 @@ def readme_excerpt(name):
     excerpt = '\n\n'.join(paragraphs)
     return (excerpt[:1800].rsplit(' ',1)[0]+'…') if len(excerpt)>1800 else excerpt
 
+def metadata(name):
+    headers = {'User-Agent':'WeeklyDiscoveryFeed/1.0', 'Accept':'application/vnd.github+json'}
+    if os.environ.get('GITHUB_TOKEN'):
+        headers['Authorization'] = 'Bearer ' + os.environ['GITHUB_TOKEN']
+    req = urllib.request.Request('https://api.github.com/repos/'+name, headers=headers)
+    with urllib.request.urlopen(req, timeout=20) as response:
+        return json.load(response)
+
+verified = []
 for repo in repos:
+    try:
+        data = metadata(repo['name'])
+        if not isinstance(data.get('id'), int) or data['id'] <= 0:
+            raise ValueError('Missing repository ID')
+        repo.update(github_id=data['id'], name=data['full_name'], url=data['html_url'],
+                    description=data.get('description') or '', language=data.get('language') or '',
+                    stars=data['stargazers_count'], metadata_observed_at=datetime.datetime.now(datetime.timezone.utc).isoformat())
+    except Exception as error:
+        print('Metadata unavailable:', repo['name'], type(error).__name__)
+        continue
     # Manually verified project-specific articles; never treat search hits as exact matches.
     related = {'meta/astryx': 'https://news.hada.io/topic?id=31190',
                'anthropics/skills': 'https://news.hada.io/topic?id=23713'}
@@ -83,6 +102,12 @@ for repo in repos:
     except Exception as error:
         print('README unavailable:', repo['name'], type(error).__name__)
         repo['readme_excerpt'] = ''
+    repo['readme_source'] = repo['url'] + '#readme'
+    repo['readme_collected_at'] = datetime.datetime.now(datetime.timezone.utc).isoformat()
+    verified.append(repo)
+if not verified:
+    raise RuntimeError('No verified metadata; existing feed retained')
+repos = verified
 out = {'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),
        'source':URL,'repos':repos}
 temp=Path('trending.tmp')
