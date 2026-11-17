@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T08:11:11.244597+00:00",
+  "updated_at": "2026-11-17T23:32:24.099568+00:00",
   "source": "https://github.com/trending?since=weekly",
   "repos": [
     {
@@ -8,9 +8,29 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "weekly_stars": 6542,
+      "github_id": 1143633223,
+      "stars": 8423,
+      "metadata_observed_at": "2026-11-17T23:32:17.265236+00:00",
       "korean_article": "",
       "korean_summary": "",
-      "readme_excerpt": "This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents.\n\nModern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding agents away from legacy patterns, and instead toward solutions that harness the power and capabilities of the modern web platform.\n\nSee CONTRIBUTING.md and GOVERNANCE.md for how we work on the project and orientation of the codebase.\n\nStewarded by the Google Chrome, Microsoft Edge, Mozilla Firefox, and MDN teams, alongside the web development community.\n\nDocumentation · Eval Dashboard · Source Code · Report an Issue\n\nThis command runs an interactive wizard to install Modern Web Guidance. See Alternative Installation Methods below.\n\nCoding agents often default to older patterns because LLM training data contains vast amounts of legacy code. This often leads them to generate bloated JavaScript for tasks that now have native, high-performance web platform solutions.\n\nEven if a model knows an API exists, it often lacks the density of real-world, modern implementation patterns required for production-ready code.\n\nModern Web Guidance bridges this gap. Our skill's CLI returns targeted, expert-curated guidelines directly into your agent's context window, focusing on: Modern Browser APIs: Helping models correctly structure APIs they frequently misuse. Performance & Accessibility: Preferring platform-level APIs that can be optimized by the browser and include built-in accessibility affordances. Responsible Fallbacks: Guiding models to use sensible, lightweight fallbacks instead of heavy polyfills or legacy libraries."
+      "readme_excerpt": "This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents.\n\nModern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding agents away from legacy patterns, and instead toward solutions that harness the power and capabilities of the modern web platform.\n\nSee CONTRIBUTING.md and GOVERNANCE.md for how we work on the project and orientation of the codebase.\n\nStewarded by the Google Chrome, Microsoft Edge, Mozilla Firefox, and MDN teams, alongside the web development community.\n\nDocumentation · Eval Dashboard · Source Code · Report an Issue\n\nThis command runs an interactive wizard to install Modern Web Guidance. See Alternative Installation Methods below.\n\nCoding agents often default to older patterns because LLM training data contains vast amounts of legacy code. This often leads them to generate bloated JavaScript for tasks that now have native, high-performance web platform solutions.\n\nEven if a model knows an API exists, it often lacks the density of real-world, modern implementation patterns required for production-ready code.\n\nModern Web Guidance bridges this gap. Our skill's CLI returns targeted, expert-curated guidelines directly into your agent's context window, focusing on: Modern Browser APIs: Helping models correctly structure APIs they frequently misuse. Performance & Accessibility: Preferring platform-level APIs that can be optimized by the browser and include built-in accessibility affordances. Responsible Fallbacks: Guiding models to use sensible, lightweight fallbacks instead of heavy polyfills or legacy libraries.",
+      "readme_source": "https://github.com/GoogleChrome/modern-web-guidance-src#readme",
+      "readme_collected_at": "2026-11-17T23:32:17.541807+00:00"
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "language": "TypeScript",
+      "weekly_stars": 2325,
+      "github_id": 1123956658,
+      "stars": 13053,
+      "metadata_observed_at": "2026-11-17T23:32:17.779916+00:00",
+      "korean_article": "",
+      "korean_summary": "",
+      "readme_excerpt": "⭐️ NEW: Plannotator Inbox is the missing review layer between you and multi-agent work. It surfaces decisions, prototypes, variations, plans, and everything you need to stay in the loop. Works with all coding agents and personal assistants.\n\nPlannotator is a local, browser-based review surface for AI coding agents: Claude Code, Codex, Copilot CLI, Gemini CLI, OpenCode, Kiro, Droid, Amp, DeepSeek Harness, and Pi. Plannotator Inbox also works with personal assistants (Grok Bot, Muse, Hermes, OpenClaw).\n\nIt plugs directly into your agent through plugins, hooks and commands. When the agent proposes a decision, plan, html, or finishes working, the app opens in your browser and you mark it up, comment, and send feedback directly to the agent for it to act on it.\n\nAnnotate plans, specs, messages, html, then send the feedback to your agent.\n\nReview local changes or remote PRs. Comment on diffs, suggest code. Your comments go back to the agent. Works with Git, GitButler, Jujutsu (jj), Perforce (p4), GitHub, and GitLab.\n\nFor a big change, start a guided review: an agent sorts the diff into chapters, the most important first.\n\nThe Plannotator Inbox is one local window where your agents leave you messages, questions, files, and guided reviews while they keep working. Answer a question with a click, annotate a file, and press Send when you can. Nothing holds an agent session open while you do, and your reply goes back to the session that asked.",
+      "readme_source": "https://github.com/backnotprop/plannotator#readme",
+      "readme_collected_at": "2026-11-17T23:32:18.035983+00:00"
     },
     {
       "name": "meta/astryx",
@@ -18,39 +38,14 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "weekly_stars": 10939,
+      "github_id": 1131202426,
+      "stars": 30132,
+      "metadata_observed_at": "2026-11-17T23:32:18.318231+00:00",
       "korean_article": "https://news.hada.io/topic?id=31190",
       "korean_summary": "메타가 만든 웹 화면 디자인 도구 모음이에요. 버튼, 메뉴처럼 자주 쓰는 화면 요소를 제공해서 앱이나 웹사이트를 일관된 디자인으로 더 쉽게 만들 수 있어요. 색상과 스타일을 바꿀 수 있고 AI 코딩 도구와 함께 쓰는 기능도 제공해요.",
-      "readme_excerpt": "An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them.\n\nCurrently in Beta · Built on React 19+ and StyleX\n\nDocs · Storybook · Sandbox · Contributing · Discord\n\nAstryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day.\n\nIt ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as one cohesive system. You import pre-built CSS and use typed React components — no build plugin, no styling library to adopt — and both people and AI assistants build with the same tooling.\n\nOpen internals. Components are built to be composed at any level, not locked behind a closed top-level API. The building blocks you'd reach for are exported directly, and when you need to go deeper, swizzle ejects a component's full source into your project to own. - No styling lock-in. Astryx authors its styles with StyleX, but that's invisible to consumers. Override with className using Tailwind, CSS modules, or plain CSS — whatever your project already uses. - Customize without wrapping. A theme is a set of CSS custom property overrides, so a designer can make Astryx unmistakably theirs without forking or wrapping component source. - Built for people and agents. The API, docs, and CLI are designed together so a person and an AI assistant build the same way, from the same reference."
-    },
-    {
-      "name": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "language": "TypeScript",
-      "weekly_stars": 2325,
-      "korean_article": "",
-      "korean_summary": "",
-      "readme_excerpt": "⭐️ NEW: Plannotator Inbox is the missing review layer between you and multi-agent work. It surfaces decisions, prototypes, variations, plans, and everything you need to stay in the loop. Works with all coding agents and personal assistants.\n\nPlannotator is a local, browser-based review surface for AI coding agents: Claude Code, Codex, Copilot CLI, Gemini CLI, OpenCode, Kiro, Droid, Amp, DeepSeek Harness, and Pi. Plannotator Inbox also works with personal assistants (Grok Bot, Muse, Hermes, OpenClaw).\n\nIt plugs directly into your agent through plugins, hooks and commands. When the agent proposes a decision, plan, html, or finishes working, the app opens in your browser and you mark it up, comment, and send feedback directly to the agent for it to act on it.\n\nAnnotate plans, specs, messages, html, then send the feedback to your agent.\n\nReview local changes or remote PRs. Comment on diffs, suggest code. Your comments go back to the agent. Works with Git, GitButler, Jujutsu (jj), Perforce (p4), GitHub, and GitLab.\n\nFor a big change, start a guided review: an agent sorts the diff into chapters, the most important first.\n\nThe Plannotator Inbox is one local window where your agents leave you messages, questions, files, and guided reviews while they keep working. Answer a question with a click, annotate a file, and press Send when you can. Nothing holds an agent session open while you do, and your reply goes back to the session that asked."
-    },
-    {
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "weekly_stars": 5666,
-      "korean_article": "https://news.hada.io/topic?id=23713",
-      "korean_summary": "AI가 특정 일을 더 잘하도록 작업 방법을 담아 둔 스킬 예제 모음이에요. 문서 만들기나 웹 앱 테스트처럼 반복되는 작업에 필요한 지침과 도구를 살펴보고, 자신에게 맞는 스킬을 만드는 데 참고할 수 있어요.",
-      "readme_excerpt": "For more information, check out: - What are skills? - Using skills in Claude - How to create custom skills - Equipping agents for the real world with Agent Skills\n\nThis repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.).\n\nEach skill is self-contained in its own folder with a SKILL.md file containing the instructions and metadata that Claude uses. Browse through these skills to get inspiration for your own skills or to understand different patterns and approaches.\n\nMany skills in this repo are open source (Apache 2.0). We've also included the document creation & editing skills that power Claude's document capabilities under the hood in the skills/docx, skills/pdf, skills/pptx, and skills/xlsx subfolders. These are also open source (Apache 2.0), and we wanted to share them with developers as a reference for more complex skills that are actively used in a production AI application.\n\nThese skills are provided for demonstration and educational purposes only. While some of these capabilities may be available in Claude, the implementations and behaviors you receive from Claude may differ from what is shown in these skills. These skills are meant to illustrate patterns and possibilities. Always test skills thoroughly in your own environment before relying on them for critical tasks."
-    },
-    {
-      "name": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "weekly_stars": 3760,
-      "korean_article": "",
-      "korean_summary": "",
-      "readme_excerpt": "Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell.\n\nagent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the page as compact text with a ref such as @e1 for each element. The agent acts on a ref, reads the page again to check the result, and repeats. The browser stays open between commands, so each step is one short shell call.\n\nHomebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's system libraries. - No install: npx agent-browser open example.com.\n\nProject installs, building from source, upgrade, and doctor are covered in Installation.\n\nRefs describe the page at the time of the snapshot. After navigation or a DOM change, take a new snapshot before using refs again. - CSS selectors, text, XPath, and semantic locators also work, for example agent-browser find role button click --name \"Submit\". See Selectors. - A click fails, instead of reporting success, when the target is hidden, disabled, outside the viewport, or covered by another element such as a consent banner. Dismiss the covering element, take a new snapshot, and retry.\n\nThe CLI sends each command to a background daemon that starts on the first command and controls the browser over the Chrome DevTools Protocol. Each --session gets its own daemon and browser. By default, the daemon closes a headless browser and exits after one hour without commands, saving state first when session persistence is configured."
+      "readme_excerpt": "An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them.\n\nCurrently in Beta · Built on React 19+ and StyleX\n\nDocs · Storybook · Sandbox · Contributing · Discord\n\nAstryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day.\n\nIt ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as one cohesive system. You import pre-built CSS and use typed React components — no build plugin, no styling library to adopt — and both people and AI assistants build with the same tooling.\n\nOpen internals. Components are built to be composed at any level, not locked behind a closed top-level API. The building blocks you'd reach for are exported directly, and when you need to go deeper, swizzle ejects a component's full source into your project to own. - No styling lock-in. Astryx authors its styles with StyleX, but that's invisible to consumers. Override with className using Tailwind, CSS modules, or plain CSS — whatever your project already uses. - Customize without wrapping. A theme is a set of CSS custom property overrides, so a designer can make Astryx unmistakably theirs without forking or wrapping component source. - Built for people and agents. The API, docs, and CLI are designed together so a person and an AI assistant build the same way, from the same reference.",
+      "readme_source": "https://github.com/meta/astryx#readme",
+      "readme_collected_at": "2026-11-17T23:32:18.541413+00:00"
     },
     {
       "name": "we-promise/sure",
@@ -58,49 +53,59 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "weekly_stars": 4679,
+      "github_id": 1024661423,
+      "stars": 16264,
+      "metadata_observed_at": "2026-11-17T23:32:18.842161+00:00",
       "korean_article": "",
       "korean_summary": "",
-      "readme_excerpt": "The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription.\n\nThe business end of things didn't work out, and so they stopped developing the app in mid-2023.\n\nAfter spending nearly $1 million on development (employees, contractors, data providers, infra, etc.), the team open-sourced the app. Their goal was to let users self-host it for free — and eventually launch a hosted version for a small fee.\n\nThey actually did launch that hosted version … briefly.\n\nThat also didn’t work out — at least not as a sustainable B2C business — so now here we are: hosting a community-maintained fork to keep the codebase alive and see where this can go next.\n\nSure is a fully working personal finance app that can be self hosted with Docker. Sure can be accessed from a browser, the macOS desktop app, the mobile app, API clients, and LLM agents. See Sure Clients for an overview.\n\nBe sure to include the original AGPLv3 license and clearly state in your README that your fork is based on Maybe Finance but is not affiliated with or endorsed by Maybe Finance Inc. - \"Maybe\" is a trademark of Maybe Finance Inc. and therefore, use of it is NOT allowed in forked repositories (or the logo)\n\nWith data-heavy apps, inevitably, there are performance issues. We've set up a public dashboard showing the problematic requests seen on the demo site, along with the stacktraces to help debug them."
+      "readme_excerpt": "The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription.\n\nThe business end of things didn't work out, and so they stopped developing the app in mid-2023.\n\nAfter spending nearly $1 million on development (employees, contractors, data providers, infra, etc.), the team open-sourced the app. Their goal was to let users self-host it for free — and eventually launch a hosted version for a small fee.\n\nThey actually did launch that hosted version … briefly.\n\nThat also didn’t work out — at least not as a sustainable B2C business — so now here we are: hosting a community-maintained fork to keep the codebase alive and see where this can go next.\n\nSure is a fully working personal finance app that can be self hosted with Docker. Sure can be accessed from a browser, the macOS desktop app, the mobile app, API clients, and LLM agents. See Sure Clients for an overview.\n\nBe sure to include the original AGPLv3 license and clearly state in your README that your fork is based on Maybe Finance but is not affiliated with or endorsed by Maybe Finance Inc. - \"Maybe\" is a trademark of Maybe Finance Inc. and therefore, use of it is NOT allowed in forked repositories (or the logo)\n\nWith data-heavy apps, inevitably, there are performance issues. We've set up a public dashboard showing the problematic requests seen on the demo site, along with the stacktraces to help debug them.",
+      "readme_source": "https://github.com/we-promise/sure#readme",
+      "readme_collected_at": "2026-11-17T23:32:19.096124+00:00"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "weekly_stars": 4355,
+      "github_id": 1131513930,
+      "stars": 73076,
+      "metadata_observed_at": "2026-11-17T23:32:19.318435+00:00",
       "korean_article": "",
       "korean_summary": "",
-      "readme_excerpt": "Settings → Secrets and variables → Actions → New repository secret\n\n默认先选一个模型服务商并填写 API Key；需要多模型、图片识别、本地模型或高级路由时，再参考 LLM 配置指南。\n\nActions 标签 → I understand my workflows, go ahead and enable them\n\nActions → 每日股票分析 → Run workflow → Run workflow\n\n默认每个工作日 18:00（北京时间）自动执行，也可手动触发。默认非交易日（含 A/H/US 节假日）不执行；强制运行、交易日检查、断点续传等规则见 完整指南。\n\n完整环境变量、模型渠道、通知渠道、数据源优先级、交易纪律、基本面 P0 语义和部署说明请参考 完整配置指南。\n\nWeb 工作台提供配置管理、任务监控、手动分析、历史报告、完整 Markdown 报告、Agent 问股、回测、持仓管理、智能导入和浅色 / 深色主题。启动方式：\n\n访问 即可使用。认证、智能导入、搜索补全、历史报告复制、云服务器访问等细节见 本地 WebUI 管理界面。\n\n配置任意可用 AI API Key 后，Web /chat 页面即可使用策略问股；如需显式关闭可设置 AGENTMODE=false。\n\n支持均线金叉、缠论、波浪理论、多头趋势、热点题材、事件驱动、成长质量、预期重估等内置策略 - 支持实时行情、K 线、技术指标、新闻和风险信息调用 - 支持多轮追问、会话导出、发送到通知渠道和后台执行 - 支持自定义策略文件与多 Agent 编排（实验性）"
+      "readme_excerpt": "Settings → Secrets and variables → Actions → New repository secret\n\n默认先选一个模型服务商并填写 API Key；需要多模型、图片识别、本地模型或高级路由时，再参考 LLM 配置指南。\n\nActions 标签 → I understand my workflows, go ahead and enable them\n\nActions → 每日股票分析 → Run workflow → Run workflow\n\n默认每个工作日 18:00（北京时间）自动执行，也可手动触发。默认非交易日（含 A/H/US 节假日）不执行；强制运行、交易日检查、断点续传等规则见 完整指南。\n\n完整环境变量、模型渠道、通知渠道、数据源优先级、交易纪律、基本面 P0 语义和部署说明请参考 完整配置指南。\n\nWeb 工作台提供配置管理、任务监控、手动分析、历史报告、完整 Markdown 报告、Agent 问股、回测、持仓管理、智能导入和浅色 / 深色主题。启动方式：\n\n访问 即可使用。认证、智能导入、搜索补全、历史报告复制、云服务器访问等细节见 本地 WebUI 管理界面。\n\n配置任意可用 AI API Key 后，Web /chat 页面即可使用策略问股；如需显式关闭可设置 AGENTMODE=false。\n\n支持均线金叉、缠论、波浪理论、多头趋势、热点题材、事件驱动、成长质量、预期重估等内置策略 - 支持实时行情、K 线、技术指标、新闻和风险信息调用 - 支持多轮追问、会话导出、发送到通知渠道和后台执行 - 支持自定义策略文件与多 Agent 编排（实验性）",
+      "readme_source": "https://github.com/ZhuLinsen/daily_stock_analysis#readme",
+      "readme_collected_at": "2026-11-17T23:32:19.575642+00:00"
     },
     {
-      "name": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "language": "Python",
-      "weekly_stars": 7067,
-      "korean_article": "",
-      "korean_summary": "",
-      "readme_excerpt": "Community-maintained packages are available for Debian (>= 13), Ubuntu (>= 22.10), Homebrew, Kali, and BlackArch. These packages are not directly supported or maintained by the Sherlock Project.\n\nSee all alternative installation methods here.\n\nAccounts found will be stored in an individual text file with the corresponding username (e.g ).\n\nThank you to everyone who has contributed to Sherlock! ❤️\n\nMIT © Sherlock Project Creator - Siddharth Dushantha"
+      "weekly_stars": 5666,
+      "github_id": 1061953414,
+      "stars": 196710,
+      "metadata_observed_at": "2026-11-17T23:32:19.838875+00:00",
+      "korean_article": "https://news.hada.io/topic?id=23713",
+      "korean_summary": "AI가 특정 일을 더 잘하도록 작업 방법을 담아 둔 스킬 예제 모음이에요. 문서 만들기나 웹 앱 테스트처럼 반복되는 작업에 필요한 지침과 도구를 살펴보고, 자신에게 맞는 스킬을 만드는 데 참고할 수 있어요.",
+      "readme_excerpt": "For more information, check out: - What are skills? - Using skills in Claude - How to create custom skills - Equipping agents for the real world with Agent Skills\n\nThis repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.).\n\nEach skill is self-contained in its own folder with a SKILL.md file containing the instructions and metadata that Claude uses. Browse through these skills to get inspiration for your own skills or to understand different patterns and approaches.\n\nMany skills in this repo are open source (Apache 2.0). We've also included the document creation & editing skills that power Claude's document capabilities under the hood in the skills/docx, skills/pdf, skills/pptx, and skills/xlsx subfolders. These are also open source (Apache 2.0), and we wanted to share them with developers as a reference for more complex skills that are actively used in a production AI application.\n\nThese skills are provided for demonstration and educational purposes only. While some of these capabilities may be available in Claude, the implementations and behaviors you receive from Claude may differ from what is shown in these skills. These skills are meant to illustrate patterns and possibilities. Always test skills thoroughly in your own environment before relying on them for critical tasks.",
+      "readme_source": "https://github.com/anthropics/skills#readme",
+      "readme_collected_at": "2026-11-17T23:32:20.062609+00:00"
     },
     {
-      "name": "google/elephant-goldfish-model",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "description": "Open-source plugin for designing and reviewing software with agents",
+      "name": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "weekly_stars": 4249,
+      "weekly_stars": 1747,
+      "github_id": 1229774092,
+      "stars": 9190,
+      "metadata_observed_at": "2026-11-17T23:32:20.314369+00:00",
       "korean_article": "",
       "korean_summary": "",
-      "readme_excerpt": "Develop ideas with context and review documents with fresh eyes. EGM is an open-source plugin for AI assistants.\n\nElephant holds your project context and drafts the specification. Goldfish reviewers examine the draft and referenced source material without the earlier conversation, helping expose unstated assumptions and blind spots. You make the architectural trade-offs and approve the specification before implementing.\n\nThe built-in draft and design-review workflow targets software specifications. For other documents, choose reviewers and standards with /egm-review-loop. Bootstrap and drift reporting apply to software codebases.\n\nChoose your coding agent. Install the complete plugin so its skills can read the reviewer prompts and document standards.\n\nOpen the published EGM plugin in the desktop app and install it. This listing is desktop-only. For Codex CLI, use the commands below.\n\nFor the Antigravity App and Antigravity for IDEs (Visual Studio Code extension), run /plugin or see the installation instructions.\n\nStart a new session after installation. For Claude Cowork and ChatGPT Work, see the setup guide.\n\nReview an existing design document, README, or PR plan against the live code. You do not need to write a new specification. The commands below use the /egm: prefix for Antigravity (agy CLI) and Claude Code. In Codex, select the corresponding EGM skill from the skill picker.\n\nUse the path to your design doc, or to a PR plan saved as Markdown. Fresh reviewers check the design, its clarity, its fit with the code, and its implementation plan."
-    },
-    {
-      "name": "google-deepmind/mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "language": "C++",
-      "weekly_stars": 1448,
-      "korean_article": "",
-      "korean_summary": "",
-      "readme_excerpt": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environment.\n\nThis repository is maintained by Google DeepMind.\n\nMuJoCo has a C API and is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes interactive visualization in native desktop windows and web browsers. MuJoCo further exposes a large number of utility functions for computing physics-related quantities.\n\nWe also provide [Python bindings] and a plug-in for the [Unity] game engine.\n\nMuJoCo's documentation can be found at [mujoco.readthedocs.io]. Upcoming features due for the next release can be found in the [changelog] in the \"latest\" branch.\n\n1. Try MuJoCo in your browser. Visit mujoco.org to explore MuJoCo on desktop or mobile with nothing to install, or open live.mujoco.org to inspect and drag and drop your own models in the WebAssembly version of the [MuJoCo Studio] app (slower than native C, since it runs in WebAssembly).\n\n2. Run a viewer on your machine. Follow the [Getting Started] guide in the documentation to download a prebuilt release and run the [MuJoCo Studio] app or the classic simulate viewer (shown in this video) on your machine."
+      "readme_excerpt": "Built by Sachin Sharma — Bug Hunting & GenAI Security Research.\n\nclaude-bughunter is a drop-in skill bundle for the Claude Code skills system. Install once and Claude Code stops being a chatbot and starts behaving like a senior bug-hunting researcher or red-team operator: it knows the techniques, the chain templates, the VRT mappings, the platform CVE chains, and the hygiene — and it stays in scope.\n\nThink — bb-methodology + redteam-mindset: the 5-phase non-linear workflow, critical-thinking framework, and red-team operator discipline. - Hunt webapps — 58 hunt- skills curated from 681 disclosed HackerOne reports: per-class detection patterns, payloads, bypass tables, and chain templates. - Hit the perimeter — enterprise platform chains (M365/Entra, Okta, vCenter, SSL-VPN appliances, SharePoint, cloud IAM): current 2024–2026 CVE chains + post-credential escalation. - Ship it — triage-validation + reporting + evidence-hygiene: the 7-Question Gate, VRT-aware severity, OOS rebuttals, PII redaction, and red-team deliverables.\n\nAll triggered automatically by topic — describe what you're testing in plain English and the relevant skill loads. No invocation by name.\n\nOption A — install as a Claude Code plugin (recommended). From inside Claude Code\n\nAll 83 skills + 15 commands load namespaced under claude-bughunter: and update when you bump the plugin version — no files copied into ~/.claude/.",
+      "readme_source": "https://github.com/elementalsouls/Claude-BugHunter#readme",
+      "readme_collected_at": "2026-11-17T23:32:20.550434+00:00"
     },
     {
       "name": "alibaba/open-code-review",
@@ -108,19 +113,74 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "weekly_stars": 3056,
+      "github_id": 1241960226,
+      "stars": 53704,
+      "metadata_observed_at": "2026-11-17T23:32:20.782416+00:00",
       "korean_article": "",
       "korean_summary": "",
-      "readme_excerpt": "Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assistant — over the past two years, it has served tens of thousands of developers and identified millions of code defects. After thorough validation at massive scale, we incubated it into an open source project for the community. Simply configure a model endpoint to get started.\n\nIt reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates structured review comments with line-level precision. The agent can read full file contents, search the codebase, inspect other changed files for context, and produce deep reviews — not just surface-level diff feedback. Beyond diff review, ocr scan reviews entire files for auditing unfamiliar codebases or directories that have no meaningful diff.\n\nA real-world code review benchmark built from 50 popular open-source repositories, 200 real Pull Requests, and 10 programming languages — cross-validated by 80+ senior engineers (1,505 annotated ground-truth issues).\n\nIf you've used general-purpose agents like Claude Code with Skills for code review, you've likely encountered these pain points\n\nIncomplete coverage — On larger changesets, agents tend to \"cut corners,\" selectively reviewing only some files and missing others. - Position drift — Reported issues frequently don't match the actual code location, with line numbers or file references drifting off target. - Unstable quality — Natural-language-driven Skills are hard to debug, and review quality fluctuates significantly with minor prompt variations."
+      "readme_excerpt": "Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assistant — over the past two years, it has served tens of thousands of developers and identified millions of code defects. After thorough validation at massive scale, we incubated it into an open source project for the community. Simply configure a model endpoint to get started.\n\nIt reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates structured review comments with line-level precision. The agent can read full file contents, search the codebase, inspect other changed files for context, and produce deep reviews — not just surface-level diff feedback. Beyond diff review, ocr scan reviews entire files for auditing unfamiliar codebases or directories that have no meaningful diff.\n\nA real-world code review benchmark built from 50 popular open-source repositories, 200 real Pull Requests, and 10 programming languages — cross-validated by 80+ senior engineers (1,505 annotated ground-truth issues).\n\nIf you've used general-purpose agents like Claude Code with Skills for code review, you've likely encountered these pain points\n\nIncomplete coverage — On larger changesets, agents tend to \"cut corners,\" selectively reviewing only some files and missing others. - Position drift — Reported issues frequently don't match the actual code location, with line numbers or file references drifting off target. - Unstable quality — Natural-language-driven Skills are hard to debug, and review quality fluctuates significantly with minor prompt variations.",
+      "readme_source": "https://github.com/alibaba/open-code-review#readme",
+      "readme_collected_at": "2026-11-17T23:32:21.049074+00:00"
     },
     {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "weekly_stars": 3960,
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "weekly_stars": 3760,
+      "github_id": 1132001614,
+      "stars": 52359,
+      "metadata_observed_at": "2026-11-17T23:32:21.334000+00:00",
       "korean_article": "",
       "korean_summary": "",
-      "readme_excerpt": "Production-grade engineering skills for AI coding agents.\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n9 slash commands that map to the development lifecycle. Each one activates the right skills automatically.\n\nIn Claude Code these install as plugin commands. Where a built-in command has the same name, as /review does, use the namespaced form: /agent-skills:review.\n\nWant fewer manual steps once the spec exists? /build auto generates the plan and implements every task in a single approved pass — you approve the plan once, then it runs autonomously. It removes the human stepping between tasks, not the verification: every task is still test-driven and committed individually, and it pauses on failures or risky steps.\n\nSkills also activate automatically based on what you're doing — designing an API triggers api-and-interface-design, building UI triggers frontend-ui-engineering, and so on.\n\nFastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more)\n\nPrefer a native integration? Pick your tool below.\n\nAlready installed? How you roll the pack out depends on your codebase. The Adoption Guide covers two paths: the full lifecycle from day one for a greenfield project, or an incremental, verification-first rollout for an established codebase."
+      "readme_excerpt": "Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell.\n\nagent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the page as compact text with a ref such as @e1 for each element. The agent acts on a ref, reads the page again to check the result, and repeats. The browser stays open between commands, so each step is one short shell call.\n\nHomebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's system libraries. - No install: npx agent-browser open example.com.\n\nProject installs, building from source, upgrade, and doctor are covered in Installation.\n\nRefs describe the page at the time of the snapshot. After navigation or a DOM change, take a new snapshot before using refs again. - CSS selectors, text, XPath, and semantic locators also work, for example agent-browser find role button click --name \"Submit\". See Selectors. - A click fails, instead of reporting success, when the target is hidden, disabled, outside the viewport, or covered by another element such as a consent banner. Dismiss the covering element, take a new snapshot, and retry.\n\nThe CLI sends each command to a background daemon that starts on the first command and controls the browser over the Chrome DevTools Protocol. Each --session gets its own daemon and browser. By default, the daemon closes a headless browser and exits after one hour without commands, saving state first when session persistence is configured.",
+      "readme_source": "https://github.com/vercel-labs/agent-browser#readme",
+      "readme_collected_at": "2026-11-17T23:32:21.520228+00:00"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "weekly_stars": 2593,
+      "github_id": 1054793726,
+      "stars": 58028,
+      "metadata_observed_at": "2026-11-17T23:32:21.830073+00:00",
+      "korean_article": "",
+      "korean_summary": "",
+      "readme_excerpt": "Chrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a [CLI][cli]. Both give your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis.\n\n[Tool reference][tool-reference] | [CLI][cli] | [Skills][skills] | [Changelog][changelog] | [Contributing][contributing] | [Troubleshooting][troubleshooting] | [Design Principles][design-principles]\n\nGet performance insights: Uses Chrome DevTools to record traces and extract actionable performance insights. - Advanced browser debugging: Analyze network requests, take screenshots and check browser console messages (with source-mapped stack traces). - Reliable automation. Uses puppeteer to automate actions in Chrome and automatically wait for action results.\n\nchrome-devtools-mcp exposes content of the browser instance to the MCP clients allowing them to inspect, debug, and modify any data in the browser or DevTools. Avoid sharing sensitive or personal information that you don't want to share with MCP clients.\n\nchrome-devtools-mcp officially supports Google Chrome and Chrome for Testing only. Other Chromium-based browsers may work, but this is not guaranteed, and you may encounter unexpected behavior. Use at your own discretion. We are committed to providing fixes and support for the latest version of Extended Stable Chrome.",
+      "readme_source": "https://github.com/ChromeDevTools/chrome-devtools-mcp#readme",
+      "readme_collected_at": "2026-11-17T23:32:22.044061+00:00"
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "language": "Python",
+      "weekly_stars": 2407,
+      "github_id": 1079356098,
+      "stars": 6851,
+      "metadata_observed_at": "2026-11-17T23:32:22.343982+00:00",
+      "korean_article": "",
+      "korean_summary": "",
+      "readme_excerpt": "Data handling: Privacy policy · Security policy\n\nClaude Trading Skills started as a personal project to use AI to improve my own trading process.\n\nClaude Trading Skills is a Claude Skills-based trading workflow toolkit for time-constrained individual investors.\n\nIt is designed for investors who use long-term investing, ETFs, and dividend stocks as their core, while using disciplined swing trading as a satellite strategy when market conditions are favorable.\n\nThe goal is not to outsource buy/sell decisions to AI. The goal is to structure market review, risk management, trade planning, journaling, and continuous improvement. It is open source because the workflows, checklists, and review habits behind better trading decisions can improve through shared practice.\n\nThis is not a signal service or a promise of profitability. It is a toolkit for traders who want to build a better decision process.\n\nThe project follows a first for self, open for others stance: it is built first as a practical workflow the author uses, then shared openly for others who face similar constraints.\n\nThis repository is for educational, research, and process-improvement purposes only. It is not financial advice, investment advisory service, tax advice, legal advice, a signal service, or a broker execution platform. Trading and investing involve risk, including loss of principal. Past performance, backtests, screens, reports, and AI-generated analysis do not guarantee future results. All trading decisions, position sizing, tax/regulatory compliance, and broker usage are the user's responsibility.",
+      "readme_source": "https://github.com/tradermonty/claude-trading-skills#readme",
+      "readme_collected_at": "2026-11-17T23:32:22.586689+00:00"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "weekly_stars": 943,
+      "github_id": 1135847870,
+      "stars": 10082,
+      "metadata_observed_at": "2026-11-17T23:32:22.852666+00:00",
+      "korean_article": "",
+      "korean_summary": "",
+      "readme_excerpt": "A collection of agent skills and plugins for Google Stitch, following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (manual install).\n\nAdd the Stitch Skills marketplace, then install the plugins you need.\n\nOnce the marketplace is registered, install any combination of\n\nstitch-design — design-focused skills - stitch-build — build and component skills - stitch-utilities — utility and helper skills\n\nOpenCode does not use npx plugins / npx skills or the Codex/Claude marketplace layout. Install skills and the Stitch MCP server manually\n\n1. Skills — copy the skill folders you need into a discoverable path\n\nOpenCode also discovers .claude/skills/ and .agents/skills/ (see OpenCode skills docs).\n\n2. Stitch MCP — add a remote MCP entry in project opencode.json or ~/.config/opencode/opencode.json after completing the Stitch MCP setup\n\nReplace YOURSTITCHMCPURL with the endpoint from the Stitch MCP setup flow (credentials/env vars from that guide still apply).\n\nTool names inside skill instructions may differ from OpenCode builtins (webfetch / bash instead of webfetch / runcommand). Prefer the OpenCode tool names when adapting a skill for OpenCode.\n\nYou can run the following commands to see the help documentation for plugins and skills\n\nThese skills require the Stitch MCP server to be configured and running in your agent's environment. Make sure you have followed the Stitch MCP Setup Instructions to register the server and set up appropriate environment variables and credentials.",
+      "readme_source": "https://github.com/google-labs-code/stitch-skills#readme",
+      "readme_collected_at": "2026-11-17T23:32:23.082993+00:00"
     },
     {
       "name": "openai/codex-security",
@@ -128,19 +188,29 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "weekly_stars": 2352,
+      "github_id": 1299769220,
+      "stars": 13953,
+      "metadata_observed_at": "2026-11-17T23:32:23.378715+00:00",
       "korean_article": "",
       "korean_summary": "",
-      "readme_excerpt": "Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex-security CLI and TypeScript SDK.\n\nIn Codex: choose a security workflow. - In a terminal: install the CLI and scan your repository. - In automation: use the TypeScript SDK or GitHub Action.\n\nScan repositories, selected paths, or Git changes. Deep scans repeat Standard scans and return their deduplicated findings. - Validate candidate findings, generate patches, and verify existing fixes. - Draft SECURITY.md policies and save threat models for later review. - Browse saved scans and findings, identify duplicates, assess severity against your own rubric, and suggest owners from source and Git history. - Preview third-party scanner findings, save them locally, or publish supported reports to Codex Security Cloud. Scanner import guides. - Track findings in Linear, Jira, or GitHub, publish completed scans, or export SARIF, JSON, and CSV. Integration workflows. - Automate scans across repositories or project components, including in CI and containers.\n\nOpen your repository in a Codex session with the Codex Security plugin enabled, then ask\n\nA completed scan saves a report and findings. Read the report for source evidence and exclusions, then request a patch or ask Codex to verify an existing fix. See the agent workflow guide for setup, task selection, and recovery."
+      "readme_excerpt": "Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex-security CLI and TypeScript SDK.\n\nIn Codex: choose a security workflow. - In a terminal: install the CLI and scan your repository. - In automation: use the TypeScript SDK or GitHub Action.\n\nScan repositories, selected paths, or Git changes. Deep scans repeat Standard scans and return their deduplicated findings. - Validate candidate findings, generate patches, and verify existing fixes. - Draft SECURITY.md policies and save threat models for later review. - Browse saved scans and findings, identify duplicates, assess severity against your own rubric, and suggest owners from source and Git history. - Preview third-party scanner findings, save them locally, or publish supported reports to Codex Security Cloud. Scanner import guides. - Track findings in Linear, Jira, or GitHub, publish completed scans, or export SARIF, JSON, and CSV. Integration workflows. - Automate scans across repositories or project components, including in CI and containers.\n\nOpen your repository in a Codex session with the Codex Security plugin enabled, then ask\n\nA completed scan saves a report and findings. Read the report for source evidence and exclusions, then request a patch or ask Codex to verify an existing fix. See the agent workflow guide for setup, task selection, and recovery.",
+      "readme_source": "https://github.com/openai/codex-security#readme",
+      "readme_collected_at": "2026-11-17T23:32:23.625589+00:00"
     },
     {
-      "name": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "language": "TypeScript",
-      "weekly_stars": 1497,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "weekly_stars": 3960,
+      "github_id": 1158722119,
+      "stars": 118651,
+      "metadata_observed_at": "2026-11-17T23:32:23.898982+00:00",
       "korean_article": "",
       "korean_summary": "",
-      "readme_excerpt": "The open-source AI coding agent for your terminal, editor, desktop, browser, and chat.\n\nAgentic out of the box — Auto-Memory, Skills, SubAgents, and MCP work from the first session. Agent Teams, Agent Arena, and Dynamic Workflows are built in too — experimental or opt-in, as noted in Capabilities. - Open-source, inside and out — The framework and the Qwen models are open-source. They evolve together. No vendor lock-in. - Multi-protocol — Supports OpenAI, Anthropic, Gemini, and Qwen APIs. Any third-party provider or local model (Ollama / vLLM). Switch at runtime. - Beyond the terminal — IDE plugins, Desktop app, Web UI, SDKs, and chat integrations (Telegram / DingTalk / WeChat / WeCom / Feishu and more).\n\nLooking for Qwen Code 1.0 Preview? Get started here. The instructions below are for the main version.\n\nOpen a terminal in your project and start Qwen Code\n\nInside the session, run /auth and choose Qwen Account with Subscription to sign in with your Plus or Pro subscription, or configure a provider with an API key. Then try\n\nSee the Authentication Guide and Settings Reference for detailed setup.\n\nHeadless — Run qwen -p \"...\" in scripts, CI/CD, or batch jobs. - SDKs — Build with TypeScript, Python, or Java. - Daemon — Run qwen serve to connect clients over HTTP + SSE (ACP). (experimental) Daemon guide. - Computer Use — Set up native MCP tools or Node REPL + SDK in Qwen Code, Claude Code, or Codex."
+      "readme_excerpt": "Production-grade engineering skills for AI coding agents.\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n9 slash commands that map to the development lifecycle. Each one activates the right skills automatically.\n\nIn Claude Code these install as plugin commands. Where a built-in command has the same name, as /review does, use the namespaced form: /agent-skills:review.\n\nWant fewer manual steps once the spec exists? /build auto generates the plan and implements every task in a single approved pass — you approve the plan once, then it runs autonomously. It removes the human stepping between tasks, not the verification: every task is still test-driven and committed individually, and it pauses on failures or risky steps.\n\nSkills also activate automatically based on what you're doing — designing an API triggers api-and-interface-design, building UI triggers frontend-ui-engineering, and so on.\n\nFastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more)\n\nPrefer a native integration? Pick your tool below.\n\nAlready installed? How you roll the pack out depends on your codebase. The Adoption Guide covers two paths: the full lifecycle from day one for a greenfield project, or an incremental, verification-first rollout for an established codebase.",
+      "readme_source": "https://github.com/addyosmani/agent-skills#readme",
+      "readme_collected_at": "2026-11-17T23:32:24.099558+00:00"
     }
   ]
 }
