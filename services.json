@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-11-18T04:18:30+00:00",
+  "updated_at": "2026-11-18T04:22:41+00:00",
   "window_days": 7,
   "sources": {
-    "show_hn": "ok"
+    "show_hn": "ok",
+    "failed_item_requests": 0
   },
   "items": [
     {
@@ -21,7 +22,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Project Benteveo is an Open implementation of HP Laserjet 1005 driver for Windows 11/x64 - hernandp/OpenHPZJS1005-x64-drv",
       "metadata_status": "ok"
     },
@@ -41,7 +42,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Badges to indicate whether a project allows or disallows AI use.",
       "metadata_status": "ok"
     },
@@ -61,7 +62,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "A free, guided way to match the pitch of your tinnitus in about four minutes. Sets safe levels for your ears, checks for octave mix-ups, and gives you an honest range. No sign-up.",
       "metadata_status": "ok"
     },
@@ -81,7 +82,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Director's Lookbook: 798 named looks: an AI style library for image, video and music prompts. Cinematic prompts, camera angles, film looks, colour grades and music styles, no artist names. Say the feeling, get the look, copy the prompt.",
       "metadata_status": "ok"
     },
@@ -101,7 +102,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "A quiet reset for busy minds: collapse mental clutter and open tabs, keep your context without bookmarks, and leave with one clear next move.",
       "metadata_status": "ok"
     },
@@ -121,7 +122,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "",
       "metadata_status": "ok"
     },
@@ -141,7 +142,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Rally creates reactive, multi-human artifacts: dashboards, micro-apps, podcast feeds, websites and team tools that react to events in the services you already use, and that your team shapes together.",
       "metadata_status": "ok"
     },
@@ -161,7 +162,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "A zoomable isometric pixel-art map of Montevideo, Uruguay, with ten iconic places to visit.",
       "metadata_status": "ok"
     },
@@ -181,7 +182,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "",
       "metadata_status": "ok"
     },
@@ -201,7 +202,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Hue Markdown adds colored text, drawn boxes, task states, key caps and progress bars to Markdown. The source stays easy to read as plain text. Try it in your browser.",
       "metadata_status": "ok"
     },
@@ -221,7 +222,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "How language models run on GPUs, explained with interactive diagrams.",
       "metadata_status": "ok"
     },
@@ -241,7 +242,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Soccer-Bench measures how well language models coordinate as a team. Two teams of five play 2D soccer, and every player is a separate model call.",
       "metadata_status": "ok"
     },
@@ -261,7 +262,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Spreadsheet to app with AI. Upload Excel or CSV, or connect Google Sheets; preview and publish with Sheets as your database. Free to start. No credit card.",
       "metadata_status": "ok"
     },
@@ -281,7 +282,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "An experimental, largely AI-coded desktop environment for Linux, built with Flutter 🐦 - miracle-wm-org/moonswing",
       "metadata_status": "ok"
     },
@@ -301,7 +302,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere. - RunanywhereAI/trnrt",
       "metadata_status": "ok"
     },
@@ -321,7 +322,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Add Atli to Claude, ChatGPT or another AI assistant, then find, buy and install a travel eSIM right in the chat.",
       "metadata_status": "ok"
     },
@@ -341,7 +342,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "One page of a made-up invoicing app, built with Alloy CSS and no JavaScript.",
       "metadata_status": "ok"
     },
@@ -361,7 +362,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Terminal-native AI coding assistant for real repositories. Inspect code, edit files, run tests, and verify changes from the CLI. - prapaa-ai/agav",
       "metadata_status": "ok"
     },
@@ -381,7 +382,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "A shared online room where anyone can work alongside other people. Open around the clock, free, and no sign-up: read the house rules and walk in.",
       "metadata_status": "ok"
     },
@@ -401,7 +402,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Lean-based verification of SQLite schema migrations - vihren-dev/belay",
       "metadata_status": "ok"
     },
@@ -421,7 +422,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Orchard is an open-source, self-hosted platform as a service from Hack Club. One command installs it on a Linux server, then you deploy apps from Git with Postgres, HTTPS, logs and an MCP server.",
       "metadata_status": "ok"
     },
@@ -441,7 +442,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "A daily Pokémon World Tournament bracket in the browser. Everyone gets the same three Pokémon and the same three Black 2 / White 2 trainers. One official run a day.",
       "metadata_status": "ok"
     },
@@ -461,7 +462,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Shoptimist is curated Amazon. Amazon is a great place to shop. It is not a great place to browse. Find the best products on Shoptimist.",
       "metadata_status": "ok"
     },
@@ -481,7 +482,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Calls, chats and livestreams over a Bluetooth mesh. Every phone passes it on, so you reach further than Bluetooth alone. No internet, no SIM, no account.",
       "metadata_status": "ok"
     },
@@ -501,7 +502,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "MCP server that lets AI coding agents in any harness find and message each other: one list, tags, multicast, * bus. - yocontra/pulsar",
       "metadata_status": "ok"
     },
@@ -521,7 +522,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Toolbelt gives developers free, private tools for JSON formatting, JWT decoding, Base64 conversion, hash generation, UUID creation, timestamp conversion, URL encoding, and regex testing—runs entirely in your browser.",
       "metadata_status": "ok"
     },
@@ -541,7 +542,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Coding agents share the developer's laptop the way people once shared a mainframe, all running as the developer. Today we're introducing kosem: coding agents with native environments, identity and access.",
       "metadata_status": "ok"
     },
@@ -561,7 +562,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "A persistent terminal with tabs, mouse support and a built-in AI agent. It runs inside the terminal you already use, locally or over SSH, as one self-contained file.",
       "metadata_status": "ok"
     },
@@ -581,7 +582,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "A multiplayer strategy game. Claim territory, build your army, and reshape the map.",
       "metadata_status": "ok"
     },
@@ -601,7 +602,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Find research funding, check official calls with your own AI assistant, and track applications in your browser. - dryang21/Fundlark",
       "metadata_status": "ok"
     },
@@ -621,7 +622,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Free weekly backup for a Supabase Free-tier database: pg_dump to Cloudflare R2 via GitHub Actions. Lite version of the Supabase Backup Kit. - liulewis/supabase-free-backup-lite",
       "metadata_status": "ok"
     },
@@ -641,7 +642,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "a SOTA audio to midi model that significantly beats MuScriptor 1.3B and scores a bit higher than Mirelo's closed source model, at 20m parameters, trained on no copyrighted recordings.",
       "metadata_status": "ok"
     },
@@ -661,7 +662,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "A Linux desktop for your coding agent, in a rootless container on your machine.",
       "metadata_status": "ok"
     },
@@ -681,7 +682,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Scarce Units, Typed, Related, Actionable. An open-source, self-hosted ontology platform. - 0nelight/sutra-os",
       "metadata_status": "ok"
     },
@@ -701,7 +702,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "A short video of a three-host nos cluster: an SSH session into the nos kernel, then the cluster driven from its panel. Several Linux VMs on different hosts, their disks on fault-tolerant storage and the VMs on one private network, from Debian's public cloud image to iperf3 between hosts, and a running VM moved live to another host.",
       "metadata_status": "ok"
     },
@@ -721,7 +722,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Live, multi-camera object tracking with SAM3, SAM 2 and EdgeTAM, on one GPU or many. One model per GPU serves every camera: faster than the original code, about 4x less GPU memory, identical masks. - aryamandarda/tamserve",
       "metadata_status": "ok"
     },
@@ -741,7 +742,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Spin the compass, lock your heading, fly the real route. 700 cities, one compass.",
       "metadata_status": "ok"
     },
@@ -761,7 +762,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Video editor as code: LLMs write code well and math badly, so a model writes a TSX file of words and shots, and CutCraft does the arithmetic, plays it in the browser, edits it and exports it. - prefix-tree/cutcraft",
       "metadata_status": "ok"
     },
@@ -781,7 +782,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Fast, reliable download accelerator and video downloader since 2013 - subhra74/xdm",
       "metadata_status": "ok"
     },
@@ -801,7 +802,7 @@
       "date_basis": "public_introduction",
       "release_date": null,
       "pricing_status": "unverified",
-      "collected_at": "2026-11-18T04:18:30+00:00",
+      "collected_at": "2026-11-18T04:22:41+00:00",
       "product_description": "Procedural birds you blend by dragging across a map, with the code that draws them.",
       "metadata_status": "ok"
     }
