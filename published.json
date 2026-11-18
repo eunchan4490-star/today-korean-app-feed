@@ -6,6 +6,24 @@
       "title": "동네 지도에 빠진 정보를 직접 고칠 수 있다면",
       "description": "iD는 브라우저에서 OpenStreetMap을 편집할 수 있는 도구예요. 지도의 정보를 직접 고치는 흐름을 살펴보고, 우리 동네에서 위치나 안내 정보가 부족해 자주 묻게 되는 장소를 떠올려 보세요.",
       "url": "https://github.com/openstreetmap/iD"
+    },
+    {
+      "id": "insight-20261117-designed-to-scale",
+      "title": "서버를 늘리면 왜 더 빨라질까? 그림으로 따라가 보기",
+      "description": "11월 17일 공개 소개 · Designed to Scale\n\n시스템 설계 개념을 단계별 애니메이션으로 살펴볼 수 있는 학습 사이트예요. 예를 들어 서버 한 대의 성능을 높이는 방식과 여러 대로 요청을 나누는 방식의 차이를 그림으로 따라갈 수 있어요. 복잡한 과정을 설명할 때, 결과만 보여주기보다 중간에 무슨 일이 일어나는지 보여주는 방식이 눈에 띄어요.\n\n생각해 볼 점 · 내가 매번 말로 설명하는 것 중, 한 단계씩 보여주면 훨씬 쉽게 이해될 것은 뭘까요?",
+      "url": "https://designed-to-scale.vercel.app/"
+    },
+    {
+      "id": "insight-20261118-alloy-css",
+      "title": "자바스크립트를 꺼도 열리는 메뉴와 대화상자",
+      "description": "11월 18일 Show HN 공개 소개 · Alloy CSS\n\nAlloy CSS의 청구서 화면 데모는 자바스크립트 없이도 메뉴와 대화상자, 탭이 동작하는 모습을 보여줘요. 브라우저가 기본으로 제공하는 HTML 기능으로 화면에서 어디까지 할 수 있는지 직접 눌러볼 수 있어요.\n\n생각해 볼 점 · 내 웹 화면에서 별도 코드로 처리하는 동작 중, 브라우저 기본 기능으로도 충분한 것은 뭘까요?",
+      "url": "https://alloyhtml.com/example.html"
+    },
+    {
+      "id": "insight-20261118-mai-code-2",
+      "title": "코딩 AI 비용은 한 번의 응답 가격으로 다 알 수 있을까?",
+      "description": "11월 18일 한국시간 · Microsoft Ignite 발표\n\n마이크로소프트는 코딩 벤치마크 4개의 평균에서 MAI Code 2가 GPT-6.1 Sol 대비 성능 98%, 비용 40%를 기록했다고 발표했어요. 해당 평가 조건의 수치예요. 내 작업에선 원하는 결과가 나올 때까지 수정하고 다시 요청하는 횟수도 비용에 영향을 줘요.\n\n생각해 볼 점 · 내가 자주 맡기는 간단한 수정 한 건을 두 모델에 맡겨보면, 결과가 통과할 때까지 몇 번의 요청이 필요할까요?",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
     }
   ]
 }
