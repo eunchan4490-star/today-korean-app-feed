@@ -1,0 +1,25 @@
+name: Update public municipal complaint index
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '50 21 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: app-feed
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m unittest discover -s feed -p 'test_civic.py'
+      - run: python3 feed/civic.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Publish sources
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add civic.json
+          if ! git diff --cached --quiet; then git commit -m 'Update public municipal complaint index'; git push; fi
