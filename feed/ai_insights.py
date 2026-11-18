@@ -145,12 +145,18 @@ def generate(summary):
     print(f"Validated {len(drafts)} AI drafts")
 
 
-def publish(file):
+def publish(file, selected_ids):
     from publish_card import update
 
     drafts = json.loads(file.read_text(encoding="utf-8"))
     if not isinstance(drafts, list) or not 1 <= len(drafts) <= 3:
         raise ValueError("Select a run with at least one valid draft")
+    if selected_ids:
+        selected = {value for value in re.split(r"[,\s]+", selected_ids.strip()) if value}
+        available = {draft["card"]["id"] for draft in drafts}
+        if not selected or not selected <= available:
+            raise ValueError("Selected card IDs must belong to the reviewed run")
+        drafts = [draft for draft in drafts if draft["card"]["id"] in selected]
     state = json.loads(FEED.read_text(encoding="utf-8"))
     seen = {card["url"].rstrip("/") for card in state["cards"]}
     ids = {card["id"] for card in state["cards"]}
@@ -180,8 +186,9 @@ if __name__ == "__main__":
     modes = parser.add_mutually_exclusive_group(required=True)
     modes.add_argument("--summary", type=Path)
     modes.add_argument("--publish", type=Path)
+    parser.add_argument("--card-ids", default="")
     args = parser.parse_args()
     if args.summary is not None:
         generate(args.summary)
     else:
-        publish(args.publish)
+        publish(args.publish, args.card_ids)

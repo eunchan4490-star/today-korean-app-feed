@@ -11,6 +11,9 @@ on:
       draft_run:
         description: "게시할 때 초안 생성 실행 번호를 입력하세요"
         type: string
+      card_ids:
+        description: "게시할 카드 ID (쉼표 구분, 비우면 전체)"
+        type: string
       reviewed:
         description: "게시할 초안의 내용과 출처를 확인했습니다"
         type: boolean
@@ -84,8 +87,10 @@ jobs:
           echo "::$marker::"
       - name: Update public feed
         if: inputs.action == 'publish' && inputs.reviewed
+        env:
+          CARD_IDS: ${{ inputs.card_ids }}
         run: |
-          python3 feed/ai_insights.py --publish "$RUNNER_TEMP/insights/insight-drafts.json"
+          python3 feed/ai_insights.py --publish "$RUNNER_TEMP/insights/insight-drafts.json" --card-ids "$CARD_IDS"
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add published.json
