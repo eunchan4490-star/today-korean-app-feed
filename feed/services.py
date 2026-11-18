@@ -55,6 +55,7 @@ def row(item,now):
  return {'_kind':'pain','problem_category':'services','source_kind':'show_hn','source_id':str(ident),
   'title':title,'description':text(item.get('text','')),'product_url':url,'product_key':canonical,
   'url':'https://news.ycombinator.com/item?id='+str(ident),'source_name':'Show HN',
+  'created_at':datetime.datetime.fromtimestamp(stamp,datetime.timezone.utc).isoformat(),
   'introduced_at_ms':stamp*1000,'introduced_at':datetime.datetime.fromtimestamp(stamp,datetime.timezone.utc).isoformat(),
   'date_basis':'public_introduction','release_date':None,'pricing_status':'unverified',
   'collected_at':datetime.datetime.fromtimestamp(now,datetime.timezone.utc).isoformat()}
