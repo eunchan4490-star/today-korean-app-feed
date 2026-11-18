@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       action:
-        description: "generate 초안 생성 / publish 검토한 초안 게시"
+        description: "generate 초안 생성 / preview 초안 보기 / publish 검토한 초안 게시"
         type: choice
-        options: [generate, publish]
+        options: [generate, preview, publish]
         default: generate
       draft_run:
         description: "게시할 때 초안 생성 실행 번호를 입력하세요"
@@ -52,7 +52,7 @@ jobs:
           if-no-files-found: error
 
   publish:
-    if: github.ref == 'refs/heads/main' && inputs.action == 'publish' && inputs.reviewed
+    if: github.ref == 'refs/heads/main' && (inputs.action == 'preview' || (inputs.action == 'publish' && inputs.reviewed))
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -74,9 +74,18 @@ jobs:
           gh run view "$DRAFT_RUN" --repo "$GITHUB_REPOSITORY" --json conclusion,event,headBranch,workflowName \
             --jq '.conclusion == "success" and .event == "workflow_dispatch" and .headBranch == "main" and .workflowName == "최근 소식 AI 초안"' | grep -qx true
           gh run download "$DRAFT_RUN" --repo "$GITHUB_REPOSITORY" --name insight-drafts --dir "$RUNNER_TEMP/insights"
-          python3 feed/ai_insights.py --publish "$RUNNER_TEMP/insights/insight-drafts.json"
-      - name: Update public feed
+      - name: Preview drafts
+        if: inputs.action == 'preview'
         run: |
+          set -euo pipefail
+          marker="$(cat /proc/sys/kernel/random/uuid)"
+          echo "::stop-commands::$marker"
+          cat "$RUNNER_TEMP/insights/insight-drafts.json"
+          echo "::$marker::"
+      - name: Update public feed
+        if: inputs.action == 'publish' && inputs.reviewed
+        run: |
+          python3 feed/ai_insights.py --publish "$RUNNER_TEMP/insights/insight-drafts.json"
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add published.json
