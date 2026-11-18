@@ -1,0 +1,49 @@
+name: Publish a reviewed discovery card
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "publish 추가·수정 / remove 공개 내리기"
+        type: choice
+        options: [publish, remove]
+        required: true
+      data:
+        description: "publish는 앱에서 복사한 카드 데이터, remove는 카드 ID"
+        type: string
+        required: true
+      reviewed:
+        description: "공개할 내용과 출처를 검토했습니다"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reviewed-card-publication
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.ref == 'refs/heads/main' && (inputs.reviewed || inputs.action == 'remove')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Validate and apply
+        env:
+          CARD_ACTION: ${{ inputs.action }}
+          CARD_DATA: ${{ inputs.data }}
+        run: python3 feed/publish_card.py
+      - name: Publish feed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add published.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update reviewed public cards'
+            git pull --rebase origin main
+            git push origin main
+          fi
