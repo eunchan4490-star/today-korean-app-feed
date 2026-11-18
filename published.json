@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "cards": []
+  "cards": [
+    {
+      "id": "openstreetmap-id",
+      "title": "동네 지도에 빠진 정보를 직접 고칠 수 있다면",
+      "description": "iD는 브라우저에서 OpenStreetMap을 편집할 수 있는 도구예요. 지도의 정보를 직접 고치는 흐름을 살펴보고, 우리 동네에서 위치나 안내 정보가 부족해 자주 묻게 되는 장소를 떠올려 보세요.",
+      "url": "https://github.com/openstreetmap/iD"
+    }
+  ]
 }
