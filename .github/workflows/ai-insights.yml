@@ -1,0 +1,87 @@
+name: 최근 소식 AI 초안
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "generate 초안 생성 / publish 검토한 초안 게시"
+        type: choice
+        options: [generate, publish]
+        default: generate
+      draft_run:
+        description: "게시할 때 초안 생성 실행 번호를 입력하세요"
+        type: string
+      reviewed:
+        description: "게시할 초안의 내용과 출처를 확인했습니다"
+        type: boolean
+        default: false
+
+jobs:
+  draft:
+    if: github.ref == 'refs/heads/main' && inputs.action == 'generate'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 18
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate cards with a local model
+        run: |
+          set -euo pipefail
+          work="$(mktemp -d)"
+          curl --fail --silent --show-error --retry 3 --max-time 180 -L \
+            https://github.com/ggml-org/llama.cpp/releases/download/b8500/llama-b8500-bin-ubuntu-x64.tar.gz \
+            -o "$work/runner.tar.gz"
+          echo "f143ec751cc9cb5b2276305dd7264d02d95cb8f825e1b914a18d8cc08f1a0039  $work/runner.tar.gz" | sha256sum -c -
+          curl --fail --silent --show-error --retry 3 --max-time 300 -L \
+            https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/resolve/a06e946bb6b655725eafa393f4a9745d460374c9/Qwen3-4B-Instruct-2507-Q4_K_M.gguf \
+            -o "$work/model.gguf"
+          echo "3605803b982cb64aead44f6c1b2ae36e3acdb41d8e46c8a94c6533bc4c67e597  $work/model.gguf" | sha256sum -c -
+          tar -xzf "$work/runner.tar.gz" -C "$work"
+          server="$(find "$work" -type f -name llama-server -print -quit)"
+          if [ -z "$server" ]; then echo 'llama-server missing'; exit 1; fi
+          LD_LIBRARY_PATH="$(dirname "$server")" "$server" --host 127.0.0.1 --port 8091 \
+            -m "$work/model.gguf" -c 6144 -t "$(nproc)" -np 1 > "$work/llama.log" 2>&1 &
+          trap 'kill "$!" 2>/dev/null || true' EXIT
+          python3 feed/ai_insights.py --summary "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: insight-drafts
+          path: insight-drafts.json
+          retention-days: 7
+          if-no-files-found: error
+
+  publish:
+    if: github.ref == 'refs/heads/main' && inputs.action == 'publish' && inputs.reviewed
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
+    concurrency:
+      group: reviewed-card-publication
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Download and verify the reviewed draft
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DRAFT_RUN: ${{ inputs.draft_run }}
+        run: |
+          set -euo pipefail
+          [[ "$DRAFT_RUN" =~ ^[0-9]+$ ]]
+          gh run view "$DRAFT_RUN" --repo "$GITHUB_REPOSITORY" --json conclusion,event,headBranch,workflowName \
+            --jq '.conclusion == "success" and .event == "workflow_dispatch" and .headBranch == "main" and .workflowName == "최근 소식 AI 초안"' | grep -qx true
+          gh run download "$DRAFT_RUN" --repo "$GITHUB_REPOSITORY" --name insight-drafts --dir "$RUNNER_TEMP/insights"
+          python3 feed/ai_insights.py --publish "$RUNNER_TEMP/insights/insight-drafts.json"
+      - name: Update public feed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add published.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Publish reviewed AI insights'
+            git pull --rebase origin main
+            git push origin main
+          fi
