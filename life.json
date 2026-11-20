@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:48:17.589014+00:00",
+  "updated_at": "2026-11-20T02:35:07.467724+00:00",
   "sources": {
     "378084485": {
       "app_name": "배달의민족 - 배달팁 무료 배민클럽",
@@ -14,12 +14,12 @@
     "839333328": {
       "app_name": "토스",
       "status": "ok",
-      "count": 6
+      "count": 0
     },
     "454434967": {
       "app_name": "쿠팡(Coupang)-모바일 쇼핑",
       "status": "ok",
-      "count": 6
+      "count": 0
     },
     "311867728": {
       "app_name": "네이버지도 - 장소의 발견과 예약, 내비게이션",
@@ -28,6 +28,22 @@
     }
   },
   "items": [
+    {
+      "_kind": "pain",
+      "problem_category": "life",
+      "source_kind": "app_store_review",
+      "source_id": "378084485:14802977797",
+      "app_id": "378084485",
+      "app_name": "배달의민족 - 배달팁 무료 배민클럽",
+      "title": "포인트 적립 알림 어떻게 끄나요",
+      "description": "포인트 적립됐다고 알림 자꾸 뜨는데 끄는 기능은 없는건가요? 배민 자체 알림을 꺼버리면 배달 오는거 알림이 안와서 불편하니깐 포인트 적립 알림만 끌 수 있는 기능을 추가해줬으면 합니다",
+      "rating": 1,
+      "url": "https://apps.apple.com/kr/app/id378084485?see-all=reviews",
+      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
+      "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
+      "created_at": "2026-11-17T17:02:47-07:00",
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
+    },
     {
       "_kind": "pain",
       "problem_category": "life",
@@ -42,7 +58,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
       "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
       "created_at": "2026-11-16T06:08:41-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -58,7 +74,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
       "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
       "created_at": "2026-11-15T03:40:53-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -74,7 +90,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
       "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
       "created_at": "2026-11-14T20:28:45-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -90,7 +106,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
       "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
       "created_at": "2026-11-14T18:45:11-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -106,23 +122,23 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
       "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
       "created_at": "2026-11-14T02:53:06-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
       "problem_category": "life",
       "source_kind": "app_store_review",
-      "source_id": "378084485:14788862690",
-      "app_id": "378084485",
-      "app_name": "배달의민족 - 배달팁 무료 배민클럽",
-      "title": "거지같은 배달앱",
-      "description": "사용자한테 돈만 더 쓰게끔 만드는 배민클럽, 한집배달. 단 한번도 따뜻한 음식을 받아보지도 못했고 상담원한테 매번 얘기하는것도 지겨움. 그냥 탈퇴가 답임",
+      "source_id": "1018769995:14804333488",
+      "app_id": "1018769995",
+      "app_name": "당근",
+      "title": "책임을 전혀 지지 않는 역겨운 운영",
+      "description": "중고 거래 플랫폼이 고객센터 운영도 안하고, 거래 간에 분쟁이 생기면 자기들은 책임 없다며 발 빼기 바쁘다. 바로구매로 판매를 하면, 파손이 발생할 경우 일방적으로 판매자가 고스란히 피해를 뒤집어쓰도록 강제로 판매 취소를 시켜버린다. 구매자가 택배 개봉영상도 없고, 그냥 파손된 내용물 사진만 띡 찍어 올려도 바로 강제로 판매취소 시켜버린다. 택배를 개봉하다가 물건을 떨어뜨려서 파손됐는지, 자기가 갖고있던 물건이 파손돼서 새로 구매 후 기존의 파손된 물건을 찍어 올린건지, 택배사 잘못으로 파손이 된건지 아무런 확증이 없음에도 그냥 판매자 책임으로 떠넘기고 본인들은 아무런 책임을 지려 하지 않는다. 이런 식이면 바로구매 시스템을 악용해서 이득을 보는 사람이 분명히 있을텐데? 진짜 운영 방식 역겹다",
       "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id378084485?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
-      "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
-      "created_at": "2026-11-14T02:08:05-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "url": "https://apps.apple.com/kr/app/id1018769995?see-all=reviews",
+      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
+      "source_name": "당근 · App Store 공개 리뷰",
+      "created_at": "2026-11-18T02:50:35-07:00",
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -138,7 +154,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
       "source_name": "당근 · App Store 공개 리뷰",
       "created_at": "2026-11-17T01:35:37-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -154,7 +170,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
       "source_name": "당근 · App Store 공개 리뷰",
       "created_at": "2026-11-16T19:55:22-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -170,7 +186,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
       "source_name": "당근 · App Store 공개 리뷰",
       "created_at": "2026-11-16T05:46:18-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -186,7 +202,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
       "source_name": "당근 · App Store 공개 리뷰",
       "created_at": "2026-11-15T01:11:14-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -202,215 +218,23 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
       "source_name": "당근 · App Store 공개 리뷰",
       "created_at": "2026-11-14T15:20:40-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
       "problem_category": "life",
       "source_kind": "app_store_review",
-      "source_id": "1018769995:14790514310",
-      "app_id": "1018769995",
-      "app_name": "당근",
-      "title": "먼거리 사람은 한꺼번에 구매하기 불가능..",
-      "description": "장거리는 채팅 안되게 해놓은 것 까지는 이해합니다. 그런데 바로구매 물품끼리라도 모아서 한꺼번에 구매하고 싶은데 그게 불가능하니 한 사람에게 택배비가 여러번 들고 포장도 따로따로 해야하니 환경적으로도 참 비효율적이라고 생각됩니다.",
+      "source_id": "311867728:14806513559",
+      "app_id": "311867728",
+      "app_name": "네이버지도 - 장소의 발견과 예약, 내비게이션",
+      "title": "출발시각 설정해도 경로 반영안됨",
+      "description": "출발시각 설정하면 지하철시간도 같이 변경돼야하는데 지하철은 여전히 지금 시점기준으로 안내됨. 이거 믿다가는 경을 칠 수준",
       "rating": 3,
-      "url": "https://apps.apple.com/kr/app/id1018769995?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
-      "source_name": "당근 · App Store 공개 리뷰",
-      "created_at": "2026-11-14T10:22:57-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "839333328:14792026435",
-      "app_id": "839333328",
-      "app_name": "토스",
-      "title": "좀 양아치같기도",
-      "description": "편하게 쓰고있었고 이벤트도 많아서 최근에 0원 뽑기하기 시작했는데 그냥 0원 뽑기는 5만원 이하길래 4만8천 맞춰서 무조건 당첨되게 구매 미션도 했는데 당일에 무조건 당첨은 3만원 이하로 하래요..ㅋㅋ 아니 구매 미션 했으면 돈을 써서 확률을 높힌거니까 가격을 내리는것 보다는 더 높은 금액대에서 해주는게 맞다고 보는데 2만원이나 줄이는게 어딨나요..;; 이럴거면 내가 왜 돈내면서 까지해요;;",
-      "rating": 3,
-      "url": "https://apps.apple.com/kr/app/id839333328?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
-      "source_name": "토스 · App Store 공개 리뷰",
-      "created_at": "2026-11-14T19:21:09-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "839333328:14791796446",
-      "app_id": "839333328",
-      "app_name": "토스",
-      "title": "생일이라고 업뎃",
-      "description": "생일이라고 업뎃된거 진짜 불편해요 제가 제 통장에 얼마 남았는지 어케 확인하는데요 좀 되돌려주시면 안되나요? ;;너무불편해요ㅋㅋ",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id839333328?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
-      "source_name": "토스 · App Store 공개 리뷰",
-      "created_at": "2026-11-14T17:58:09-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "839333328:14783164458",
-      "app_id": "839333328",
-      "app_name": "토스",
-      "title": "이젠 토스가 토스 아니네요",
-      "description": "리뷰 쓸려고 과거 리뷰 적힌거 보니 스마트폰 사고 혁신 신세계다 라고 별5개 적은 리뷰가 있네요. 지금은 그 리뷰를 지우고 1개 평점 남깁다. 첨 스마트폰 나오고 간편, 편리한 금융 이체 송금으로 혁신반응마저 나오게 하나의 강점을 극대화 시켰는데 어느순간 난잡해지더니 이제는 어디가 중심인지도 모를 정도로 기반이 무너진 것 같습니다. 페이스 아이디 불편함을 보고 이제는 애정에 글을 적어야 할것 같아 남기고 떠납니다. 카뱅과 상장심사에서 밀린후 토스는 그냥 무수한 아이디어 광고만 남발하고 편의성은 다시 절차가 복잡해지고 조건부가 붙으며, 그에비해 예금 적치는 낮고 중계도 편의도 이도저도 아닌 어플회사가 되었습니다. 이제 또 다른 아이디어는 멀까요? 가족 송금 무료? 선이자? 머 많은 실험속에 초심이 변질된 회사가 되겠지요. 이젠 카뱅과 그 격차가 너무 벌어졌어요. 편리도 뺏기고 난잡성은 더늘고 안타깝네요. 페이스 페이 버리라는 말 안할게요. 왜? 제의견이 반영되지 않을 걸아니깐요. 그냥 이제 떠나보내겠습니다. 처음 스마트폰과 함께한 혁신은 더이상 없을 것 같네요.",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id839333328?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
-      "source_name": "토스 · App Store 공개 리뷰",
-      "created_at": "2026-11-12T15:00:34-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "839333328:14777087088",
-      "app_id": "839333328",
-      "app_name": "토스",
-      "title": "토스 이제 못쓸것같음",
-      "description": "사용자 결제내역 해킹사건, 보안적으로 불충분한 페이스페이에 대해 강요식으로 사용자에게 추천하고 해지해도 데이터 보관이 1년동안 이루어진다는 것을 보고 불신감 증대. UI 넘어갈 때마다 계속 따라오는 쓸데없는 팝업들, 토스와 무관한 수많은 기업들의 난잡한 포인트 및 혜택 광고(어떻게 앱을 들어갔을 때 첫 화면이 동영상광고?;;) 계좌이체와 타금융사 통합관리앱이라는 본질을 완전히 흐린 UI와 비체계적인 PR은 토스페이먼츠를 사용하지 못할 충분한 이유라고 생각함",
-      "rating": 2,
-      "url": "https://apps.apple.com/kr/app/id839333328?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
-      "source_name": "토스 · App Store 공개 리뷰",
-      "created_at": "2026-11-11T03:46:29-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "839333328:14776995657",
-      "app_id": "839333328",
-      "app_name": "토스",
-      "title": "페이스페이 쿠폰 계속떠서 썼는데",
-      "description": "빼빼로 쿠폰 자꾸 쓰라고 떠서 편의점에서 페이스페이하면 자동적용된다길래 썼는데, 자동적용은 커녕 모아놨던 포인트와 더불어 그냥 제 돈으로 결제가 됐습니다. 쿠폰 있다길래 과자 결제했더니 그냥 제 돈으로 과자산 사람 됐네요; 빼빼로 쿠폰은 그와중에 멀쩡히 있습니다; 결제할 때도 분명 쿠폰적용 있는 것도 보고 결제했는데 왜 제 돈에서 빠져나갔습니까,,? 이럴거면 과자 안 샀죠,,",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id839333328?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
-      "source_name": "토스 · App Store 공개 리뷰",
-      "created_at": "2026-11-11T03:15:27-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "839333328:14765667206",
-      "app_id": "839333328",
-      "app_name": "토스",
-      "title": "개 쓰레기 밤티 같은 자체 얼굴 인증 왜 하죠?",
-      "description": "face id 잘만 썼는데 어느 순간부터 이따구네요 ㅋㅋㅋㅋ 쉽고 간편한 송금을 추구하는 게 아니라 쓰레기같은 자기들 밀어주기 시전중이넼 ㅋㅋㅋㅋㅋ 불 끄고 폰 하면 인식 자체를 못하고, 반응도 느리고 굳이 추가해서 face id 쓰려면 x자 눌러서 닫고 써야 하고 불편함을 추구하는 기업으로 변질됐네요 ㅌㅋ 토스 플레이스는 그냥 오프라인 가맹 영역만 신경 쓰면 되지 앱 내 송금을 왜 카메라로 하게 강제하죠?? ㅋㅋㅋㅋㅋㅋㅋ 이렇게 데이터 수집해서 정확도 올리려고요? 페이스페이 동의 철회하고 등록 거부하니까 그제야 face id로 바로 송금되는 매직.. ㄹㅇ 쓰레기다 ux 최악임ㅇㅇ",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id839333328?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
-      "source_name": "토스 · App Store 공개 리뷰",
-      "created_at": "2026-11-08T05:25:17-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "454434967:14769455347",
-      "app_id": "454434967",
-      "app_name": "쿠팡(Coupang)-모바일 쇼핑",
-      "title": "ㅋㅋㅋ",
-      "description": "10분만에 주문취소 했는데 배송 해놓고 반품 건으로 3주 넘게 고생시키더니 반품비 5천원 내놓으라네요;ㅋㅋ 뭔 이런 경우가 다있음 쿠팡캐시 3천원 줬는데 이거만 쓰고 지울게요ㅋㅋ 상담사분들이랑 저만 고생하고ㅋ 쿠팡 윗 담당자분들 2천원 갖고 잘먹고 잘 사세요^^",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id454434967?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
-      "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
-      "created_at": "2026-11-09T04:36:16-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "454434967:14766041641",
-      "app_id": "454434967",
-      "app_name": "쿠팡(Coupang)-모바일 쇼핑",
-      "title": "주문취소",
-      "description": "아니 주소고 잘 적었고 이제 도착하기 시간도 별로 안 남았었는데 갑자기 주문취소?!? 그래서 환불할려고 계좌도 적었는데 돈도 안 들어왔어요.. 쿠팡이 좋다했는데 이렇게 하는건 좀 그렇네요..",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id454434967?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
-      "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
-      "created_at": "2026-11-08T07:12:32-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "454434967:14757979470",
-      "app_id": "454434967",
-      "app_name": "쿠팡(Coupang)-모바일 쇼핑",
-      "title": "돈만 생각하지 고객에대한 배려따윈없는",
-      "description": "늘 택배는 쳐던져서 오고 기사 들 아무나 보이는대로 주워쓰고 직원관리도 없고 늘 기계적인 답변 붙여넣기 월회비 올릴생각만 하지말고 그만큼서비스나 좀 올리기를",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id454434967?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
-      "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
-      "created_at": "2026-11-06T07:31:01-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "454434967:14737016606",
-      "app_id": "454434967",
-      "app_name": "쿠팡(Coupang)-모바일 쇼핑",
-      "title": "기본 결제카드 고정 왜 없어졌어요??",
-      "description": "카드 여러개인데 주 카드 고정해놓는거 왜 없앴어요?? 다시 돌려주세요 당연히 주로 쓰는 카드로 결제 되었는줄 알았는데 지금 보니 다른 카드로 결제되어 있어 황당하네요 ㅡ.ㅡ",
-      "rating": 2,
-      "url": "https://apps.apple.com/kr/app/id454434967?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
-      "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
-      "created_at": "2026-11-01T01:35:05-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "454434967:14736607870",
-      "app_id": "454434967",
-      "app_name": "쿠팡(Coupang)-모바일 쇼핑",
-      "title": "고객 센터는 폼인 쿠팡",
-      "description": "오배송 관리 절대 제대로 안해줌. 고객의소리까지 가서 문의남겨야 응대 겨우 받을까말까함 신선식품 4시간내로 재배송하고 연락주겠다해놓고 본인들이 설정한 약속도 안지킴 제대로 물건 공수 안하고 배송기사 관리도 안하고 고객응대도 불친절함. 쓸데없는 시간낭비로 반나절 손해봄 멤버쉽 하는 의미가없음 대충 배송하고 다했다고 구라 찍고 신선식품 7시간째 밖에 있던거 다시 우리집으로 배송 왜 시키냐고 그냥 회수하고 다시 보내달라하니 그냥 ‘기다리라고’만 함 일처리 너무 엉망임 예전엔 이정도 아니었는데 쓸데없이 물건 여러개 나눠서 보내서 택배박스나 여러번 뜯는 번거로움도 물론이거니와 불친절한 응대에 완전히 마음을 접었음",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id454434967?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
-      "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
-      "created_at": "2026-10-31T23:49:32-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "454434967:14733455895",
-      "app_id": "454434967",
-      "app_name": "쿠팡(Coupang)-모바일 쇼핑",
-      "title": "상품 갯수 오류 이슈",
-      "description": "장바구니에 상품 담을 때 간헐적으로 상품 갯수가 2개로 자동으로 담아지는 이슈 왜 안고치나요? 의도된건가요? 아님 진짜 모르는건가요? 이 이슈를 경험한게 저 뿐만 아니라 주변에서도 공통적으로 경험하고 있습니다. 매번 2개 주문해서 한 개 반품시키면 그만큼 쿠친의 불필요한 리소스가 낭비가 되고 있는 것을 모르시나요?",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id454434967?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
-      "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
-      "created_at": "2026-10-31T05:22:13-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "url": "https://apps.apple.com/kr/app/id311867728?see-all=reviews",
+      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
+      "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
+      "created_at": "2026-11-18T14:57:23-07:00",
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -426,7 +250,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
       "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
       "created_at": "2026-11-16T22:53:00-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -442,7 +266,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
       "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
       "created_at": "2026-11-16T20:04:03-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -458,7 +282,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
       "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
       "created_at": "2026-11-16T03:04:51-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -474,7 +298,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
       "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
       "created_at": "2026-11-15T21:22:39-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     },
     {
       "_kind": "pain",
@@ -490,23 +314,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
       "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
       "created_at": "2026-11-15T20:10:25-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "311867728:14796000608",
-      "app_id": "311867728",
-      "app_name": "네이버지도 - 장소의 발견과 예약, 내비게이션",
-      "title": "마이크 기능 어디 갔나요...",
-      "description": "배달일 하는 사람들은 마이크기능이 필수 인데 검색어 입력 창에 마이크 아이콘이 없어지고 무슨 AI 에이전트가 생겼네요 배달일 하는 사람들이 많이 쓰는 어플일 수록 마이크 아이콘은 검색 입력창에 넣어주세요... 계속 네이버 지도만 사용 했는데 실망이네요... 개선 부탁드립니다. 전 버전으로 못 변경하나요? ㅠㅠ 너무너무 불편 합니다..",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id311867728?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
-      "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
-      "created_at": "2026-11-15T18:19:57-07:00",
-      "collected_at": "2026-11-19T02:48:17.589014+00:00"
+      "collected_at": "2026-11-20T02:35:07.467724+00:00"
     }
   ]
 }
