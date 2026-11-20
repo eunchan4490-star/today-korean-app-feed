@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-19T05:27:05.605860+00:00",
+  "updated_at": "2026-11-20T05:14:16.711806+00:00",
   "source": "Play API",
   "apps": [
+    {
+      "id": "armado.vivipick.app",
+      "title": "비비픽(VIVIPICK) AI기반 공급사 및 셀러 매칭",
+      "released": "2026-11-19T01:41:49Z",
+      "icon": "https://play-lh.googleusercontent.com/XmQrFWqAhgAVgjTiZfJLYoLrsnAS-0bz-Uw-zrCsnx2VV-OeZRtKUP1v7hLF4KtrwH0NnZYte58QWHlolTZeSKM",
+      "developer": "아르마도워케이션",
+      "description": "비즈니스 성장의 새로운 공식, 비비픽(VIVIPICK) AI 매칭으로 시작하세요!\n비비픽은 데이터와 AI 기술을 통해 공급사와 라이브 셀러를 가장 정교하게 연결하는 비즈니스 매칭 전문 플랫폼입니다. 복잡한 소싱 과정과 파트너 탐색의 번거로움을 혁신적인 AI 알고리즘으로 해결합니다.\n▶ 비비픽(VIVIPICK)의 AI 매칭 솔루션\n1. 데이터 기반 정밀 매칭 알고리즘\n공급사의 상품 카테고리와 셀러의 방송 스타일, 타겟 시청자 층을 다각도로 분석합니다. 단순한 연결을 넘어, 성사율과 매출 극대화 가능성이 가장 높은 최적의 조합을 추천합니다.\n2. 스마트한 파트너 탐색 시스템\n수많은 공급사 데이터와 셀러 프로필 사이에서 길을 잃지 마세요. AI가 실시간 데이터를 바탕으로 귀하의 비즈니스 성향에 딱 맞는 파트너 후보군을 큐레이션해 드립니다.\n3. 라이브 커머스 최적화 분석\n어떤 상품이 어떤 셀러와 만났을 때 시너지가 날까요? 비비픽의 AI는 과거 매칭 성과와 시장 트렌드를 분석하여, 전략적인 파트너십 구축을 지원합니다.\n4. 투명하고 효율적인 소통 채널\n매칭된 파트너와 안전하고 빠르게 협업 조건을 논의할 수 있는 전용 채널을 제공합니다. 제안부터 계약 검토까지, 비즈니스 프로세스의 효율을 높여드립니다.\n\n▶ 주요 핵심 기능\n-AI 추천 매칭: 가입 정보와 활동 데이터를 기반으로 매일 업데이트되는 맞춤형 파트너 추천.\n-상세 필터링 검색: 지역, 카테고리, 팔로워 규모, 방송 이력 등 세분화된 조건으로 원하는 파트너를 직접 검색.\n-실시간 비즈니스 알림: 새로운 매칭 제안이나 파트너의 응답을 놓치지 않도록 푸시 알림 제공.\n-포트폴리오 관리: 공급사의 상품군과 셀러의 방송 이력을 체계적으로 관리하여 매칭 매력도 상승.\n\n▶ 이런 분들께 비비픽을 강력 추천합니다!\n-공급사: 우리 제품을 가장 잘 표현해 줄 전문 라이브 셀러를 찾고 계신 제조 및 유통사.\n-라이브 셀러: 자신의 스타일과 팬덤에 꼭 맞는 경쟁력 있는 상품을 소싱하고 싶은 인플루언서 및 쇼호스트.\n\n▶ 비비픽(VIVIPICK)과 함께 만드는 상생 생태계\n비비픽은 AI 기술을 통해 비즈니스 연결의 문턱을 낮추고, 공급사와 셀러가 함께 도약할 수 있는 환경을 만듭니다. 데이터가 증명하는 매칭의 힘을 지금 바로 경험해 보세요.\n\n-공식 웹사이트: www.vivipick.org\n-비비픽 쇼핑몰: www.vivipick.net\n-파트너십 및 기술 문의: log1593@gmail.com\n\n지금 바로 비비픽(VIVIPICK) 앱을 다운로드하고, 귀하의 비즈니스에 날개를 달아줄 AI 파트너를 만나보세요!\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/SRcgBpIFezxJTALmmKzMHijcet1CVzTfmXwcfsHTSihhINALU1X6oPZoahWPlvO6vFCcDHbbYvZm3GuJ8zWEVA",
+        "https://play-lh.googleusercontent.com/l0YFQH6wre7IHiXoA3ERs5ME5XhbS-5PRWcMqHGszVgiHcNAJf8GZLShAJ2v3QT8GF9OXas2vDAD9neZBYR9",
+        "https://play-lh.googleusercontent.com/CdHeGWjFBI8jup2aqy9JFqhNynJ9MAY7v0WJAWlr7kocC2x6kkE7EPpXT35JXfl8QzTPv5wEWHdIIJfD9sYm",
+        "https://play-lh.googleusercontent.com/T2nJu0cb-cZF9MezfILomRZwf85MvkX3FNI7zF3mgwPrAbqJ_q8Z_d7WcvjD3bLUQIAiGYmoAN-msdimuWzlHA"
+      ],
+      "details_version": 2
+    },
     {
       "id": "com.respinode.parkgolfscorer",
       "title": "파크점수 - 파크골프 점수 기록 앱",
@@ -239,122 +254,6 @@
         "https://play-lh.googleusercontent.com/V3C9jur82CoWTT1ezobVAo4kxjX9tOxrdN7g4zTza0_6bVgKnGIQ378k4VdRqiR5AV7IKBWb-HYHT4sVpXuprw",
         "https://play-lh.googleusercontent.com/5XSarT_-yTDqvYZPypbVqxvbk4mVEKaUwF8CJ4OPRaTPYHs5tn3NlesSpwWv1hTN88ircdnzRDyKEuRH2bsz",
         "https://play-lh.googleusercontent.com/iFEOILlFgrSmsR0yd5wTPgveN5DlB2VRP-_ykzPYje60LX4eR1gFD3q5yc9p--YOAxYbkQveRHW5erclh2oV"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "kr.gijigae.app.logistics",
-      "title": "물류관리사 시험 기출지문 개념완성 - 기지개",
-      "released": "2026-11-12T12:45:30Z",
-      "icon": "https://play-lh.googleusercontent.com/brfEQPfdjGwkwYje4BeAcEWdvjcv7VAAt0aJiAuqcUYNRtCST0_peV_Yp1yZb8bt1i6U-nSlVAGEiXZFXZJhTIc",
-      "developer": "YU YUNHYE",
-      "description": "물류관리사 1·2교시, 여러 교재와 앱을 오가며 정리하지 마세요. 「기지개」 하나로 제24회(2020)부터 제30회(2026)까지 실제 기출 지문을 단원별로 정리할 수 있습니다. 시험에 나온 문장으로 개념을 잡고, OX로 확인하고, 단원 퀴즈로 굳히고, 틀린 것만 오답노트에 모아 다시 봅니다.\n\n■ 이 앱 하나면 충분한 이유\n\n▶ 시험 문장 그대로 — 기출 지문 학습\n제24~30회 1·2교시 기출(A형)을 지문 단위로 나눠 단원별로 묶었습니다. 맞는 문장은 그대로, 틀린 문장은 틀린 부분에 취소선, 고친 부분에 밑줄을 그어 한눈에 보여 줍니다.\n\n▶ 확인 → 실전 → 복습, 한 흐름으로\n• 단원별 OX 퀴즈 — 3,265개 기출 지문을 O/X로 바로 확인, 틀리면 올바른 문장을 함께\n• 단원 퀴즈 — 기출 5지선다 730문항\n• 그림이 있는 문항은 그림을 함께 수록\n• 오답노트 — 틀린 문항만 모아 다시 풀기\n\n▶ 1교시·2교시, 시험 구조 그대로\n1교시 물류관리론·화물운송론·국제물류론은 무료로 이용하고, 2교시 보관하역론·물류관련법규는 앱 내 1회 구매로 영구 이용합니다. 모든 과목이 필수이며 선택과목은 없습니다.\n\n▶ 출퇴근·쉬는 시간에는 듣기로\n단원별 기출 지문을 소리로 들으며 복습할 수 있습니다.\n\n▶ 학습 기록\n과목별 진도와 정답률을 학습 기록에서 확인하고, 단원·과목·전체 기록을 초기화할 수 있습니다.\n\n■ 필기 준비, 이 순서면 됩니다\n1. 단원별 기출 지문 읽기 — 개념·표현 익히기\n2. OX 퀴즈 — 맞는 문장인지 확인\n3. 단원 퀴즈 — 5지선다로 굳히기\n4. 오답노트 — 틀린 것만 다시\n5. 듣기 — 이동 중 반복\n6. 학습 기록 — 어디까지 했는지 확인\n\n■ 이런 분께 꼭 필요합니다\n• 물류관리사 1·2교시를 함께 준비하는 분\n• 교재는 봤는데 실제 시험 문장으로는 아직 불안한 분\n• 시험 직전 2~4주, 기출로 한곳에서 마무리하고 싶은 분\n• OX·문제 풀이·오답 정리를 한 앱에서 끝내고 싶은 분\n\n■ 이용 안내\n• 회원가입 없이 바로 시작, 학습 기록은 기기에 저장\n• Google 또는 Apple 로그인 시 여러 기기에서 학습 기록 동기화(선택), 내정보에서 계정 삭제 가능\n• 1교시 무료, 2교시는 앱 내 1회 구매로 영구 이용(구독 없음), 구매 복원 지원\n• 라이트·다크·시스템 화면 모드\n\n■ 출처\n한국산업인력공단 Q-Net 물류관리사 기출문제·최종정답(공공누리 제1유형, 출처표시). 제24회(2020)~제30회(2026) A형.\n이 앱은 한국산업인력공단과 관련 없는 개인 개발 학습 앱입니다.\n----",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/4D29rZtG6STq5b4Z5ofHvWxHo5X6IOzo85QM0rVA5wv69FNa-R7S4Yn0DNiRdW_Hw8zeNYid6lr095sHSGiTXA",
-        "https://play-lh.googleusercontent.com/ZLKoYosMoYi9yq8LlyAwmkRSyUmqktu8tpUHixq1GjOkWt8f-SJSKSkq2RZCvtXRdx3si0ENWIN8sbmxCQJj",
-        "https://play-lh.googleusercontent.com/mN1eMrdFYctsist17Xl9GGqpjDCjVOw_uzKS0dL5x__sVgs8Ij6wdFoMP_63ZUwNFjHmuDRPHES8QcacFx0NBQ",
-        "https://play-lh.googleusercontent.com/eobb1XxrlXLHJ_8Cj5wM-i7gSfPZ85tzQRlvUx2OynbMVroBWdJwYKcZJkw-XdvIJMxaCSzXEJm6tFqA0d3n7g",
-        "https://play-lh.googleusercontent.com/mW8B5AZonO6eDCLzK6kdJiXsMbvZPti2VuV4PgOpo0rEFjYrvpulayncUGftIKg9_i7ZABZPAhBpS1xXWKV5Bw",
-        "https://play-lh.googleusercontent.com/FHvx_E-W6_uBxoexSJa_cdQIGpRYk22Ksyx_mJagSpgDNwQeKVstFs6E2V10jWl5L1zkd8ASkrU7n8DOeoGu5zk"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "com.kimhyunseong.coasterparktycoon",
-      "title": "코스터 파크 타이쿤",
-      "released": "2026-11-12T10:38:11Z",
-      "icon": "https://play-lh.googleusercontent.com/72BvX71B28TmRACVT3pkxJcJYqBhc2WiJNQYmiDbnnWWeAT5JNHutGbBanrs2s-3QS1YJJNqjRCsHbD6Pc8zvA",
-      "developer": "STAR BRIDGE",
-      "description": "빈 땅과 입구 하나에서 시작해, 꿈꾸던 놀이공원을 처음부터 끝까지 내 손으로 만들어 보세요.\n\n🎢 내 손으로 설계하는 롤러코스터\n트랙을 한 조각씩 이어 붙이고 경사·뱅크각·방향·길이를 손가락으로 끌어 조절합니다. 체인 리프트, 발사 장치, 브레이크는 물론 루프·코르크스크루 같은 특수 트랙까지! 실제 물리로 달리는 열차의 속도와 G를 확인하며 나만의 코스를 다듬어 보세요.\n\n🎥 직접 타 보는 탑승 시점\n완성한 코스터의 맨 앞자리에 앉아 아찔한 첫 낙하를 느껴 보세요. 후룸라이드, 자이로스윙을 비롯한 모든 놀이기구를 손님 자리에서 직접 탈 수 있고, 유령의 집·4D 영화관·서커스 빅탑에서는 실내 공연까지 펼쳐집니다.\n\n💦 시원한 물놀이 기구\n물길을 따라 흘러가는 후룸라이드, 급류타기, 워터 슬라이드. 물 위로 떨어지는 순간 시원한 물보라가 터집니다.\n\n■ 59종의 놀이기구\n회전목마, 바이킹, 자이로드롭, 관람차부터 가족용 기구와 스릴 넘치는 기구까지 모두 59종. 종류마다 여러 가지 모델이 준비되어 있습니다.\n\n🌳 500종이 넘는 경관 아이템\n나무, 꽃, 바위, 분수, 가로등, 울타리, 건축 부품, 테마 소품으로 공원 구석구석을 꾸며 보세요. 지형을 높이고 깎아 언덕과 호수, 지하 터널도 만들 수 있습니다.\n\n■ 나만의 장식과 마스코트\n도형 부품을 쌓아 세상에 하나뿐인 장식물을 만들고, 공원 마스코트의 생김새를 마음대로 꾸며 보세요.\n\n■ 살아 움직이는 공원\n손님들은 저마다 취향과 기분이 있어 놀이기구를 타고, 줄을 서고, 간식을 사 먹습니다. 청소부·정비사·마스코트 연기자를 고용해 공원을 관리하고, 밤에는 불꽃놀이 쇼를 열어 보세요. 🎆\n\n■ 두 가지 모드\n· 일반 모드: 한정된 자금으로 목표를 달성하며 공원을 키웁니다.\n· 무제한 샌드박스: 돈 걱정 없이 마음껏 짓는 창작 모드입니다.\n\n■ 그 밖에\n· 낮과 밤, 날씨가 바뀌는 넓은 3D 지도\n· 틸트시프트와 필터가 있는 사진 모드\n· 자동 저장과 파일 내보내기\n· 인터넷 연결 없이 플레이\n· 한국어, 영어, 중국어(간체), 일본어, 힌디어 지원\n----",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/K9bB3Q8SJVdhRGbbUpCYdeCMuIx2FyeNRdZU_kH1ZtBwQJQz0QN5FMFIz5BHGN5tzPisKbQJBn3fmDir0xxBl9U",
-        "https://play-lh.googleusercontent.com/jglMHXRsBz8WnWMOYdQvfHWrrAIm5YkixE8WjpNeJOapmceUgqBz8lnphO4Z23OAHa71GPky3q-Zuaoy0tG5fA",
-        "https://play-lh.googleusercontent.com/qnTBgH1MJm09e7NkZWjTPXRWTfb5Y_Sj5jxRy8-vb-SzZ66S6jb8ZPwM1oBOYA9tAtccncgUDdecYV3qAd_YPw",
-        "https://play-lh.googleusercontent.com/ABfxm1bdeVR7i6DyOdvpt98qvx-dyVINsAyWOTev5Ja-yuirzYKHITh7wI669F_Iv_Ql-IBaBIllINf0bshasdc",
-        "https://play-lh.googleusercontent.com/RkDY-CZ9EW413_UEeMCxr-Hg8mug9-Xv8NmmRiYEgceh3ToymJexVImktFcC0qeI-16lNiRu_yF3_2Mldm32UQ",
-        "https://play-lh.googleusercontent.com/_NpG_D9zygpnv29yVw3UW-RCyF3_e4NsYtSYlaOnfOmY1lG6gve6plMMFxmZXM9w06qMvSgfJ4eaqqzopABn5SU"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "app.code404.sporesweep",
-      "title": "포자 대청소: SporeSweep",
-      "released": "2026-11-12T08:58:26Z",
-      "icon": "https://play-lh.googleusercontent.com/83rDrs51wR7t55OTD7PgzCwXsArLB0AC3Vh_odTcEzWkwyxmri4AWwqg0RiQzl8nmB5adqLUw4fbAvwLXkum",
-      "developer": "code404.app",
-      "description": "장난꾸러기 외계인들이 지구에 끈적한 분홍 포자를 마구 뿌렸어요.\n숭례문도, 에펠탑도, 피라미드도 엉망이 됐어요.\n정화 대원이 되어 지구를 깨끗하게 되돌려 주세요!\n\n■ 조금 다른 매치3\n블록을 세 개 맞추는 건 같아요. 하지만 목표가 달라요.\n보드에 떨어진 분홍 오염 물질을 아래로, 아래로 내려보내 격리 컨테이너에 쏙 넣으면 클리어!\n물질이 내려가면 화면도 따라 내려가요. 길게 이어진 보드를 끝까지 뚫어 보세요.\n\n■ 시원하게 터지는 특수 블록\n네 개를 맞추면 제염 빔, L이나 T 모양이면 중화 폭탄, 다섯 개면 정화 코어.\n네모로 2×2를 맞추면 청소 드론이 날아가 물질 아래를 콕 집어 치워요.\n특수 블록끼리 맞바꾸면 더 크게 터져요.\n\n■ 세계의 랜드마크를 내 손으로\n레벨에서 모은 별로 망가진 랜드마크를 한 부위씩 복원해요.\n폐허가 조금씩 제 모습을 찾고, 뒤편의 도시 풍경도 함께 돌아와요.\n서울, 도쿄, 카이로, 로마, 파리, 뉴욕, 시드니, 그리고 남극까지 24개 도시가 기다려요.\n\n■ 살아나는 지도\n잿빛으로 변한 세계 지도가 도시를 구할 때마다 다시 초록으로 물들어요.\n여덟 권역을 모두 정화하면 깜짝 엔딩이 기다리고 있어요.\n\n■ 도시마다 새로운 방해꾼\n오염 고치, 포자 둥지, 시한 포자, 안개, 얼음까지 장애물 열일곱 가지.\n도시를 옮길 때마다 새 장애물과 새 풀이법이 나와요.\n\n■ 이런 게임이에요\n· 380개 레벨\n· 판 사이에 끼어드는 광고가 없어요. 광고는 보상을 받고 싶을 때만 골라서 봐요\n· 인터넷 없이도 할 수 있어요\n· 매일 들르면 받는 오늘의 선물\n· 한국어, 영어 지원\n\n지구가 다시 반짝일 때까지, 대청소 시작!\n----",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/d3YDfB-ONoN1VLyr-ALWutu6h3-Mor26PHTzaSjprtlE8ZgE2LIQZp2HkIkkIPfHjLXYW_4YtXmYjc6oldVY8Q",
-        "https://play-lh.googleusercontent.com/LZe7RzWj0-pddZWpkVRdnSrIiEzfp6Bj8jx2PfM72qFGZrf1FjWFHu1S6RwWw5GLl_V3PFgTs_5WuGQS4Te9",
-        "https://play-lh.googleusercontent.com/EY4aZJkJaDMNgvEHPsyBIaxhkpwUesnRUALRhctMIfPNZ9_malZBoFLx4xyUP0ir3yyB6ts3XtbiVGQ6-7vckA",
-        "https://play-lh.googleusercontent.com/uhmD6JkYDKiNtSi8qmqV_FhXc7zP_GE9gzCsxEElnVog0lsOL-EANZP4jnROYWFBdG-1sesWyxzQny_y8IJq",
-        "https://play-lh.googleusercontent.com/a1GMf8ctKb8664X8-2IsAaMQbuyTbW2Dthb6iqlMAkVlIs2im18LkjcYZlR9LGWWqP8wqo1d_q7FCNWRyivOD3w",
-        "https://play-lh.googleusercontent.com/ISd8z21FzX9VndAPI9hzBqJS3k9xqq4I2IKz4El6tO1JeUUl9zk32htoax_QgBBXyZQYiDXOPtFEMNef7HpRIA"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "com.cafe24.ec.plusppgg888",
-      "title": "이미지라인",
-      "released": "2026-11-12T06:29:55Z",
-      "icon": "https://play-lh.googleusercontent.com/QLQMhbw51nBqA6OdyE9i7wXbFvzcptuxJlCsP3n5hs6IWc6K5XB8aN1nNU79NfPZT65be0QJzvRBfX-_sbn4",
-      "developer": "cafe24 PRO 5",
-      "description": "Use the mobile app to enjoy features optimized for mobile devices and access exclusive special offers.\n\nMain features:\n\nEnjoy exclusive coupons and discounts\n\nUse automatic login\n\nCheck and track your orders\n\nManage your shopping cart and shipping info\n\nReceive store notifications\n\nAccess social media channels\n\nContact Customer Service",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/3z9S4N33np55Jqnrn7lxTo01QMiyr8d0MXGEJ92jIIHyVuuyZ_GPXuXo2Wmn_qw1Glbm6XI3AfVFuAkakmpb",
-        "https://play-lh.googleusercontent.com/tYF4DNQbVbF0J_i_dx4qBxQJ2w3z4CASPCFOLZAZv6n-UTKRxS75e7zQngf9qwf651AzXl1nwuFYf6ZRrbDAqA",
-        "https://play-lh.googleusercontent.com/aIr229hq4IWnEIt7G8zQs977iwE3RHB4aHJGvsboaCrCkeKlbFrq-OVHr9zSfgNfx4GjhHxLp4xN0OZNeIxKuGk",
-        "https://play-lh.googleusercontent.com/C48mn3yM0xv0sohnLSiQcyqYkHkYB7V2peK3lA7fjhcKlphHzqQdQiMnxNLHkfpzK8LbKvexSBcuiRSfRpjYKA",
-        "https://play-lh.googleusercontent.com/yotI1CQNney4aIJYpj0QP1TxvDxmgYGGPfgPuqtljJInu-_4qnfW_xXiu-WR35MB2Ct48XBgyBhBc2UYgynwLw"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "kr.co.processclean",
-      "title": "프로세스클린 - 사진 동영상 정리",
-      "released": "2026-11-12T06:25:59Z",
-      "icon": "https://play-lh.googleusercontent.com/VfRc9ZOviRXMXEfMv8bJ6MoNFq-EExHZbFn1s6rssqXF_jpKUKrHpVayN_y-jR1p_Y9a5jMh4-B90Ud1y9skMQ",
-      "developer": "Neovis Inc.",
-      "description": "휴대폰 저장 공간, 어디에 쓰이고 있는지 한눈에 보고 한 번에 정리하세요.\n프로세스클린은 쌓여 가는 스크린샷, 용량 큰 동영상, 똑같은 사진을 찾아 휴지통으로 옮겨 줍니다. 정리한 사진·동영상은 30일 동안 언제든 되돌릴 수 있어 안심하고 정리할 수 있습니다.\n\n■ 지금 정리하기\n· 버튼 한 번으로 오래된 스크린샷, 화면 녹화, 큰 동영상, 같은 사진을 휴지통으로\n· 정리할 종류와 기준(지난 날짜, 동영상 용량)을 직접 정할 수 있어요\n· 처음에는 확인 창으로, 익숙해지면 바로 정리로 바꿀 수 있어요\n\n■ 꼼꼼하게 찾아 주는 정리 항목\n· 스크린샷 · 화면 녹화 : 7일 ~ 90일 지난 것만\n· 큰 동영상 : 50MB ~ 1GB 이상 기준 선택\n· 같은 사진 : 완전히 똑같은 사진을 찾아 원본 1장은 남겨요\n· 비슷한 사진 : 연속 촬영처럼 비슷한 사진을 묶어 보여 줘요\n· 흐리거나 어두운 사진\n· 오래된 사진 : 6개월 ~ 3년 지난 사진\n· 받은 사진·동영상 : 메신저, 다운로드 폴더별로 확인\n\n■ 안심하고 정리하는 휴지통\n· Android 휴지통을 사용해 30일 동안 보관 후 자동으로 지워져요\n· 정리 기록에서 언제 무엇을 정리했는지 보고 바로 되돌릴 수 있어요\n· 남기고 싶은 사진은 '검색 제외'로 다음부터 찾지 않아요\n\n■ 앱 관리\n· 오래 안 쓴 앱과 용량을 확인하고 하나씩 삭제\n· 앱 사용 시간 : 최근 7일 사용 시간과 실행 횟수 순위\n\n■ 관리 도구\n· 저장 공간 분석 : 사진, 동영상, 앱, 오디오 등 종류별 사용량\n· 시스템 정보 : 기기, CPU, 메모리, 저장 공간, 배터리 상태\n· 홈 화면 위젯 4가지 크기 : 정리할 용량을 보고 바로 정리\n\n■ 개인정보를 지키는 설계\n· 인터넷 권한이 없어 사진과 기록이 휴대폰 밖으로 나가지 않아요\n· 모든 분석은 휴대폰 안에서만 이루어져요\n· 사진·동영상 삭제와 앱 삭제는 항상 Android 확인 창을 거쳐요\n\n■ 권한 안내\n· 사진 및 동영상 : 정리할 사진·동영상을 찾기 위해 필요해요\n· 사용 정보 접근(선택) : 오래 안 쓴 앱과 앱 사용 시간 확인\n· 알림(선택) : 정리할 항목이 쌓이면 알려 드려요\n\n※ 휴지통은 Android 11 이상에서 지원됩니다. Android 10 이하에서는 확인 후 바로 삭제됩니다.",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/3mno3gB_oMUa6JKwqKWdAARREeqzK273Un6oPbTrMSSBO8VYtRHAPPy5XlEtiH-Z-YZUX3XGnZuzpaA_Kk36gjA",
-        "https://play-lh.googleusercontent.com/KVIuAKrLkbzMiNTgkkH0P6JftjQ9tILGaEm0FzKPHytzdQ0dXsg7JxPqwDoWjQhOpxJ64jZ_iHm60q39wTvE",
-        "https://play-lh.googleusercontent.com/fnJCW5I1aXOTWougEenGdElb5dLfKSqR6vRSIGKp-cCgEulai4MjQ1KXYNSFtzqZCXnKtt7sJ08ZP6bfKsqf",
-        "https://play-lh.googleusercontent.com/_vs8L5-qEE5icLF1-MsryZI7_ecMCBm5a-r5Zqv0yDAr0dHbGlHBpvGUKDnYVn8OpXYJ9o6OH0but0ccUSCD",
-        "https://play-lh.googleusercontent.com/c3Tg8qMLIeQ-Nt9JtbftCoHqDarxE-jKkoxod4XvCr-X6ybZTemFOdulSoki0vDnGQIng5cEgWLxG_0YwGsHlIg",
-        "https://play-lh.googleusercontent.com/NCLbkj4Dbr0dB2DuTkqZ-5CLtvW_fJPJoi7KFQk-4_GOOgMgke16fyULqdpFFqoONAMqAlcSM_BZTs2FSimPOw"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "com.avad.app.asfamily.ansimguardian",
-      "title": "안심패밀리 보호자 - 독거 어르신돌봄, 부모님돌봄",
-      "released": "2026-11-12T06:19:50Z",
-      "icon": "https://play-lh.googleusercontent.com/ahZm7k38xUJsiqDnsCIuLgDF8nAk_HwhUe0orB7nHL9BIUHs4LeMlkXXZelmvmUXejN6sFJjvBXwyyuxDyPF",
-      "developer": "아바드(주)(AVAD)",
-      "description": "보호대상자의 활동상태 및 핸드폰 사용여부 등을 모니터링하여 보호대상자의 상태를 확인할 수 있습니다.\n\n- 보호자앱은 보호대상자의 정보를 입력하고 등록할 수 있습니다.\n\n- 등록된 보호대상자가 스마트폰에 보호대상자앱을 설치하고 전화번호로 로그인하면 보호자앱을 통하여 대상자의 핸드폰 사용 여부, 걸음 수 등을 파악할 수 있고 대상자의 활동이 정해진 시간 동안 없으면 알림을 보냅니다.\n\n- 알림을 설정하여 해당시간에 보호대상자에 알릴 수 있습니다\n----",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/3w0O_n7MwMBPtdMsLg3hrPr7JC4ZreE5GjBh8z2EqV2HxbOtgWLj5RsgznXQ9ALbgL9ZBr4WKBdifvX4oPue",
-        "https://play-lh.googleusercontent.com/FH0e-3wKIpNE_QfcTtiLJmU0_1Fm_8nur6Zfdr4zYlYz_SYk7ydyhD4jmnKbqYN4DaASbZiD2I5DK0Mw2-6XYQ",
-        "https://play-lh.googleusercontent.com/FxgL5_MZe1jK9RspvGEPjAKomP7Ub-hyYpAjX95BPniVNioyVr2GpReSGw87qYoxpbq4hOd0lPzUPbb1LvEUBQ",
-        "https://play-lh.googleusercontent.com/012l2ymdwa6mNszj9qDd3o8uh6L8V0m2nW0SGCENgsczC3D10DBvjwzWE8YemSZfpkEFL0eu8ueD2z-z8rXtPHM",
-        "https://play-lh.googleusercontent.com/mA8gCXktd3RGvuY0tEqEtx14AV_-H2GXw4wQBkni1Y0rg_esLdC9tyWcHswaZah_JWNBvwxAfJmD8BZFINYdXQ"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "com.donglesoft.timestamp",
-      "title": "InfoStamp – 사진·영상 시간 스탬프",
-      "released": "2026-11-12T03:37:53Z",
-      "icon": "https://play-lh.googleusercontent.com/PWY4ezI2GdfaBd5P9eWfs_sM0OLN1fa5lpCTxo3B8dwnPLTWdu3j-klMkCJx4sHhEfBxyAiwJOk5hr_I-9nq",
-      "developer": "Donglesoft",
-      "description": "InfoStamp는 이미 찍어둔 사진과 영상에 날짜·시간, 장소, 메모를 깔끔하게 새겨주는 앱입니다.\n\n■ 촬영 시각 자동 불러오기\n사진의 EXIF, 영상의 녹화 정보, 파일 이름에서 촬영 시각을 찾아 자동으로 채웁니다. 틀리면 날짜와 시각을 직접 고칠 수 있습니다.\n\n■ 영상에서는 시계가 흘러갑니다\n영상의 원하는 구간만 잘라내고, 잘라낸 시작점부터 초 단위로 시간이 흐르는 스탬프를 넣습니다. 블랙박스 영상, 현장 기록 영상에 적합합니다.\n\n■ 위치와 메모\n사진에 기록된 GPS, 현재 위치, 또는 지도에서 고른 지점을 주소로 바꿔 넣습니다. \"후방 카메라\", \"2차선\" 같은 메모도 한 줄 추가할 수 있습니다.\n\n■ 원하는 모양으로\n스탬프를 손가락으로 끌어 원하는 자리에 놓고, 글씨 색·굵기·테두리·배경 박스를 고릅니다. 한 줄로 합쳐 표시할 수도 있습니다. 미리보기에서 보는 그대로 저장됩니다.\n\n■ 즐겨찾기\n자주 쓰는 설정을 이름 붙여 저장하면 다음 파일에 한 번에 적용됩니다. 영상 비율이 달라도 같은 자리에 들어갑니다.\n\n■ 화질 선택\n원본 유지 / 1080p / 720p / 480p 중 고르고 예상 용량을 미리 확인합니다. 원본 파일은 그대로 두고 새 파일로 저장합니다.\n\n이런 분께\n• 블랙박스·주행 영상에 시간을 남겨 제출해야 하는 분\n• 현장 사진에 날짜와 장소를 기록해야 하는 분\n• 여행·일상 사진에 날짜를 남기고 싶은 분\n\n권한 안내\n• 사진·동영상 접근: \"파일 위치\" 기능으로 사진 속 GPS를 읽을 때만 요청합니다. 파일 선택은 시스템 사진 선택기를 사용합니다.\n• 위치: \"현재 위치\" 버튼을 눌렀을 때만 사용합니다.\n사진과 영상은 기기 안에서만 처리되며 서버로 전송되지 않습니다.",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/DlojwGCYkKcafNX7VMsRUu6vM5gTVIJqHD8hp6GjuzdwbLGHYfpIgO4TbgUBgiRLKFULpWmj2clyzIgwbCm8",
-        "https://play-lh.googleusercontent.com/Me0jDgVCnb_u2f_10VfBL6nh7vtg5P_dU0cUyWAMfM2a8eKt--gQsx4xY4bGXcIQyS6NbRQd_dqBuxIvjBhkO10",
-        "https://play-lh.googleusercontent.com/GRzLBxuFkFKeNkGL1QFo1nW9EVnl1rUf41jgUzaK6tNtz8gP3eF7QQS3qrhFGzAVdY6Cmi3Ng0MhOZXX31Y2PA",
-        "https://play-lh.googleusercontent.com/rEU6L1Dvwy4iE-uZVz4GOYIp20WJcHKmAXDhq99JJZt9Par5ei4jjfAessm7GQIa0l9htcLCvCq03XViGWpr8g4",
-        "https://play-lh.googleusercontent.com/LtuPfZdy2-rs2iUxiRJnFvsTOvvvkNkpfR2d-OVqcCNWikDjjKKnAel9VgHbaeQ_7tPCuKsTrQmro4U7gG-CjA4"
       ],
       "details_version": 2
     }
