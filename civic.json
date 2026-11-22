@@ -1,10 +1,160 @@
 {
-  "updated_at": "2026-11-21T02:52:51.212523+00:00",
+  "updated_at": "2026-11-22T01:42:08.235792+00:00",
   "sources": {
     "dobong": "ok"
   },
   "index_only": true,
   "items": [
+    {
+      "_kind": "pain",
+      "problem_category": "civic",
+      "source_kind": "municipal_complaint",
+      "source_id": "dobong:12748068",
+      "title": "GTX C 공영주차장 환기구 설치반대및 이전요청",
+      "description": "GTX C 공영주차장 환기구 설치반대및 이전요청",
+      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12748068",
+      "source_name": "도봉구 · 공개 민원",
+      "municipality": "도봉구",
+      "processing_status": "접수",
+      "created_at": "2026-11-21",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
+      "index_only": true
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "civic",
+      "source_kind": "municipal_complaint",
+      "source_id": "dobong:12748067",
+      "title": "학마을도서관 1층 화장실 이용 관련 제언",
+      "description": "학마을도서관 1층 화장실 이용 관련 제언",
+      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12748067",
+      "source_name": "도봉구 · 공개 민원",
+      "municipality": "도봉구",
+      "processing_status": "접수",
+      "created_at": "2026-11-21",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
+      "index_only": true
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "civic",
+      "source_kind": "municipal_complaint",
+      "source_id": "dobong:12748066",
+      "title": "GTX-c노선 법조타운공영주차장 환기구설치 절대반대",
+      "description": "GTX-c노선 법조타운공영주차장 환기구설치 절대반대",
+      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12748066",
+      "source_name": "도봉구 · 공개 민원",
+      "municipality": "도봉구",
+      "processing_status": "접수",
+      "created_at": "2026-11-21",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
+      "index_only": true
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "civic",
+      "source_kind": "municipal_complaint",
+      "source_id": "dobong:12748065",
+      "title": "환풍기 설치 절대반대!!",
+      "description": "환풍기 설치 절대반대!!",
+      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12748065",
+      "source_name": "도봉구 · 공개 민원",
+      "municipality": "도봉구",
+      "processing_status": "접수",
+      "created_at": "2026-11-21",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
+      "index_only": true
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "civic",
+      "source_kind": "municipal_complaint",
+      "source_id": "dobong:12748064",
+      "title": "법조공영주차장 GTX-C 노선 환풍구 설치 반대 및 주민 건강권 보호 대책 촉구",
+      "description": "법조공영주차장 GTX-C 노선 환풍구 설치 반대 및 주민 건강권 보호 대책 촉구",
+      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12748064",
+      "source_name": "도봉구 · 공개 민원",
+      "municipality": "도봉구",
+      "processing_status": "접수",
+      "created_at": "2026-11-21",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
+      "index_only": true
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "civic",
+      "source_kind": "municipal_complaint",
+      "source_id": "dobong:12748063",
+      "title": "\"아이 키우기 좋은 도봉, 구민과 함께 결정하겠다\"던 구청장님의 약속, 도봉동 환기구 문제에서도 지켜주십시오.",
+      "description": "\"아이 키우기 좋은 도봉, 구민과 함께 결정하겠다\"던 구청장님의 약속, 도봉동 환기구 문제에서도 지켜주십시오.",
+      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12748063",
+      "source_name": "도봉구 · 공개 민원",
+      "municipality": "도봉구",
+      "processing_status": "접수",
+      "created_at": "2026-11-21",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
+      "index_only": true
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "civic",
+      "source_kind": "municipal_complaint",
+      "source_id": "dobong:12748062",
+      "title": "GTX 환풍구 설치 반대",
+      "description": "GTX 환풍구 설치 반대",
+      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12748062",
+      "source_name": "도봉구 · 공개 민원",
+      "municipality": "도봉구",
+      "processing_status": "접수",
+      "created_at": "2026-11-21",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
+      "index_only": true
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "civic",
+      "source_kind": "municipal_complaint",
+      "source_id": "dobong:12748061",
+      "title": "GTX-C 환기구 설치 재검토 요청",
+      "description": "GTX-C 환기구 설치 재검토 요청",
+      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12748061",
+      "source_name": "도봉구 · 공개 민원",
+      "municipality": "도봉구",
+      "processing_status": "접수",
+      "created_at": "2026-11-21",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
+      "index_only": true
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "civic",
+      "source_kind": "municipal_complaint",
+      "source_id": "dobong:12748059",
+      "title": "GTX-C 환풍구 설치 반대",
+      "description": "GTX-C 환풍구 설치 반대",
+      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12748059",
+      "source_name": "도봉구 · 공개 민원",
+      "municipality": "도봉구",
+      "processing_status": "접수",
+      "created_at": "2026-11-21",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
+      "index_only": true
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "civic",
+      "source_kind": "municipal_complaint",
+      "source_id": "dobong:12748058",
+      "title": "GTX C 환풍구 설치 반대",
+      "description": "GTX C 환풍구 설치 반대",
+      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12748058",
+      "source_name": "도봉구 · 공개 민원",
+      "municipality": "도봉구",
+      "processing_status": "접수",
+      "created_at": "2026-11-21",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
+      "index_only": true
+    },
     {
       "_kind": "pain",
       "problem_category": "civic",
@@ -17,7 +167,7 @@
       "municipality": "도봉구",
       "processing_status": "접수",
       "created_at": "2026-11-21",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -32,7 +182,7 @@
       "municipality": "도봉구",
       "processing_status": "접수",
       "created_at": "2026-11-20",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -47,7 +197,7 @@
       "municipality": "도봉구",
       "processing_status": "접수",
       "created_at": "2026-11-20",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -62,7 +212,7 @@
       "municipality": "도봉구",
       "processing_status": "접수",
       "created_at": "2026-11-20",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -77,7 +227,7 @@
       "municipality": "도봉구",
       "processing_status": "처리중",
       "created_at": "2026-11-20",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -92,7 +242,7 @@
       "municipality": "도봉구",
       "processing_status": "처리중",
       "created_at": "2026-11-20",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -107,7 +257,7 @@
       "municipality": "도봉구",
       "processing_status": "처리중",
       "created_at": "2026-11-20",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -122,7 +272,7 @@
       "municipality": "도봉구",
       "processing_status": "처리중",
       "created_at": "2026-11-20",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -137,7 +287,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-19",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -152,7 +302,7 @@
       "municipality": "도봉구",
       "processing_status": "처리중",
       "created_at": "2026-11-19",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -167,7 +317,7 @@
       "municipality": "도봉구",
       "processing_status": "처리중",
       "created_at": "2026-11-18",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -182,7 +332,7 @@
       "municipality": "도봉구",
       "processing_status": "처리중",
       "created_at": "2026-11-18",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -197,7 +347,7 @@
       "municipality": "도봉구",
       "processing_status": "처리중",
       "created_at": "2026-11-18",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -212,7 +362,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -227,7 +377,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -242,7 +392,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -257,7 +407,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -272,7 +422,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -287,7 +437,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -302,7 +452,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -317,7 +467,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -332,7 +482,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -347,7 +497,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -362,7 +512,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -377,7 +527,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -392,7 +542,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -407,7 +557,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -422,7 +572,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -437,7 +587,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -452,7 +602,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -467,7 +617,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -482,7 +632,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -497,7 +647,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-17",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -512,7 +662,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -527,7 +677,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -542,7 +692,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -557,7 +707,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -572,7 +722,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -587,7 +737,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -602,7 +752,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -617,7 +767,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -632,7 +782,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -647,7 +797,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -662,7 +812,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -677,7 +827,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     },
     {
@@ -692,82 +842,7 @@
       "municipality": "도봉구",
       "processing_status": "완료",
       "created_at": "2026-11-16",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
-      "index_only": true
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "civic",
-      "source_kind": "municipal_complaint",
-      "source_id": "dobong:12747858",
-      "title": "구민안전보험의 보험사와 부실한 계약에 대한 이의 제기",
-      "description": "구민안전보험의 보험사와 부실한 계약에 대한 이의 제기",
-      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12747858",
-      "source_name": "도봉구 · 공개 민원",
-      "municipality": "도봉구",
-      "processing_status": "완료",
-      "created_at": "2026-11-15",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
-      "index_only": true
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "civic",
-      "source_kind": "municipal_complaint",
-      "source_id": "dobong:12747856",
-      "title": "공중선 케이블 정비",
-      "description": "공중선 케이블 정비",
-      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12747856",
-      "source_name": "도봉구 · 공개 민원",
-      "municipality": "도봉구",
-      "processing_status": "완료",
-      "created_at": "2026-11-14",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
-      "index_only": true
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "civic",
-      "source_kind": "municipal_complaint",
-      "source_id": "dobong:12747851",
-      "title": "창동역 동서 연결 버스 노선과 버스킹 공연장 제안",
-      "description": "창동역 동서 연결 버스 노선과 버스킹 공연장 제안",
-      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12747851",
-      "source_name": "도봉구 · 공개 민원",
-      "municipality": "도봉구",
-      "processing_status": "완료",
-      "created_at": "2026-11-14",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
-      "index_only": true
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "civic",
-      "source_kind": "municipal_complaint",
-      "source_id": "dobong:12747828",
-      "title": "겨울철 야외 활동에 대한 의견",
-      "description": "겨울철 야외 활동에 대한 의견",
-      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12747828",
-      "source_name": "도봉구 · 공개 민원",
-      "municipality": "도봉구",
-      "processing_status": "완료",
-      "created_at": "2026-11-13",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
-      "index_only": true
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "civic",
-      "source_kind": "municipal_complaint",
-      "source_id": "dobong:12747825",
-      "title": "중량천 정비 및 은행나무 수거기 설치의 건",
-      "description": "중량천 정비 및 은행나무 수거기 설치의 건",
-      "url": "https://ceo.dobong.go.kr/bbs.asp?bmode=D&code=10000662&pcode=12747825",
-      "source_name": "도봉구 · 공개 민원",
-      "municipality": "도봉구",
-      "processing_status": "완료",
-      "created_at": "2026-11-13",
-      "collected_at": "2026-11-21T02:52:51.212523+00:00",
+      "collected_at": "2026-11-22T01:42:08.235792+00:00",
       "index_only": true
     }
   ]
