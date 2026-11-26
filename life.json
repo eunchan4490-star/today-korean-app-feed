@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T04:34:28.026744+00:00",
+  "updated_at": "2026-11-26T03:45:27.376296+00:00",
   "sources": {
     "378084485": {
       "app_name": "배달의민족 - 배달팁 무료 배민클럽",
@@ -9,7 +9,7 @@
     "1018769995": {
       "app_name": "당근",
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "839333328": {
       "app_name": "토스",
@@ -19,7 +19,7 @@
     "454434967": {
       "app_name": "쿠팡(Coupang)-모바일 쇼핑",
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "311867728": {
       "app_name": "네이버지도 - 장소의 발견과 예약, 내비게이션",
@@ -42,7 +42,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
       "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
       "created_at": "2026-11-23T01:44:18-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -58,7 +58,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
       "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
       "created_at": "2026-11-23T01:29:57-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -74,7 +74,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
       "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
       "created_at": "2026-11-22T21:12:56-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -90,7 +90,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
       "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
       "created_at": "2026-11-22T17:58:32-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -106,7 +106,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
       "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
       "created_at": "2026-11-21T17:25:41-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -122,7 +122,39 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=378084485/sortBy=mostRecent/json",
       "source_name": "배달의민족 - 배달팁 무료 배민클럽 · App Store 공개 리뷰",
       "created_at": "2026-11-19T00:36:38-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "life",
+      "source_kind": "app_store_review",
+      "source_id": "1018769995:14828928563",
+      "app_id": "1018769995",
+      "app_name": "당근",
+      "title": "바로구매로 인한피해",
+      "description": "바로구매로 타유저가 구매하고 이미 택배포장까지 마치고 택배접수를 한 상황인데 구매취소가 구매자로부터 통보됨으로 구매취소가 가능합니다. 구매한 시간으로부터 몇시간 이후 구매취소가 안되게 시스템을 업데이트해주세요",
+      "rating": 1,
+      "url": "https://apps.apple.com/kr/app/id1018769995?see-all=reviews",
+      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
+      "source_name": "당근 · App Store 공개 리뷰",
+      "created_at": "2026-11-24T07:04:27-07:00",
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "life",
+      "source_kind": "app_store_review",
+      "source_id": "1018769995:14826975518",
+      "app_id": "1018769995",
+      "app_name": "당근",
+      "title": "튕기는 사람 많은 거 같은데 제발 고쳐주세요ㅠ",
+      "description": "아이폰 17프로고, 튕긴지 5일은 된 거 같아요 계속 삭제하고 다시 깔아도 접속하자마자 튕기고 로그인 후 아무 버튼 누르기만 해도 튕기고(검색 버튼, 채팅 버튼 등) 유일하게 접근 가능한 곳은 메인 페이지에 올라오는 중고거래 게시물 뿐입니다. 며칠 째 접속이 안 되니까 거래자랑 연락해야 하는데 연락을 못하는 상황이라 빨리 좀 처리 부탁드립니다",
+      "rating": 1,
+      "url": "https://apps.apple.com/kr/app/id1018769995?see-all=reviews",
+      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
+      "source_name": "당근 · App Store 공개 리뷰",
+      "created_at": "2026-11-23T18:59:05-07:00",
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -138,7 +170,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
       "source_name": "당근 · App Store 공개 리뷰",
       "created_at": "2026-11-23T14:35:08-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -154,7 +186,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
       "source_name": "당근 · App Store 공개 리뷰",
       "created_at": "2026-11-21T07:50:03-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -170,7 +202,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
       "source_name": "당근 · App Store 공개 리뷰",
       "created_at": "2026-11-21T07:47:00-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -186,23 +218,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
       "source_name": "당근 · App Store 공개 리뷰",
       "created_at": "2026-11-21T07:21:51-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "1018769995:14815676013",
-      "app_id": "1018769995",
-      "app_name": "당근",
-      "title": "별 다섯개는 아니에요",
-      "description": "바로구매,전국판매...의도는 좋음. 아무래도 인구가 한산한 지역은 한계가 있으니 다양한 매물을 보면 좋지. 근데 언제부턴가 중고거래 메인에서 우리 동네만 놓고 보는데 왜인지 먼 지역 매물도 같이 잡힘 ㅋㅋㅋㅋ 저기 기술력이 뭔가 이상한대요 그리고 문의 넣으면 무조건 챗봇에게 연결되어 해결 안 되고 무한루프... 어휴 중고판매해보겠다고 개고생함 아주 +) 그리고 타지역 물건 구매하기 전 질문하기 기능을 개선했음 해요 키워드를 선택하게끔 강제하지 말고 100자 이내나 질문을 하되 몇회 한정하는 등 직접 질문하게끔도 해줘요 가령 신품기준으로 내부가 궁금한데 판매자는 외부나 일부분만 성의없이 올려놓았음 현재 시스템대로라면 구성품,하자여부 키워드만 클릭하면 판매자는 사진보세요 이러고 상세히 물으려면 일단 결제해야 하는데… 전국구 물건까지 다 까서 보여주는 마당에 이 기능 업뎃은 어려운가요? 위에서 가끔 타 지역 물건도 랜덤으로 잡힌다 썼는데 이땐 희한하게 직접 채팅기능이 활성화 되어있어서 알고리즘 원리가 어떤지 잘은 모르겠어요 근데 변화를 할거면 사용자의 의견은 좀 참조해줘요",
-      "rating": 3,
-      "url": "https://apps.apple.com/kr/app/id1018769995?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=1018769995/sortBy=mostRecent/json",
-      "source_name": "당근 · App Store 공개 리뷰",
-      "created_at": "2026-11-21T00:33:46-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -218,7 +234,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
       "source_name": "토스 · App Store 공개 리뷰",
       "created_at": "2026-11-21T07:09:27-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -234,7 +250,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
       "source_name": "토스 · App Store 공개 리뷰",
       "created_at": "2026-11-19T05:28:03-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -250,7 +266,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
       "source_name": "토스 · App Store 공개 리뷰",
       "created_at": "2026-11-18T17:58:50-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -266,7 +282,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
       "source_name": "토스 · App Store 공개 리뷰",
       "created_at": "2026-11-18T17:49:22-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -282,7 +298,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
       "source_name": "토스 · App Store 공개 리뷰",
       "created_at": "2026-11-14T19:21:09-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -298,7 +314,39 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=839333328/sortBy=mostRecent/json",
       "source_name": "토스 · App Store 공개 리뷰",
       "created_at": "2026-11-14T17:58:09-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "life",
+      "source_kind": "app_store_review",
+      "source_id": "454434967:14829008706",
+      "app_id": "454434967",
+      "app_name": "쿠팡(Coupang)-모바일 쇼핑",
+      "title": ".",
+      "description": "반강제적으로 와우를 가입시키게 하러함. 만8천원 제품 하나 사려해도 강제로 로켓배송 하게해서 더 긁으라 강요하는 시스템",
+      "rating": 2,
+      "url": "https://apps.apple.com/kr/app/id454434967?see-all=reviews",
+      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
+      "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
+      "created_at": "2026-11-24T07:26:53-07:00",
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
+    },
+    {
+      "_kind": "pain",
+      "problem_category": "life",
+      "source_kind": "app_store_review",
+      "source_id": "454434967:14827478819",
+      "app_id": "454434967",
+      "app_name": "쿠팡(Coupang)-모바일 쇼핑",
+      "title": "로켓상품 말고 판매자 배송상품은 관리 엉망입니다. 로켓만 사세요. 판매자는 절대 사지마세요.",
+      "description": "판매자 상품은 편법도 많이써서 패널티 피하려고 하고, 관리가 아예 안돼요. 2주 내에 3건이 품절취소라며 사전 안내 없이 배송 전날 또는 도착일에 취소되었음. 같은 상품으로 두번이나 당함 판매자는 전화도 안받음. 문의내역으로 물어봤더니 그제서야 오프라인동시품절로 취소되었다고 사과 한줄 없이 텍스트로만 작성함. 패널티 적용 결과에 대한 안내가 시급함. 이게 안되니까 계속 편법으로 페이지 바꾸고, 빠져나감. 그래서 소비자만 모르고, 판매자는 알빠노 마인드로 계속 팔고있음. 결국 소비자만 바보됌. 쿠팡 잘못 아닌거 아는데, 여러번당하고 판매잔느 나몰라라 하니 얘기할데가 쿠팡밖에 없어져서 남깁니다. 결론은 쿠팡이 독박 안쓰려면 안내시스템도 개선 시급함.",
+      "rating": 1,
+      "url": "https://apps.apple.com/kr/app/id454434967?see-all=reviews",
+      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
+      "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
+      "created_at": "2026-11-23T22:32:57-07:00",
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -314,7 +362,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
       "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
       "created_at": "2026-11-22T04:07:41-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -330,7 +378,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
       "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
       "created_at": "2026-11-17T20:28:39-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -346,7 +394,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
       "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
       "created_at": "2026-11-09T04:36:16-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -362,23 +410,23 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
       "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
       "created_at": "2026-11-08T07:12:32-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
       "problem_category": "life",
       "source_kind": "app_store_review",
-      "source_id": "454434967:14757979470",
-      "app_id": "454434967",
-      "app_name": "쿠팡(Coupang)-모바일 쇼핑",
-      "title": "돈만 생각하지 고객에대한 배려따윈없는",
-      "description": "늘 택배는 쳐던져서 오고 기사 들 아무나 보이는대로 주워쓰고 직원관리도 없고 늘 기계적인 답변 붙여넣기 월회비 올릴생각만 하지말고 그만큼서비스나 좀 올리기를",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id454434967?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=454434967/sortBy=mostRecent/json",
-      "source_name": "쿠팡(Coupang)-모바일 쇼핑 · App Store 공개 리뷰",
-      "created_at": "2026-11-06T07:31:01-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "source_id": "311867728:14827786122",
+      "app_id": "311867728",
+      "app_name": "네이버지도 - 장소의 발견과 예약, 내비게이션",
+      "title": "길찾기는 바라지도 않아요",
+      "description": "길찾기, 네비, 교통정보 이런 기능 어차피 카카오맵에 밀리고 티맵에 밀리는 거 알아서 바라지도 않는데 터치 먹통, 검색창 입력 먹통 이런 진짜 기본적인 버그를 몇 년째 안 고치는 게 말이 됩니까? 네이버지도 개발자들은 네이버 서비스에서 제일 실력없는 순으로 배정되나요? 분명히 이런 이슈가 발생한다는 걸 알고 있을 텐데 어케 손을 못 대요 그냥 정상적인 사용이 안 되는 수준이예요 가끔가다보면",
+      "rating": 2,
+      "url": "https://apps.apple.com/kr/app/id311867728?see-all=reviews",
+      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
+      "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
+      "created_at": "2026-11-24T00:47:14-07:00",
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -394,7 +442,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
       "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
       "created_at": "2026-11-22T19:43:30-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -410,7 +458,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
       "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
       "created_at": "2026-11-19T17:23:15-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -426,7 +474,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
       "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
       "created_at": "2026-11-18T23:35:18-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -442,7 +490,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
       "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
       "created_at": "2026-11-18T14:57:23-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     },
     {
       "_kind": "pain",
@@ -458,23 +506,7 @@
       "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
       "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
       "created_at": "2026-11-16T22:53:00-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
-    },
-    {
-      "_kind": "pain",
-      "problem_category": "life",
-      "source_kind": "app_store_review",
-      "source_id": "311867728:14800136570",
-      "app_id": "311867728",
-      "app_name": "네이버지도 - 장소의 발견과 예약, 내비게이션",
-      "title": "업데이트 구려요",
-      "description": "왜 한건지 모르겠어요 업데이트 전처럼 즐겨찾는 버스 지하철 정류장이 먼저 뜨면 좋겠어요 쓰면 쓸수록 달라질 지도??? 네이밍도 구리고 진심 하나도 필요없어요 누가 의견낸건지…",
-      "rating": 1,
-      "url": "https://apps.apple.com/kr/app/id311867728?see-all=reviews",
-      "source_feed_url": "https://itunes.apple.com/kr/rss/customerreviews/id=311867728/sortBy=mostRecent/json",
-      "source_name": "네이버지도 - 장소의 발견과 예약, 내비게이션 · App Store 공개 리뷰",
-      "created_at": "2026-11-16T20:04:03-07:00",
-      "collected_at": "2026-11-25T04:34:28.026744+00:00"
+      "collected_at": "2026-11-26T03:45:27.376296+00:00"
     }
   ]
 }
