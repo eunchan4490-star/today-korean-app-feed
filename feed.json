@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-11-27T06:09:39.182704+00:00",
+  "updated_at": "2026-11-28T05:50:10.641503+00:00",
   "source": "Play API",
   "apps": [
+    {
+      "id": "com.diaspoon.android",
+      "title": "다이아스푼 - 노쇼는 아웃, 검증된 만남에 진심",
+      "released": "2026-11-25T04:53:09Z",
+      "icon": "https://play-lh.googleusercontent.com/DZFwS0IYllv0Gpu_-AtIs7xSNadCAVR7xgqJoh8uHDSEJuryCEwooiLuWw1krS9FBiHYUjmNQx8nyKWu-h2Mh5A",
+      "developer": "다이아스푼",
+      "description": "취미 취향 빠르게 변화하는 트렌드 라이프스타일!\n다이아 스푼(Diaspoon)은 나만의 취미, 취향 등 라이프스타일을 추구하는 사람들을 위한 만남의 장소 커뮤니티 앱 입\n니다.\n특별하고 진지한 연애,결혼,모임,파티 위해 기존 커뮤니티 어플과 다른 차별화된 익명커뮤니티인 ‘라운지’와 라이프스타\n일 만을 위한 오프라인 소모임 ‘파티’를 운영하고 있습니다.\n시간이 지날수록 빠르게 변화하는 사회 트렌드 속에서, 취향, 가치관등 비슷한 사람들과 보다 의미 있는 네트워킹 공\n간을 마련드리고 제공을 해드리고 싶은 마음입니다.\n단순히 사람을 많이 만나는 자리가 아니라, 서로를 존중하고 신뢰를 바탕으로 깊이 있는 자리를 만들어갈수있는 새로\n운 형태의 네트워킹 공간이 필요하다고 느꼈습니다.\n현대 사회는 과거보다 훨씬 더 다양한 라이프스타일 이 공존하고 있으며, 우리의 바쁜 일상 속에서 진정성 있는 만남\n을 이어가고, 나와 취향,가치관 잘 맞는 사람을 찾으며, 서로의 삶을 이해하고 같이 응원할 수 있는 관계를 만들어가는\n일은 현실속에서 점점더 어려워 지고 힘들어지고 있습니다.\n이러한 현실 속에서 단순한 모임을 넘어, 한 사람의 삶에 자연스럽게 스며들수 있는 좋은 라이프스타일 과 건강한 생\n활의 시작점이 되고자 합니다.\n우리 사회에서 있는동안 우리에게 꼭 필요한 것은 단지 많은 사람을 아는 것이 아니라, 내 생활에 삶을 더 풍성하게\n만들고, 서로의 라이프스타일 관심사 에 맞춰 함께 성장할 수 있는 좋은 트렌드로 자리매김하고자 합니다.\n본 앱은 성적 인 목적으로 사용되지 않으며 청소년 보호법을 준수하고 있으나 청소년에게 유해한 내용이 포함될수 있\n으니 사용자의 주의가 필요합니다.\n아동,청소년 포함 성매매를 알선,권유,유인,강요 하는 사람이나 성매매를 한 사람은 형사 처벌의 대상입니다. 음란하거\n나 선정적인 프로필 사진 및 성기·성행위를 비유하여 불건전한 만남을 유도하는 게시글은 본 서비스에 제한되 고, 금지\n합니다. 기타 마약류, 의약품 장기거래 등 현형법을 위반하는 모든 불법행위를 금지합니다.\n불법 거래 권유가 있거나 발견시 [다이아스푼 운영팀-help@diaspoon.co.kr]로 신고해주시고, 위급한 경우 경찰청\n(112), 아동·여성·장애인 경찰지원센터 안전 Dream(117), 여성긴급전화(1366), 기타 연관 성폭력 보호센터\n(http://www.sexoffender.go.kr)의 도움을 받으실수 있습니다. 개발·운영사 : 리치제이제이 주식회사 고객 지원 :\nhelp@diaspoon.co.kr\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/b_F_IjYHeCZ97CCfjD3cJTcoEuw2f2G2b88gv17QbaxvY4zvJbVkAuYNNQsYbSAXP7jkQ7TpF7IoCDRrm4hB",
+        "https://play-lh.googleusercontent.com/5Q0_H_gFb88DYDvB-mKkvDge0CE5RqdPkrDoG8SqoU4dlUvRZIk1--NrA-58H54hT8IwovQbxYiEovBEgzyaAw",
+        "https://play-lh.googleusercontent.com/nDirtgKXLG6qKgcRRNXhQy2hcnDUA3DJBkePDxC4ZmN3pFvdTsALJGqJ3Q38gaZB8I4VvoqBoL7tQ52XYu3E1Q",
+        "https://play-lh.googleusercontent.com/Z43qPd95Vd2IAgc7g6wWDpjh1NBhYZkxekfp1cIVKhaF_nFkD2kYHAPRzKqOXYhO64XPWVIgqtGioZ6R8JyVGbA",
+        "https://play-lh.googleusercontent.com/B33Yrgy8VjweNUsLRcCx6SZ63J2kRJ0agKqHSd8c8KfzL1Fa9HeXNr8NJPbPuMuFa21htl4lRE8cC_HbbKOsoA",
+        "https://play-lh.googleusercontent.com/VhyfZiSqJiHU6rVrbqeIQcU_yq9jQmdbB-ykGo4vaoZg_a1ZW3r15i-YK2BZu9r9xWH4s71-KNEIepkPNovOaA"
+      ],
+      "details_version": 2
+    },
+    {
+      "id": "io.tripnote.tripnote",
+      "title": "트립노트 - 여행 계획, 일정, 가계부",
+      "released": "2026-11-24T05:06:23Z",
+      "icon": "https://play-lh.googleusercontent.com/NgvrXOrs0bR5LiBBaYR-3u4MlQa_5RNEqqfkAb5hxddB2XNV0GCg4N4X8BswfQlMsURzOdc0nosIs5nWchWdlFI",
+      "developer": "Wanderers Inc.",
+      "description": "여행 계획부터 경비 정리까지, 트립노트 하나면 충분해요.\n가고 싶은 곳을 담고, 동선을 짜고, 쓴 돈을 기록하는 모든 과정을 한곳에서 할 수 있어요.\n\n■ 일정 짜기\n가고 싶은 장소를 추가하면 지도 위에 방문 순서와 이동 경로가 바로 그려져요. 끌어서 순서를 바꾸면 동선도 함께 바뀌고, 하루 일정을 한눈에 확인할 수 있어요.\n\n■ 숙소 · 항공편\n예약한 숙소와 항공편을 등록하면 일정 안에 체크인, 체크아웃과 출발, 도착이 함께 표시돼요. 숙소에서 시작해 숙소로 돌아오는 하루 동선을 자연스럽게 계획할 수 있어요.\n\n■ 일행과 함께\n초대 링크를 통해 간단하게 일행을 초대해 보세요. 같은 여행을 함께 보고 고칠 수 있어, 각자 따로 정리한 일정을 맞춰 볼 필요가 없어요.\n\n■ 노트북에서도, 폰에서도\n웹에서도 같은 계정으로 트립노트를 쓸 수 있어요. 큰 화면에서 꼼꼼하게 짠 일정이 폰에 실시간으로 연동돼요.\n\n■ 여행 가계부\n여행 전 결제한 항공권, 숙소부터 현지에서 쓴 비용까지 날짜별로 기록해 보세요. 엔화·달러 등 현지 통화로 적어도 원화로 바로 환산되고, 예산 대비 얼마나 썼는지 자동으로 계산돼요.\n\n■ 체크리스트\n출발 전, 챙길 준비물을 가방별로 나누어 빠짐없이 확인해 보세요. 여행지 날씨도 함께 볼 수 있어 옷차림을 미리 준비할 수 있어요.\n\n----\n\n□ 더 궁금한 점이 있다면 언제든 문의 주세요!\n· 카카오톡 [트립노트] 채널\n· 이메일: contact@tripnote.io\n----",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4ydE_C2huT22MHtwCW3iS2Xfqoa5lfOaeqzUtSZ0EkZ0ESUcFYlJPQNAETsv50Br05wStHgiduPQ0e5hsyd2",
+        "https://play-lh.googleusercontent.com/fAbtXm5TMhT45asmKs_RMucDIm4PKQCdoiMSi8p5S2IR01JHNL6Tr-J-QKBUCmszjEUl12_VP3YjUjqZXovR7w",
+        "https://play-lh.googleusercontent.com/ru5jZwsf-XxampE-gxv1co3VFBIu3UocTcjafwSHOCwNYS6OvdODFl3yIqqShoOIVOs_qAugQ5-6cc4H7yLKHQ",
+        "https://play-lh.googleusercontent.com/Y3F7tHOA_w8orSV6JG5M6sY1w8QlI_I9HIJAoXNDUIHsYmlYba5Z2JdJjHyAzfffFONrCClv89DKPnzvuJ6y-g",
+        "https://play-lh.googleusercontent.com/c8-yezRHJ2VobG6AtEPWp6Hknq7R8GecCOAAPoEk_AWvmtIpa6omUpBxBRD8SYwsUqb3hnIyQ_CNpt2WYszFaQ",
+        "https://play-lh.googleusercontent.com/pzoFCCcbKJ21O8qq6l_4BGwatxEl7ueFYrBnAsKrrJ3z54pyp-Jv7wrOhCdOVWEcaHowOcr7X9t8uIAnXp0m"
+      ],
+      "details_version": 2
+    },
     {
       "id": "kr.wepair.shop",
       "title": "위페어 파트너스",
@@ -97,168 +131,19 @@
       "details_version": 2
     },
     {
-      "id": "com.brighlans.tutornote",
-      "title": "튜터노트 (TutorNote)",
-      "released": "2026-11-20T23:48:12Z",
-      "icon": "https://play-lh.googleusercontent.com/iyj5klG2tg581OL_4T6yBfTRIw4iiNBbSSiRtTx0yDMDK1DoNZHhSytLezxDnMCARTQGe-nuBRsu1rrvJeTvnXI",
-      "developer": "Brighlans",
-      "description": "Home Tutoring Schedule Management, Attendance Tracking, Monthly Tuition Fee Calculation App (가정 방문 튜터 일정 관리, 출결 일지, 월별 수강료 정산 앱)\n\n* Easy Tutor Schedule Management (간편한 튜터 일정 관리)\n* Schedule Management by Tutor (튜터별 일정 관리)\n* Automatic Tutor Fee Calculation (튜터비 자동 계산)\n* Detailed Tutor Fee Breakdown (튜터비 상세 내역)\n* Register Multiple Tutors (여러명의 튜터 등록)\n* Global Currency Support & English/Korean Settings (전세계 통화 및 영/한 설정)\n* Data Backup (데이터 백업)",
+      "id": "com.keione.smartglasses",
+      "title": "타노시 AI 스마트 안경",
+      "released": "2026-11-21T00:48:49Z",
+      "icon": "https://play-lh.googleusercontent.com/ql9kz63EeqUgn-TSTPy7k53d3uR8HzPQgI4-gKCNxko5-sDWj697Sd8tKlGRtXK5o9zWgcVA8IEtk_IwN7xCd2E",
+      "developer": "타노시",
+      "description": "타노시 AI 스마트 안경은 호환되는 스마트 안경과 휴대전화를 연결해 일상에서 필요한 기능을 사용하는 앱입니다.\n\n주요 기능\n• AI 대화: 음성 또는 텍스트로 질문하고 답변을 확인할 수 있습니다. 선택한 사진과 파일을 첨부해 질문할 수 있습니다.\n• 통역: 한국어와 상대방 언어 사이의 대화를 번역하고 음성으로 들을 수 있습니다.\n• 뚜벅이 길 안내: 목적지를 검색하고 지도와 경로 안내를 확인할 수 있습니다. 음성으로 목적지와 주소를 요청할 수 있습니다.\n• 카메라와 앨범: 연결된 안경으로 촬영하고 사진·영상을 확인하고 관리할 수 있습니다.\n• 회의 기록: 녹음한 내용을 기록하고 요약하는 데 사용할 수 있습니다.\n\n이용 안내\n안경 촬영·안경 마이크·안경 소리 출력 등은 호환되는 스마트 안경의 연결이 필요합니다. 인터넷 연결, 휴대전화 권한 및 연결 기기의 상태에 따라 사용할 수 있는 기능이 달라질 수 있습니다. AI·검색·통역에는 필요한 정보가 외부 처리 서비스로 전송됩니다. 자세한 내용은 개인정보처리방침과 기능별 안내에서 확인해 주세요.\n\n잠금 중 주변 검색을 사용하면, 사용자가 안경에서 시작한 대화에서 위치가 필요한 질문에 답하기 위해 앱 화면이 닫혀 있거나 휴대전화가 잠긴 상태에서도 위치를 확인할 수 있습니다. 이 기능은 별도의 위치 권한 선택에 따릅니다.\n\nAI 답변과 통역 결과에는 오류가 있을 수 있으며, 길 안내는 실제 도로와 주변 상황을 확인하며 이용해 주세요.\n\n이용 대상: 만 14세 이상\n고객센터: 010-9171-5022\n이메일: wtanoci12@gmail.com\n개인정보처리방침: https://auth.wtsales.cloud/privacy\n----",
       "screenshots": [
-        "https://play-lh.googleusercontent.com/Bzl_sRghzBANQIkO9NTSlAiXZI9Rrq4LYhXG2IG65N2hZSMa-fodVafPyvXCACVY2XkbOwnOZnu3bxMfAroQL6A",
-        "https://play-lh.googleusercontent.com/ekR4vJfrcJZJsVe2XsKcEYdDKUSPN69zqrhFbWCwI-_Pxzc9Cf01v1JHWp5YbE1SNOLA64BLw6FMiQzY4UAr-g",
-        "https://play-lh.googleusercontent.com/_rM8h0qzB7ImCvuYhKtt3lw53cPUBDzf4rKXIJReOJcKv9Ewck5Z-Fzvfg_xC0fnnr2l7qeUG8kE2FjjcOwQ",
-        "https://play-lh.googleusercontent.com/4Y2OgF8fKsQXAwFxXV5T_rguRVy-UN1_q5WxNq_DRxGiHx07jTLKttDNZUeS7Fiz76ZDA9uep5GDmzML4jCELhU",
-        "https://play-lh.googleusercontent.com/J0CoaSQP6u2kG2O766rGHUuQ3vitcBJF_OU2YGOs02kCVgG7kEM9_tYYg6g3ICcnmcFbztvjFsazSDLXBwaZNA",
-        "https://play-lh.googleusercontent.com/S2LEKkUKDW5ikSGq1PAYcpnRvDjniVOYoOMPN3zt5ilaQPtMXdAXObplKC_m_esDNKT4qWlZUorI-spRC1En8A"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "kr.nlink.weather",
-      "title": "nLINK 날씨 - 초고속 저전력 날씨·미세먼지 위젯",
-      "released": "2026-11-20T23:46:56Z",
-      "icon": "https://play-lh.googleusercontent.com/X1Dij7QIS_fJJk6_1fGAyUunQXd-QbQ1KFU2E880yywbecSVLaYLQz0gP5Cbngp6ClZWsdAhhHCm2VIBXTEy",
-      "developer": "nLinker",
-      "description": "무겁고 느린 광고 투성이 날씨 앱, 배터리 빨리 닳는 위젯 때문에 불편하셨나요?\nNLINK 날씨는 '0.1초 초고속 로딩', '하루 0.1% 초절전 배터리 최적화', '9종 프리미엄 홈 화면 날씨 위젯'으로 가장 빠르고 쾌적한 날씨 경험을 제공합니다.\n\n━━━━━━━━━━━━━━━━━━━━\n⚡ 1. 켜자마자 0.1초! 압도적인 초고속 로딩\n━━━━━━━━━━━━━━━━━━━━\n• 전면 광고, 무거운 뉴스 피드, 불필요한 로딩 화면을 100% 제거했습니다.\n• 앱을 켜는 즉시 0.1초 만에 현재 기온, 체감온도, 시간별 강수 확률과 미세먼지를 한눈에 확인할 수 있습니다.\n\n━━━━━━━━━━━━━━━━━━━━\n🔋 2. 하루 배터리 0.1% 미만! 투명한 초절전 위젯 기술\n━━━━━━━━━━━━━━━━━━━━\n• \"날씨 위젯을 켜두면 배터리가 빨리 닳지 않을까?\" 이제 걱정하지 마세요.\n• 백그라운드 GPS 미사용: 배터리를 많이 소모하는 백그라운드 위치 추적을 하지 않습니다.\n• 초경량 변경 감지 기술: 날씨 변화가 없을 때는 단문 문자메시지(SMS) 1건 크기(약 0.4KB)로 0.1초만 체크하고 즉시 절전 모드로 돌아갑니다.\n• 24시간 내내 실시간 위젯 동기화를 켜두어도 하루 총 데이터는 약 40KB(사진 1장의 1/50 미만), 하루 배터리 소모는 0.1% 미만(화면 10초 켠 수준)입니다.\n\n━━━━━━━━━━━━━━━━━━━━\n📲 3. 내 홈 화면에 딱 맞는 9종 프리미엄 날씨 위젯\n━━━━━━━━━━━━━━━━━━━━\n투명도, 배경 테마(다크/라이트/하늘), 글자색을 자유롭게 커스텀할 수 있는 9가지 네이티브 홈 위젯을 제공합니다.\n1) [4×1 큰글씨 시계 & 날씨 바] 큼직한 디지털 시계와 현재 기온, 미세먼지를 한 줄에!\n2) [4×2 5시간 외출 예보 바] 외출 전 시간대별 기온과 비 올 확률을 한눈에 확인\n3) [4×2 주간 집중 예보 위젯] 이번 주 5일간의 날씨와 최고/최저 기온 요약\n4) [4×3 대화면 올인원 종합예보] 현재 날씨, 시간별 예보, 주간 예보, 대기질을 한 판에!\n5) [2×2 오늘의 옷차림 추천 카드] 체감온도별 딱 맞는 옷차림 코디 가이드\n6) [2×2 미세먼지 캐릭터 카드] 미세먼지(PM10)·초미세먼지(PM2.5) 직관적 등급 표시\n7) [4×1 감성 날씨 & 외출 팁 바] 우산 챙김 알림과 오늘의 날씨 한 줄 브리핑\n8) [4×1 어제 비교 & 미세먼지 듀얼 바] \"어제보다 몇 도 낮아요\" 직관적 기온 비교\n9) [2×1 초경량 미니 알약 위젯] 홈 화면 배경 사진을 가리지 않는 컴팩트 위젯\n\n━━━━━━━━━━━━━━━━━━━━\n🌤️ 4. 기상청 초단기 실측 융합 & 정밀 체감 날씨\n━━━━━━━━━━━━━━━━━━━━\n• 기상청(KMA) 초단기예보와 글로벌 고해상도 수치예보 모델(ECMWF, MET Norway)을 실시간 융합하여 돌발 소나기와 눈 소식을 정밀하게 포착합니다.\n• 단순 기온이 아닌 보행자 높이(1.5m) 풍속과 습도를 반영한 실제 체감온도를 계산합니다.\n• 비 소식 사전 알림 & 심야 무음 모드(23:00~07:00): 수면을 방해하지 않고 비나 눈이 오기 전에 스마트하게 알려드립니다.\n• 서해·남해·동해 주요 포인트 바다 물때(조석) 및 바람 안전도 정보를 함께 제공합니다.\n• 글로벌 7개 국어(한국어, 영어, 일본어, 중국어, 스페인어, 독일어, 프랑스어) 및 전 세계 주요 도시 날씨를 완벽 지원합니다.\n\n지금 가장 가볍고 빠른 초절전 날씨 위젯, NLINK 날씨를 홈 화면에 만나보세요!",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/16kGBVIJMXufJuS7WSUHL6rP-TChzEENcpoVvu28QpfpOaMxm4rO7EVJLq3Wzh-WzzyZmkhc3wrW2qc7iV5-jw",
-        "https://play-lh.googleusercontent.com/zV3hH0pk3eYElmLzKrrqlZV1CE3dHwVMpe5zjvxCgpq2MuDqDN4slkaiBvGbaxYXkO7_BhQrkMW3-t2B6ASXQA",
-        "https://play-lh.googleusercontent.com/Xq6UhZj_Tz7awB-RnpyTaxVmWjVn5EtG9Kh1_7mSYcOOZOHBWRmV1Wt-BCJJJPeWRRMoWN9b05cGCNv1in8r2A",
-        "https://play-lh.googleusercontent.com/2wdhsMJdpnzC0MWXTjwvHWatFFsBgBXwY-Rkl3f5ys1HR6l7uDKapQKdyt3ZP5R2_q-Fit97fHyuA-q_Ar-f3g"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "com.aihaejwo.yearend_tax_sim",
-      "title": "연말정산 환급 계산기 - 13월의 월급·카드공제",
-      "released": "2026-11-20T14:36:44Z",
-      "icon": "https://play-lh.googleusercontent.com/uC_TttYsy_qL6IPwLq7bPT816QZrEqE_7i129gqsQW7c0lIE6pz5LtXv2fVeSTMRA5lUJ2bhsNX5b4mE3sw1gQ",
-      "developer": "aiHaejwo",
-      "description": "연말정산 환급 계산기는 대한민국 소득세법 및 조세특례제한법 계산 구조를 바탕으로 직장인의 예상 연말정산 환급액과 추가납부세액을 사전에 점검할 수 있도록 설계된 오프라인 전용 절세 시뮬레이터입니다.\n\n회원가입, 로그인, 공동인증서 연결이나 외부 서버 전송 없이 모든 입력 데이터가 오직 내 스마트폰 내부에만 안전하게 보관되며, 연말이 끝나기 전에 어떤 카드를 얼마 더 써야 하는지, 연금저축과 IRP에 얼마를 추가 납입하면 환급액이 얼마나 늘어나는지 직관적인 영수증 형태로 비교할 수 있습니다.\n\n[주요 기능 안내]\n\n1. 한눈에 보는 13월의 월급 환급 영수증\n• 연간 총급여액(만원 단위 퀵 입력 지원), 부양가족 인적공제 수, 4대보험 및 기납부 원천징수 소득세(간편 자동 추정 및 급여명세서 직접 입력 모두 지원)를 반영합니다.\n• 근로소득공제부터 과세표준, 8단계 누진세율(6%~45%) 산출세액, 근로소득세액공제, 특별·연금 세액공제, 지방소득세(10%)까지 단계별 정산 흐름을 영수증 카드와 실효세율 도넛 차트로 보여줍니다.\n• 현재 소비안, 연말 IRP 추가납입안 등 여러 비교 시나리오를 기기에 저장해 두고 원터치로 불러오거나 텍스트 영수증으로 깔끔하게 공유할 수 있습니다.\n\n2. 신용·체크카드 25% 문턱 황금비율 분석기\n• 총급여의 25% 최저사용금액 문턱 달성 여부를 실시간 진행 게이지로 시각화합니다.\n• 신용카드(15%), 체크카드·현금영수증(30%), 전통시장·대중교통(40%) 사용액을 입력하면 납세자에게 유리한 법정 차감 순서대로 소득공제액과 기본한도(총급여 7,000만원 이하 300만원 / 초과 250만원) 및 추가한도를 자동 계산합니다.\n• 남은 연말 기간 동안 기본공제 한도를 채우기 위해 체크카드나 현금영수증을 얼마 더 사용하면 되는지 구체적인 행동 가이드를 제시합니다.\n\n3. 연금저축·IRP·월세·의료비·고향사랑기부금 정밀 세액공제\n• 연금저축(단독 600만원 한도)과 퇴직연금 IRP(합산 900만원 한도) 납입액에 대해 총급여 5,500만원 이하 16.5%(지방소득세 포함), 초과 13.2% 공제 혜택을 자동 산출합니다.\n• 무주택 근로자 월세 세액공제(총급여 5,500만원 이하 17% / 8,000만원 이하 15%, 연 1,000만원 한도), 보장성보험료(12%), 의료비(총급여 3% 초과분 15%), 교육비(15%), 표준세액공제(13만원 자동 비교), 고향사랑기부금(10만원 이하 전액 공제)을 통합 반영합니다.\n• 추가 납입액(+100만/+300만/+500만/+900만원)별 결정세액 한도 내 실제 환급 증가폭 비교 시뮬레이션 표를 제공합니다.\n\n4. 누락 방지 서류 체크리스트 및 공식 법령 참고 링크\n• 간소화 서비스에서 놓치기 쉬운 안경·콘택트렌즈 영수증, 월세 계약서, 취학전 아동 학원비 등 필수 서류 체크리스트를 제공합니다.\n• 국세청 홈택스 및 국세법령정보시스템 바로가기 링크와 기기 내 모든 데이터 영구 초기화 기능을 지원합니다.\n\n[비제휴 및 모의계산 참고 안내]\n• 본 앱은 정부·공공기관·국세청·금융기관을 대표하거나 제휴하지 않으며, 세무 대리, 대출 모집·중개·알선 또는 금융상품 투자 권유를 제공하지 않는 오프라인 모의 계산 참고 도구입니다.\n• 실제 연말정산 결과는 개인별 비과세 소득, 부양가족 세부 요건, 세법 개정 및 원천징수의무자의 최종 정산 내역에 따라 달라질 수 있으므로 반드시 국세청 홈택스 등 공식 기관을 통해 최종 확인하시기 바랍니다.",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/1150OvNw_bWvshe4Gt6V4EGox1sOTMb_VX0SrFgQ3V6B9UwlZLvXbvdwRzlgJAFHPUvNW7yjlltPy0M2geiMbg",
-        "https://play-lh.googleusercontent.com/AC7c4oZaRpPNSxJYQ8uVTXsmT7NSOKU1510pPQUXGJwzE3QmqaAfLCVlF_lyYUlvD6O1NaATUnSILEpuL-Ne6w",
-        "https://play-lh.googleusercontent.com/IiC0bObAVMmLSBjOUxG_Bbaz7tFUVp70gLTmP6DzIQoFVWMQ_pDe7mpYRw7qdgBPJeKUX-FKxB-wwU7R1DiL",
-        "https://play-lh.googleusercontent.com/Tt3H-8weHlsilrAHjcXTQw3sdUvi1UDsbdqZPjYz3j_LrkmtAaC3yd6_o2tUy-9HCQnyiPKtDxTus55WpdP2iw",
-        "https://play-lh.googleusercontent.com/MJarrsDaWvkt9EmX5g8muaNRk8s5EF2uAAf9gZYlRDGhuW7SFwU_G5hJXZ37qtFVydEXB17j3Sxs9XE6yi6VwHA",
-        "https://play-lh.googleusercontent.com/QLXyXxnsKB-Sy3jivDL_gLA0FbU6y05700KHajXzIhmcV9IgKZV0P1hzrM6ecB8-btwu6z0Tbb-TlaoI0Syacg"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "com.aihaejwo.dsr_mortgage_lab",
-      "title": "주담대 DSR 계산기 - 주택담보·LTV·원리금",
-      "released": "2026-11-20T14:33:15Z",
-      "icon": "https://play-lh.googleusercontent.com/_BgrRpH248SW-Iz94QBRp4LV3lSsOq6g56dyrg-HTaE3LLxHtCU2zN79cY3GngodMNPBDj3cI4N6ZPT0ICzgFh8",
-      "developer": "aiHaejwo",
-      "description": "주담대 DSR 계산기는 주택 매수 및 자금 계획을 준비하는 실수요자를 위해 설계된 순수 오프라인 수식 모의 계산 도구입니다. 복잡한 총부채원리금상환비율(DSR), 스트레스 DSR 가산금리, 주택담보인정비율(LTV), 그리고 세 가지 상환방식별 월 납입액과 총이자를 한 화면에서 직관적으로 대조할 수 있습니다.\n\n■ 주요 기능 안내\n\n1. DSR · LTV 동시 한도 역산 및 필요 자기자본 산출\n• 세전 연소득, 주택 시세, 희망 금리, 만기(10~40년), 기존 신용·기타 부채의 연간 원리금을 입력하면 DSR 기준 한도와 LTV 기준 한도를 동시에 산출합니다.\n• 1금융권(DSR 40%) 및 2금융권(DSR 50%) 기준 선택은 물론, 스트레스 가산금리(0% / +0.75%p / +1.2%p / +1.5%p)와 LTV 비율(50% ~ 80%)을 칩 하나로 전환해 실제 가능한 예상 한도(둘 중 작은 값)와 필요 자기자본(현금)을 즉시 확인합니다.\n• 정밀 반원형 DSR 게이지 차트를 통해 기존 부채 비중과 신규 주택담보대출 비중을 시각적으로 점검할 수 있습니다.\n\n2. 원리금균등 · 원금균등 · 체증식 3대 상환방식 비교\n• 동일한 원금과 금리 조건에서 원리금균등, 원금균등, 체증식 상환의 첫 달 상환액, 최대 월 상환액, 총 상환이자를 나란히 비교합니다.\n• 연차별 누적 원금·이자 비중 스택 바 차트와 연차별 요약 및 월별 회차 상세 스케줄표를 제공합니다.\n\n3. 관심 주택 자금계획 로컬 저장 및 비교 공유\n• 여러 후보 매물의 시세와 자금 조건을 기기에 저장해 매물별 필요 현금, 월 예상 상환액, 심사 DSR 비율을 한눈에 비교하고 텍스트 리포트로 공유할 수 있습니다.\n• 금리 변동(-0.5%p / +0.5%p / +1.0%p) 스트레스 시나리오 비교표를 통해 향후 금리 변화에 따른 월 상환 부담 증감을 미리 점검할 수 있습니다.\n\n4. 회원가입 없는 100% 로컬 저장 및 개인정보 보호\n• 별도의 회원가입, 로그인, 계좌 연동 없이 모든 계산이 기기 내부에서 오프라인 수식으로 즉시 처리됩니다.\n• 입력한 소득, 자산, 매물 메모 데이터는 외부 서버로 전송되지 않으며, 설정 화면에서 언제든 영구 초기화할 수 있습니다.\n\n■ 비제휴 · 비중개 모의 계산 면책 안내\n• 본 앱은 정부·공공기관·금융기관을 대표하지 않으며, 대출 상품을 직접 판매하거나 모집·중개·알선하지 않는 순수 오프라인 수식 모의 계산 참고 도구입니다.\n• 산출된 결과는 일반적인 금융 수식에 기반한 참고치이며, 실제 금융거래 조건은 시점별 규제 및 각 금융회사의 세부 심사 기준을 통해 확인하시기 바랍니다.",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/xjgfkN-j6fgtfqP82PCjpNtU_BwyjjcnDUqE0a7hvXyTMtp8wU21GkZfqSh7UyoNLPfb4yWe4OeDeukaLW1X2A",
-        "https://play-lh.googleusercontent.com/lN1EoGutlxALiYaSRswLH64cgxyLujAoQCWYHi69SDmIMilAh7Fa2rtril7IQrXLrvsoXxPNYFmt2QgQN6hasw",
-        "https://play-lh.googleusercontent.com/iBTPJZEsFzaLWRPZUnV7jydFQJ0GVDZXHzsRvx3jKII3-RXbzeMr9xguR1zm5LUnvZq3TCIHG-nOa3-1hKuT5w",
-        "https://play-lh.googleusercontent.com/0hxmzrW-EE5bxYzLLWhdNisTJzZjy4N8mIgNHfV_U1_WdBAfsqW77m02jsslsumrWbQgaZ26t9iAyv5U6mDvag",
-        "https://play-lh.googleusercontent.com/va1eg-dq5kEFR9J2pzrtedNSZ15bsho2f43zrciP6m4zTIbqNDr341_pr0S6Q5k-VfazJb8Yql6PgvQQI8DE",
-        "https://play-lh.googleusercontent.com/wkLjquomcxLUZWJ7_of29UOOxDNiaOla0vJwKpgKowB8F0P8a0fQUQBiFt2x0MN0T52sxBtNshTM0PxHesMMMQ"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "com.aihaejwo.pension_irp_sim",
-      "title": "연금 노후 설계기 - 국민연금·퇴직연금·IRP",
-      "released": "2026-11-20T14:21:12Z",
-      "icon": "https://play-lh.googleusercontent.com/ueV8lMVV-dp-8pflkjLTz3w5Y6JQ7NFHd8WVpLrz-jZwHXR3MHqN4l9Oopx_fHrwWy6mPEOpe5Q-SHH__TPgCg",
-      "developer": "aiHaejwo",
-      "description": "은퇴 후 매월 실제로 쓸 수 있는 노후 현금흐름은 얼마일까요? [연금 노후 설계기 - 국민연금·퇴직연금·IRP]는 대한민국 3층 노후보장 체계(공적연금·퇴직연금·개인형IRP)를 한 화면에서 통합 시뮬레이션하고, 국민연금 수령시기별 손익분기 나이와 사적연금 인출 세율까지 정밀하게 점검할 수 있는 오프라인 노후 설계 도우미입니다.\n\n■ 주요 기능 안내\n\n1. 3층연금 통합 현금흐름 & 실질 구매력(현재가치) 진단\n• 현재 나이, 은퇴 희망 나이, 기대 수급 종료 나이 및 희망 노후 월 생활비를 설정하여 은퇴 후 월 예상 수령액을 통합 산출합니다.\n• 1층(국민연금 예상 월액) + 2층(퇴직연금 적립금·연간 추가 적립·수익률·수령연수) + 3층(개인연금·연금저축·IRP 적립금 및 월 추가납입액) 구성 비중을 직관적인 스택 차트로 확인합니다.\n• 물가상승률 반영 현재가치(실질 구매력) 토글을 지원하여 오늘 물가 기준의 체감 구매력과 은퇴 시점 명목 수령액을 즉시 비교할 수 있으며, 목표 생활비 부족 시 은퇴 전 추가로 필요한 월 IRP 적립액을 역산해 안내합니다.\n\n2. 국민연금 조기수령 vs 정상수령 vs 연기수령 손익분기 분석\n• 정상 수령 개시 연령(61세~65세) 기준 예상 월 연금액을 바탕으로 조기노령연금(1~5년 앞당김, 연 6.0%씩 최대 30% 감액)과 연기연금(1~5년 늦춤, 연 7.2%씩 최대 36% 증액) 선택지를 동시에 비교합니다.\n• 60세부터 95세까지의 연령별 누적 수령액 교차 선 그래프와 정확한 역전 시기(만 나이·개월 단위 손익분기점)를 자동으로 산출합니다.\n\n3. 연금저축·IRP 세액공제 및 연 1,500만원 인출 절세 시뮬레이터\n• 납입 단계: 총급여 구간(5,500만원 이하 16.5% / 초과 13.2%)에 따라 연금저축(연 600만원 한도) 및 IRP 합산 연 900만원 한도 내 연말정산 예상 세액환급액을 계산합니다.\n• 인출 단계: 은퇴 후 사적연금 과세대상 인출액이 연 1,500만원(월 125만원) 이하일 때 적용되는 연령별 저율 분리과세(55~69세 5.5%, 70~79세 4.4%, 80세 이상 3.3%)와 한도 초과 시 적용되는 16.5% 분리과세 세액을 비교하여 적정 월 인출 한도를 안내합니다.\n\n4. 시나리오 로컬 보관함 및 철저한 개인정보 안전성\n• 회원가입, 로그인, 공동인증서 및 계좌 연동 없이 모든 입력 정보와 시나리오는 오직 사용자 기기 내부(로컬 저장소)에만 저장됩니다.\n• 부부 플랜, 조기은퇴 플랜 등 여러 시나리오를 저장·비교하고 텍스트 요약본으로 간편하게 공유할 수 있으며, 언제든 모든 데이터를 즉시 영구 초기화할 수 있습니다.\n\n■ 비제휴 및 모의계산 면책 안내\n• 본 앱은 국민연금공단, 금융감독원 등 정부·공공기관 및 금융기관을 대표하거나 제휴하지 않는 민간 오프라인 모의 계산 참고 도구입니다.\n• 본 앱은 대출 모집·중개·알선이나 특정 금융상품 가입·투자 권유를 제공하지 않습니다. 실제 연금 수령액과 세액은 개인별 가입 이력 및 관련 법령 개정에 따라 달라질 수 있으므로 국민연금공단 및 통합연금포털에서 최종 확인하시기 바랍니다.",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/AQyxdjPa_cqOkrB9Cgyi-IGDlfAoihUOS6IDLeH2mboGqgjeygqsX8wHfQ4gZlrZ5K3kFjNkr_HLTYghAJ1LIYs",
-        "https://play-lh.googleusercontent.com/xu_lkry_WaHVvK1UKfi3f9klj7cIjfndpw2T8Cacmf5hUd3yJL0_Xi1ZeWZcRq1Pl03CAJc2wLSeHJgoWAngKA",
-        "https://play-lh.googleusercontent.com/iLo7Aeh_dh1u5DsniwxszGc8Z6eTteWjFOsR__WBZp9SFjGcbuJguENgB_UzrEe7484fTM3BLQFlJCEVF71U",
-        "https://play-lh.googleusercontent.com/CtxGpumNoD1DQzoPoZ9jxrrLIBKtoPSSpYGpZzwz_5IApQ1-QbE2LcLjuRurhnOGUxewp5WTj1WsK1cSSxesdw",
-        "https://play-lh.googleusercontent.com/Ew-U5r85wOcIcvs4FQBr_1WiCgmLNaScSwCL_Q37MyjHUS6gE6vdEA0Z5pSpTDgerNWUgLaZDeCejey04Xit0w",
-        "https://play-lh.googleusercontent.com/38ICXWoeaXAQ5olM6KcOaud4OaS-9ToGuPin1v933Zdrer1c6qzAGxGtoTqEFF1qIW6W2hp9mnCy5qxZfwBySA"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "com.aihaejwo.cheongyak_pass",
-      "title": "청약 가점 플래너 - 무주택·부양가족·특공 진단",
-      "released": "2026-11-20T13:27:02Z",
-      "icon": "https://play-lh.googleusercontent.com/xp2VrV-VvAjaZLlSjlnrL1En1SKJc8cBfupWCdDBlo4XKBJk9uHQ5W_fumH-cUYC2d5HdQNe8LOFCL7BWm4RQU0",
-      "developer": "aiHaejwo",
-      "description": "복잡하고 자주 바뀌는 아파트 청약 제도, 내 점수와 지원 가능한 특별공급 유형을 한눈에 점검하세요.\n\n청약 가점 플래너는 주택공급에 관한 규칙(별표 1 등) 산정 기준을 바탕으로 84점 만점 청약 가점을 오차 없이 계산하고, 신생아(출산가구)·신혼부부·생애최초·다자녀 특별공급 자격부터 관심 분양 단지의 예상 커트라인 비교까지 기기 내에서 안전하게 설계할 수 있는 오프라인 청약 전략 도구입니다.\n\n■ 주요 기능 안내\n\n1. 84점 만점 청약 가점 정밀 계산 (무주택 · 부양가족 · 청약통장)\n• 무주택기간(최대 32점): 만 30세 미만 미혼 0점 자동 판정 및 출생·혼인·주택처분 연도 기반 무주택 연수 자동 계산 도우미를 제공합니다.\n• 부양가족 수(최대 35점): 본인 제외 배우자(분리세대 포함), 미혼 자녀, 3년 이상 동일 주민등록등본 등재 직계존속 요건을 체크하여 부적격 실수를 예방합니다.\n• 청약통장 가입기간(최대 17점): 성인 가입기간과 개정된 미성년 납입 인정기간(최대 5년·60개월), 배우자 통장 보유기간 합산 가점(최대 3점, 총 17점 한도)을 반영합니다.\n• 3축 레이더 및 아크 게이지 차트로 영역별 달성도와 부족 점수 보완 포인트를 직관적으로 확인하고 텍스트 리포트로 공유할 수 있습니다.\n\n2. 특별공급 및 일반공급 지원 가능 유형 진단\n• 세대주 및 무주택 세대구성원 여부, 혼인 기간(7년 이내 등), 최근 2년 이내 출산 자녀 유무(신생아 특공), 미성년 자녀 수(2명 이상 다자녀 완화 기준 반영), 생애최초 및 5년 이상 소득세 납부 실적, 가구원수별 월평균 소득 구간을 설정하면 출산가구·신혼부부·생애최초·다자녀·일반공급(가점/추첨) 중 지원 가능한 전형과 핵심 유의사항을 즉시 분류해 드립니다.\n\n3. 관심 분양 단지 커트라인 비교 노트 및 5개년 가점 상승 타임라인\n• 관심 있는 분양 단지의 지역, 전용면적(59㎡, 74㎡, 84㎡ 등), 예상 분양가, 예상 당첨 커트라인 점수를 기록하고 내 현재 가점과의 차이(안정권 / 경합권 / 추첨제 공략 권장) 및 지역별 최소 예치금을 함께 비교합니다.\n• 향후 5년간 무주택기간(+2점/년)과 통장 가입기간(+1점/년) 자동 상승 타임라인 시뮬레이션을 통해 목표 단지 커트라인 도달 시점을 예측할 수 있습니다.\n\n4. 청약 부적격 실수 방지 체크리스트 및 예치금 기준표\n• 세대주 분리, 등본 등재기간, 배우자 당첨 이력, 자산 기준 등 실전에서 자주 발생하는 부적격 예방 체크리스트와 지역별·전용면적별 민영주택 청약 예치금 요약표를 수록했습니다.\n\n■ 개인정보 보호 및 오프라인 로컬 저장 원칙\n• 회원가입, 로그인, 공동인증서 연동, 외부 서버 전송 없이 모든 입력 데이터와 단지 노트는 오직 사용자의 스마트폰 내부(로컬 저장소)에만 저장되며 설정 화면에서 언제든 즉시 영구 초기화할 수 있습니다.\n\n■ 비제휴 및 모의 계산 참고 안내\n• 본 앱은 정부, 국토교통부, 한국부동산원(청약홈) 또는 금융기관을 대표하거나 제휴하지 않으며, 대출 모집·중개·알선이나 투자 권유를 제공하지 않는 오프라인 모의 계산 참고 도구입니다.\n• 실제 청약 신청 자격과 당첨 가점 산정은 입주자모집공고일 기준 관계 법령 및 해당 단지의 공식 입주자모집공고문을 반드시 확인하시기 바랍니다.",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/oSq9vMTg_YBQucdvRoudqpuTKDgsNDeRp8oSV5wUd4Y1wOkuv3r87YX-O7E9MMSzQa1MdA-KVb3tHmvKhmE5",
-        "https://play-lh.googleusercontent.com/0-2y7N20ssfZxxNt0jfzUJpiwQHRFXD_0fwmziyR699vRVpSAmNPPbzS0FpgZFBRqxUSZ7wFR2-cVW6ajgMg8hY",
-        "https://play-lh.googleusercontent.com/kiAa5MxYICUsvJacCTcOF0A1d6K1tHoNGj_zh_tyT7eBw5rO72whWKV82xcmrzzHtMCKPyhlZYER0Wc9p4k",
-        "https://play-lh.googleusercontent.com/fZRQSGt64EGDW8gE3Qp9EKp53SmUPav-Ox1BKbdcOSyTZjn8n-zjc56apy0t5IALwCSaLFyurvACVtUuxCQk",
-        "https://play-lh.googleusercontent.com/LEGYP6eF-ffJU-J89Tcy3f1CCHy7AN0MCR3ZPX2bRPzzK3kaKeuv5DiIxBTO_tQcEUP009IoXuoql2f9XMYI",
-        "https://play-lh.googleusercontent.com/M3l9wgq5Ame2coR5ig7Z4hs8xnRvdOJgf78Gs7tOyxAxSYlcAd8aZGduL_nOfwILF0Pcb--9ItFUuR7xeLFW3g"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "com.yuwolfilm.geuttae",
-      "title": "그때 그사건 - 잊혀진 사건의 그 후",
-      "released": "2026-11-20T10:32:22Z",
-      "icon": "https://play-lh.googleusercontent.com/iXnGCW6yArtSH8LUefm2jmmYI2YevWJ-eo76UFa27IiU1fIqp14ul56qveix_F5ZhT3KVvIwxthRZBQJZEIoYg",
-      "developer": "YuwolFilm",
-      "description": "잊혀진, 그리고 우리가 기억해야 할 그 사건.\n\n뉴스는 지나가도 사건은 끝나지 않았습니다.\n'그때 그사건'은 사건의 처음부터 지금까지, 그 후를 끝까지 기록합니다.\n\n■ 기억나는 낱말로 찾아요\n\"땅콩회항\", \"버닝썬\", \"가습기 살균제\"처럼 기억나는 낱말만 적어도 기록된 사건을 찾아 드려요.\n\n■ 사건 순위\n지금 많이 찾는 사건을 실시간·이번 주·이번 달·올해 순위로 보여 드려요.\n\n■ 인물·주제로 한 번에\n인물 이름이나 마약·음주운전·참사·비리 같은 태그로 관련 사건·재판·근황을 모아 볼 수 있어요.\n\n■ 출처가 붙은 기록\n국내외 언론과 법원·정부 공식 기록을 바탕으로 정리해요. 항목마다 '확인됨 / 보도됨' 표시와 출처 링크가 붙어 있어요. 확인되지 않은 소문은 싣지 않고, 무죄·불기소 같은 결과도 빠짐없이 기록합니다.\n\n■ \"그래서 지금은?\"\n재판 결과, 복귀, 법 개정, 최근 근황까지 지금 상황을 몇 줄로 정리해 드려요.\n\n■ 경제 일정\n고용·물가·금리 결정처럼 주요 지표 발표 일정을 공식 기관 발표를 기준으로 보여 드리고, 지표가 무엇을 뜻하는지 쉽게 설명해 드려요.\n\n■ 그날을 기억하며\n몇 년 전 오늘 있었던 사건을 첫 화면에서 다시 만나요. 여러 생명을 잃은 참사에는 조용히 '기억합니다'를 표시합니다.\n\n■ 지금 일어나는 사건도 기록\n새 보도가 나오면 진행 중인 사건에 다음 전개를 덧붙여요.\n\n■ 기억하기\n사건을 '기억하기' 해두면 새 소식이 생길 때 알림을 보내 드려요.\n\n■ 내 취향대로\n보고 싶은 주제만 골라 순서를 바꾸고, 내 나라를 정하면 '국내' 사건이 그 나라 기준으로 나와요. 화이트·그레이·블랙 테마와 포인트 색상, 31개 언어를 지원해요. 로그인하면 웹(geuttae.net)과 설정이 맞춰져요.\n\n※ 공개 보도·공식 기록을 바탕으로 AI가 정리한 기록이에요. 중요한 내용은 출처에서 꼭 확인해 주세요. 잘못된 내용이나 정정·삭제 요청은 앱의 '잘못된 내용 신고' 또는 106ljune@gmail.com 으로 보내 주세요.\n----",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/wOuongdZW6tcmmYXx_IG93RZdrCVm47rZBVF2wFnCFYDsCeEHDeIKpZhWYk2zPq7NaUeRhudNzZvgFq3x_ZCLA",
-        "https://play-lh.googleusercontent.com/eyZEE5H_PDRQBjKiam1ulmWqgfzjvXzlSVgFBYABGzPSlPA3wR2AK9CpI3fYrTsBMTjukRX0OtyfWC_KplmuKkE",
-        "https://play-lh.googleusercontent.com/W51RJCeN9NZx_ajDixQZKXnCJ2BAmTu5Kj08N68nbtA3fU45wVkrtAn45qUZy91mc2gQTmO9XVosXFiKM-K2QRw",
-        "https://play-lh.googleusercontent.com/lTT0C9vi2HoJ46LD2x8WMRKYr6lQZjpv5XU_JVmWGltAgbD2jUToNzn7kc0cUyU_o7PCLKljSeHeBxxQ4DCq",
-        "https://play-lh.googleusercontent.com/XlR3WvKWtKz2_Lt_EZgpmm61zG_JWu2vBdO3iOAijKDVYFnCZw_uLLAOEwb1D7VJZuwD_Rs-lYu3tzlFPz6j",
-        "https://play-lh.googleusercontent.com/5ktU0NvUhIUBfnDFJciqziEeLeQSWd8Bclk5BxS-Ds_xi79zXZFsOAQIWG3QFY-_BnJBr1b_NMoQKFzNGRcGaA"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "com.gyeonggipay.guide",
-      "title": "경기지역화폐 누리집 가이드",
-      "released": "2026-11-20T04:12:42Z",
-      "icon": "https://play-lh.googleusercontent.com/2vdyoE0cZRyudEV9qoknPXTJgPBuWj_ujA1Lei5dwPT9wllRlRwKUBmb07ZzGUr31J0W_0jIpTY2wj09F7GO_w",
-      "developer": "달인의 정보",
-      "description": "경기지역화폐 정보 가이드 - 발급·캐시백·사용처 안내\n\n경기지역화폐를 쓰고 싶은데 발급 방법이나 혜택이 헷갈리셨나요? 경기지역화폐 정보 가이드는 경기도 내 31개 시·군에서 발행하는 지역화폐의 카드 발급 방법, 충전 시 받을 수 있는 캐시백(인센티브) 혜택, 이용 가능한 사용처 기준을 누구나 쉽게 이해할 수 있도록 정리해서 알려드리는 정보 안내 앱입니다.\n\n▶︎ 경기지역화폐 정보 가이드가 제공하는 주요 정보\n\n지역화폐 카드 발급 및 신청 절차 안내\n시·군별 충전 캐시백(인센티브) 비율 안내\n사용 가능 업종 및 사용 제한 업종 안내\n착한가격업소 등 추가 캐시백 혜택 안내\n잔액 조회 및 결제 매장 확인 방법 안내\n▶︎ 이런 정보를 확인하실 수 있어요 경기지역화폐는 백화점, 대형마트, 기업형 슈퍼마켓, 유흥업소 등을 제외한 지역 내 소상공인 매장에서 사용할 수 있는 지역사랑상품권입니다. 카드를 충전하면 거주하시는 시·군에 따라 서로 다른 비율의 캐시백이 지급되며, 가평군이나 연천군처럼 비교적 높은 비율을 제공하는 지역도 있습니다. 이 앱에서는 이러한 시·군별 캐시백 비율과 함께, 착한가격업소 이용 시 받을 수 있는 추가 캐시백 혜택, 카드 발급 시 필요한 절차, 결제 가능한 사용처를 조회하는 방법을 정리해서 안내해드립니다.\n\n▶︎ 상황별로 필요한 정보를 확인하세요 ∙ 지역화폐를 처음 발급받으시는 분 : 카드 발급 및 신청 절차 안내 ∙ 거주 지역의 혜택이 궁금하신 분 : 시·군별 캐시백 비율 비교 정보 ∙ 어디서 쓸 수 있는지 궁금하신 분 : 사용 가능 업종 및 매장 조회 방법 안내 ∙ 더 많은 혜택을 받고 싶으신 분 : 착한가격업소 추가 캐시백 안내 ∙ 잔액이 궁금하신 분 : 잔액 조회 방법 안내\n\n▶︎ 공식 경기지역화폐 홈페이지 및 앱으로 바로 이동해 실제 카드 발급, 충전, 결제를 진행하실 수 있도록 안내해드립니다.\n\n[ 이용 안내 ] 이 앱은 경기도 또는 경기지역화폐를 공식 운영하는 기관이 아닙니다. 공개된 정보를 이용자가 보다 쉽게 이해할 수 있도록 정리해서 제공하는 비공식 정보 안내 앱이며, 실제 카드 발급, 충전, 결제, 캐시백 지급은 반드시 공식 경기지역화폐 홈페이지 또는 공식 앱을 통해 진행하셔야 합니다.\n\n[ 정보 출처 ]\n\n경기지역화폐 공식 홈페이지 (https://gmoney.or.kr)\n경기도 지역화폐 안내 (https://www.gmr.or.kr)\n[ 면책 사항 ] 이 앱은 경기도 또는 경기지역화폐 운영기관을 대표하거나 대신하지 않는 비공식 정보 안내 앱입니다. 공개된 정보를 바탕으로 이용자의 이해를 돕기 위해 제작되었으며, 정보의 정확성이나 최신성에 대해 법적 책임을 지지 않습니다. 실제 캐시백 비율, 사용처, 혜택 조건은 시·군별로 다르고 수시로 변경될 수 있으므로, 반드시 공식 홈페이지나 앱을 통해 최신 정보를 확인하시기 바랍니다.",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/byEq4FUYOhd2D9xGfkv8Fou8RM3jgehnraA4-ujhlDOS3_Ono3UPdcKKn2zN4rK1TDekS96dDHImZ7hp39Wfxw",
-        "https://play-lh.googleusercontent.com/VXYgGruUEOtEGTj0AEBz0PlGTTG8MrjIdG11sOrUn_7fjlO1iqZbSs95VMEoro8yfSJWRGqoQzz5e6-OAL9gdg",
-        "https://play-lh.googleusercontent.com/9B7zy3j2lNjGwoHjIte6uabVNoQ5Egw3xLHJkIAaEPcVZvi_7nBdx5Mud-3Mdu1M9P7EB11bFBUQaA_R9CDbeQ",
-        "https://play-lh.googleusercontent.com/_EcvfxtWrB3IPW_Jw92Op7dzUqzV_l2wvX6RtXrLWVI5ZUhOkkpAAmDMsYPu1UZD9qMXMD41dg6U33vieeFLZg",
-        "https://play-lh.googleusercontent.com/_EcvfxtWrB3IPW_Jw92Op7dzUqzV_l2wvX6RtXrLWVI5ZUhOkkpAAmDMsYPu1UZD9qMXMD41dg6U33vieeFLZg",
-        "https://play-lh.googleusercontent.com/9B7zy3j2lNjGwoHjIte6uabVNoQ5Egw3xLHJkIAaEPcVZvi_7nBdx5Mud-3Mdu1M9P7EB11bFBUQaA_R9CDbeQ"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "kr.kimvibe.emotiondiary",
-      "title": "감정 일기",
-      "released": "2026-11-20T02:03:17Z",
-      "icon": "https://play-lh.googleusercontent.com/_3okllhmzN8-fa0aBgiONqOHd_DmTj5KCWCxJPVFwfSFeLQmPNaDei7Fzme9BGTRc_82ls-0R27lFWr4RUFi",
-      "developer": "minhanee",
-      "description": "감정 일기는 오늘의 마음을 짧게 기록하고 돌아볼 수 있는 개인 감정 일기 앱입니다.\n\n주요 기능\n- 오늘의 감정 단어를 선택하고 기록할 수 있습니다.\n- 짧은 메모로 하루의 마음을 남길 수 있습니다.\n- 위치 권한을 허용하면 현재 지역의 날씨 정보를 함께 저장할 수 있습니다.\n- 원하는 시간에 하루 1회 감정 체크인 알림을 받을 수 있습니다.\n- 기록은 기기 안에 저장되어 개인적으로 관리할 수 있습니다.\n\n이런 분께 추천합니다\n- 하루의 기분을 간단히 남기고 싶은 분\n- 감정 변화를 차분히 돌아보고 싶은 분\n- 복잡한 기능보다 빠르고 쉬운 기록 앱을 원하는 분\n\n감정 일기는 사용자가 자신의 하루를 더 편안하게 돌아볼 수 있도록 만들어졌습니다.\n----",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/6frTihd2sObr8eMMtxj9XQBs5ZD8XqrHUkQG2y0lJZ16L2I0rJiOylHG-T7bLNUzh0nu8gRDuAv1Pg1_qVS4Ig",
-        "https://play-lh.googleusercontent.com/c3WEH--tDcEBq4shxk0otgmLahEy94R7IO8JKUAuSLXUStRxgNjxTPyjfwz5FjoI9_yBBDIox_HM3TnzTGxC5g",
-        "https://play-lh.googleusercontent.com/NZaFAWNTnpQB0ba51NCcZ8tX1NpaUf43IBl-XCU_BTkxwaJLZrD40unXvzS3P3hgySP8-ag4fAbWncxVh5G18g",
-        "https://play-lh.googleusercontent.com/pu1RyznQByqPk08sDo06HO8QzlRKQ0hq-W3x_IdmUa-joDmVV7wto0XTlihYAZDz6B6Gyw0vVdhtPI0rQC406g"
-      ],
-      "details_version": 2
-    },
-    {
-      "id": "com.awesomedev.dronesim",
-      "title": "어썸 드론 연습장",
-      "released": "2026-11-20T00:19:09Z",
-      "icon": "https://play-lh.googleusercontent.com/6qxUEyfu3uhj0IWA0fnd0GY85awrtJ14V5uTrUGvygeo934XOhevYRe_WLAnFajYsJRc3jBWAf4ZGydjneQYew",
-      "developer": "AWESOME Dev.",
-      "description": "첫 호버부터 FPV 레이싱까지 — 그냥 날리는 놀이터가 아니라 비행 학교예요.\n\n어썸 드론 연습장은 진짜 드론을 날리고 싶은 사람을 위한 비행 시뮬레이터예요. 모든 과제는 실제 드론으로 그대로 옮겨 가는 기술을 연습하도록 만들었어요: 스틱 감각, 스로틀 조절, 방향 감각, 바람, 착륙.\n\n■ 비행 교육 과정 — 레벨 1~5\n· 레벨 1 입문: 촬영용 드론으로 GPS 제자리 비행·착륙\n· 레벨 2 기초: 산들바람 속 8자 비행·게이트\n· 레벨 3 GPS 없이: Angle 모드 — 높이와 위치를 손으로 유지\n· 레벨 4 바람 속에서: 돌풍 부는 장애물 코스\n· 레벨 5 FPV 파일럿: 실내 훕, Acro 게이트, 레이스\n· 과정을 마치면 「이제 이런 드론을 사도 돼요」 평가를 받아요.\n\n■ 실제 같은 비행 물리\n· 500Hz 물리: 모터 반응 지연, 배터리 전압 처짐, 지면 효과, 프롭 워시\n· 바람·돌풍 4단계\n· 비행 모드: 자동(GPS)·Angle·Horizon·Acro, 베타플라이트식 레이트·엑스포\n· 성격이 다른 드론: 촬영용, 5인치 레이서, 65mm 타이니 훕, 직접 조립한 드론\n\n■ 휴대폰에서 바로\n· 조종기가 없어도 화면 터치 스틱으로 바로 날 수 있어요\n· USB OTG로 RC 조종기(EdgeTX/OpenTX — RadioMaster·Jumper·FrSky 등)를 꽂으면 자동 보정\n· 블루투스 게임패드도 지원\n· 120Hz 화면에서 부드럽게\n\n■ 맵과 과제\n· 들판, 네온 레이스 파크, 실내 체육관, 숲, 해변, 설산, 도시 옥상, 2.4km 넓은 계곡\n· 드론 자격증 실기 연습(연습용 채점), 정찰 비행 훈련\n· 프리스타일: 플립·롤·콤보 점수\n· 모든 과제에 금·은·동 메달, 트랙 편집기로 내 코스 만들기\n· 가시권·따라가기·FPV 카메라, 리플레이\n\n* 실기 채점은 연습용 기준이에요. 실제 시험은 한국교통안전공단 기준을 따릅니다.\n----",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/GruyqTdmmcpLG_iRyHjNnIxGnns8lZg6PKwavGA4dDjN-nBq0JjAj6EqRq9akbFEnejNL_VobOQCBMRGPDs5",
-        "https://play-lh.googleusercontent.com/95SVFOublQDAAU4Y4aLaSxiT8hciGi1lsNH4kIitlgTnRu8fb7Rbgvgw9gRwxniwTFU6vrkUQefj2RIYFr3GDQ",
-        "https://play-lh.googleusercontent.com/ZslM8y4Iqbm4DXWUU5XPzy-DZHS7qo_SL0AEKFErkq05IN4tGeA1aBn9PQUgQhBxfKGsgiD-ka81NCRPhFAoXw",
-        "https://play-lh.googleusercontent.com/lMQCrw0I8l5JBdEvQEadRSfo3ZoZ17vxEoQNxO5Kz9m2v4DSY0zpYk6rO1dm64oSVCJh6J7zDq1SB4q0p4gkwRs",
-        "https://play-lh.googleusercontent.com/p-En6QrIIg9Bp4V3rxFdyGUaJA7rK_tejXOlQjKcqmha8s2gshDzt90dRWH3qGnnNRwR9YJW7U-gPbLFRnig5A",
-        "https://play-lh.googleusercontent.com/Gd0r3_EVXWxsXn3YSut8mMs2fSgTNv6KloW0iHiCNn7eEWZ6DKIPa0wF0eE3-N2Bw5gTcgwn3m735SQRwtJu"
+        "https://play-lh.googleusercontent.com/DFAuoHPPoZdmXD88_zXYCA3ArpgAQZ3JVZo5LsluxJPpu7PRaOviZioISDmzK7m_PM3cMkf9fr-tWZKS_IAm",
+        "https://play-lh.googleusercontent.com/K_nWse3ljOEonzw7Ls3PcOOUv4mfjxZt6qldeUKUAy_Gn86B8I5TOTNfDLYE0BOmCmb0MxxlIALZ-efLuXpDr10",
+        "https://play-lh.googleusercontent.com/-o6jzI5USUjamfw37s8_Tkk5-Y4bspradvQxVMzDzNaAuu4l2e6CXLfQ6qbuh4HqZph9JLHKAu-eQgPRv7SH",
+        "https://play-lh.googleusercontent.com/WD1Bqrz-t0VkPmUmL61J2wJ2sYDY-Xl-ecJAtl-WrBpBXULgFAYICasxgJx1-3Nu2dV2QnbA4UFqGfb_VJiA",
+        "https://play-lh.googleusercontent.com/iHdrOXOE72I8UJw5ysgqwysGRzHv6E7V30cMQ87QQhlSviqJo33J5Pbs6whw1C7ewGhBbEdwnLmovSsQ9PIEHw",
+        "https://play-lh.googleusercontent.com/fb75fivGzoE-YUJryRgjaTYHXAUl2kqufW1Cb8aJ03aZybQPDTF4Bcuj5GQ0YHlu_MqhnrncoHHvQniJROdkOQ"
       ],
       "details_version": 2
     }
